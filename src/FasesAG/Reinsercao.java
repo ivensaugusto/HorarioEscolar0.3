@@ -6,7 +6,7 @@ import Geral.Cromossomo;
 import Geral.OrdenaPorFitness;
 
 public class Reinsercao {
-	
+
 	/**
 	 * Localiza o cromossomo com maior fitness e substitui por um filho
 	 * @param lc
@@ -16,19 +16,16 @@ public class Reinsercao {
 	public static ArrayList<Cromossomo> maiorFit(ArrayList<Cromossomo> lc, Cromossomo c) {
 		OrdenaPorFitness ordenacao = new OrdenaPorFitness();
 		Collections.sort(lc, ordenacao.reversed());
-
 		if(lc.get(0).getFitness() > c.getFitness())
 		{
 			lc.set(0, c);
 		}
-
 		Collections.sort(lc, ordenacao);
 		return lc;
 	}
 
 	public static ArrayList<Cromossomo> piorPai(ArrayList<Cromossomo> lc, Cromossomo pai, Cromossomo filho) {
 		//TODO Implementar o pior pai
-
 		Collections.sort(lc, new OrdenaPorFitness());
 		return lc;
 	}
@@ -42,6 +39,4 @@ public class Reinsercao {
 		}
 		return nl;
 	}
-	
-	
 }
