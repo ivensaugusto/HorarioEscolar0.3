@@ -1,0 +1,80 @@
+Encontrou uma melhoria apos PT2.513S tempo
+Cromossomo:
+|TE2:01|Emp:01|PS1:01|Emp:15|RC1:01|
+|TE2:01|BD2:16|Emp:01|RC1:10|RC1:01|
+|LP1:01|LP1:12|BD2:18|PS1:18|PS1:01|
+|BD2:11|BD2:01|LP1:11|LP1:18|RC1:18|
+Fitness: 157
+
+Encontrou uma melhoria apos PT2.653S tempo
+Cromossomo:
+|TE2:01|Emp:01|PS1:01|Emp:15|RC1:01|
+|TE2:01|BD2:16|Emp:01|RC1:10|RC1:01|
+|LP1:01|LP1:12|BD2:18|PS1:18|PS1:01|
+|BD2:11|BD2:01|LP1:11|LP1:18|RC1:18|
+Fitness: 157
+
+Encontrou uma melhoria apos PT2.731S tempo
+Cromossomo:
+|TE2:01|Emp:01|PS1:01|Emp:15|RC1:01|
+|TE2:01|BD2:16|Emp:01|RC1:10|RC1:01|
+|LP1:01|LP1:12|BD2:18|PS1:18|PS1:01|
+|BD2:11|BD2:01|LP1:11|LP1:18|RC1:18|
+Fitness: 157
+
+Encontrou uma melhoria apos PT2.872S tempo
+Cromossomo:
+|TE2:01|Emp:01|PS1:01|Emp:15|RC1:01|
+|TE2:01|BD2:16|Emp:01|RC1:10|RC1:01|
+|LP1:01|LP1:12|BD2:18|PS1:18|PS1:01|
+|BD2:11|BD2:01|LP1:11|LP1:18|RC1:18|
+Fitness: 157
+
+Encontrou uma melhoria apos PT3.231S tempo
+Cromossomo:
+|TE2:01|Emp:01|PS1:01|Emp:15|RC1:01|
+|TE2:01|BD2:16|Emp:01|RC1:10|RC1:01|
+|LP1:01|LP1:12|BD2:18|PS1:18|PS1:01|
+|BD2:11|BD2:01|LP1:11|LP1:18|RC1:18|
+Fitness: 157
+
+Encontrou uma melhoria apos PT3.277S tempo
+Cromossomo:
+|TE2:01|Emp:01|PS1:01|Emp:15|RC1:01|
+|TE2:01|BD2:16|Emp:01|RC1:10|RC1:01|
+|LP1:01|LP1:12|BD2:18|PS1:18|PS1:01|
+|BD2:11|BD2:01|LP1:11|LP1:18|RC1:18|
+Fitness: 157
+
+Encontrou uma melhoria apos PT3.309S tempo
+Cromossomo:
+|TE2:01|Emp:01|Emp:01|LP1:01|RC1:01|
+|PS1:17|BD2:16|LP1:15|PS1:11|RC1:01|
+|BD2:13|Emp:11|LP1:11|Emp:10|PS1:01|
+|BD2:11|BD2:01|RC1:01|RC1:11|PS1:01|
+Fitness: 136
+
+Encontrou uma melhoria apos PT3.605S tempo
+Cromossomo:
+|TE2:01|Emp:01|Emp:01|LP1:01|RC1:01|
+|PS1:17|BD2:16|LP1:15|PS1:11|RC1:01|
+|BD2:13|Emp:11|LP1:11|Emp:10|PS1:01|
+|BD2:11|BD2:01|RC1:01|RC1:11|PS1:01|
+Fitness: 136
+
+Encontrou uma melhoria apos PT3.636S tempo
+Cromossomo:
+|TE2:01|Emp:01|Emp:01|LP1:01|RC1:01|
+|PS1:17|BD2:16|LP1:15|PS1:11|RC1:01|
+|BD2:13|Emp:11|LP1:11|Emp:10|PS1:01|
+|BD2:11|BD2:01|RC1:01|RC1:11|PS1:01|
+Fitness: 136
+
+Encontrou uma melhoria apos PT3.667S tempo
+Cromossomo:
+|TE2:01|Emp:01|Emp:01|LP1:01|RC1:01|
+|PS1:17|BD2:16|LP1:15|PS1:11|RC1:01|
+|BD2:13|Emp:11|LP1:11|Emp:10|PS1:01|
+|BD2:11|BD2:01|RC1:01|RC1:11|PS1:01|
+Fitness: 136
+

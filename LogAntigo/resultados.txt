@@ -1,0 +1,23 @@
+Resultados:
+
+[Cromossomo:
+|TE2:01|Emp:01|Emp:01|LP1:01|RC1:01|
+|PS1:17|BD2:16|LP1:15|PS1:11|RC1:01|
+|BD2:13|Emp:11|LP1:11|Emp:10|PS1:01|
+|BD2:11|BD2:01|RC1:01|RC1:11|PS1:01|
+Fitness: 136
+
+]
+
+Configuracao:
+ProbMutacao=1, nGensMutados=2,
+nParticipantes=32, populacao=2000,
+maxCiclos=2000, fitnessAlvo=30
+
+Quantidade de ciclos: 10
+Quantidade de resultados: 1
+Melhor fitness: 136
+Foram detectados 0 clones.
+Foram detectadas 0 mutacoes.
+Tempo Inicial 2018-11-04T17:50:34.073Z
+Tempo Final 2018-11-04T17:50:37.740Z 

@@ -1,0 +1,13 @@
+[Cromossomo:
+TE2: 1|LP1:17|Emp: 1|LP1: 1|RC1: 1|
+TE2: 1|Emp: 1|PS1: 1|RC1:10|RC1: 1|
+LP1: 1|BD2:16|RC1: 1|BD2: 1|BD2:13|
+LP1: 1|BD2: 1|Emp:12|BD2: 1|BD2:16|
+Fitness=98]
+
+Configuracao:
+ProbMutacao=1, nGensMutados=1, nParticipantes=16, populacao=4000, maxCiclos=500, fitnessAlvo=105]
+
+Quantidade de ciclos: 108
+Quantidade de resultados: 1
+Melhor fitness: 98

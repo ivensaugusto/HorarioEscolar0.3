@@ -1,0 +1,125 @@
+package Geral;
+
+import java.time.Duration;
+
+public class Configuracao {
+	public static final int VALOR_SLOT_DEFEITUOSO = 9999;
+	public static final String CAMINHO_DIR = "./Log/";
+	private int ProbMutacao;
+	private int nGensMutados;
+	private int nParticipantes;
+	private int populacao;
+	private int maxCiclos;
+	private Duration tempoMax;
+	private Duration tempoInformacao;
+	private int fitnessAlvo;
+	private int maximoMelhorias;
+
+	public Configuracao() {
+		super();
+		this.ProbMutacao = 3;
+		this.nGensMutados = 2;
+		this.nParticipantes = 16;
+		this.populacao = 40000;
+		this.maxCiclos = 200000;
+		this.tempoMax = Duration.ofMinutes(20);
+		this.fitnessAlvo = 19;
+		this.maximoMelhorias = 10000;
+	}
+
+	public Configuracao(int fitnessAuxiliar, int probMutacao, int nGensMutados, 
+			int nParticipantes, int populacao, int maxCiclos, int fitnessAlvo) {
+		this();
+		this.ProbMutacao = probMutacao;
+		this.nGensMutados = nGensMutados;
+		this.nParticipantes = nParticipantes;
+		this.populacao = populacao;
+		this.maxCiclos = maxCiclos;
+		this.fitnessAlvo = fitnessAlvo;
+	}
+	
+	@Override
+	public String toString() {
+		StringBuilder builder = new StringBuilder();
+		builder.append("Configuracao:\n");
+		builder.append("ProbMutacao=");
+		builder.append(ProbMutacao);
+		builder.append(", nGensMutados=");
+		builder.append(nGensMutados);
+		builder.append(",\nnParticipantes=");
+		builder.append(nParticipantes);
+		builder.append(", populacao=");
+		builder.append(populacao);
+		builder.append(",\nmaxCiclos=");
+		builder.append(maxCiclos);
+		builder.append(", maximoMelhorias=");
+		builder.append(maximoMelhorias);
+		builder.append(",\ntempoMax=");
+		builder.append(tempoMax.toMinutes());
+		builder.append(", fitnessAlvo=");
+		builder.append(fitnessAlvo);
+		return builder.toString();
+	}
+	
+
+	public int getProbMutacao() {
+		return ProbMutacao;
+	}
+	public void setProbMutacao(int probMutacao) {
+		this.ProbMutacao = probMutacao;
+		if(probMutacao > 100) { //Deveria lancar uma mgs de erro?
+			this.ProbMutacao = 100;
+		}
+	}
+	public int getnGensMutados() {
+		return nGensMutados;
+	}
+	public void setnGensMutados(int nGensMutados) {
+		this.nGensMutados = nGensMutados;
+	}
+
+	public Duration getTempoMax() {
+		return tempoMax;
+	}
+
+	public void setTempoMax(Duration tempoMax) {
+		this.tempoMax = tempoMax;
+	}
+
+	public int getnParticipantes() {
+		return nParticipantes;
+	}
+	public void setnParticipantes(int nParticipantes) {
+		this.nParticipantes = nParticipantes;
+		if(nParticipantes > this.populacao) {
+			this.nParticipantes = this.populacao;
+		}
+	}
+	public int getPopulacao() {
+		return populacao;
+	}
+	public void setPopulacao(int populacao) {
+		this.populacao = populacao;
+	}
+	public int getMaxCiclos() {
+		return maxCiclos;
+	}
+	public void setMaxCiclos(int maxCiclos) {
+		this.maxCiclos = maxCiclos;
+	}
+	public int getFitnessAlvo() {
+		return fitnessAlvo;
+	}
+	public void setMaximoMelhorias(int maximoMelhorias) {
+		this.maximoMelhorias= maximoMelhorias;
+	}
+	public int getMaximoMelhorias() {
+		return maximoMelhorias;
+	}
+	public void setFitnessAlvo(int fitnessAlvo) {
+		this.fitnessAlvo = fitnessAlvo;
+	}
+	public Duration getTempoInformacao() {
+		return tempoInformacao;
+	}
+}
