@@ -6,6 +6,13 @@ import Geral.Cromossomo;
 import Geral.OrdenaPorFitness;
 
 public class Reinsercao {
+	
+	/**
+	 * Localiza o cromossomo com maior fitness e substitui por um filho
+	 * @param lc
+	 * @param c
+	 * @return
+	 */
 	public static ArrayList<Cromossomo> maiorFit(ArrayList<Cromossomo> lc, Cromossomo c) {
 		OrdenaPorFitness ordenacao = new OrdenaPorFitness();
 		Collections.sort(lc, ordenacao.reversed());

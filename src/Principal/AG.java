@@ -11,7 +11,7 @@ import Geral.Preferencia;
 
 public class AG {
 	public static void executarAG() {
-		CriteriosParada criterio = new ParadaTodosCriterios();
+		CriteriosParada criterio = new ParadaFitness();
 		ValoresDeParada valoresDeParada = new ValoresDeParada();
 		///variaveis de controle /////
 		int contClones = 0, contMutacoes = 0;
@@ -36,7 +36,7 @@ public class AG {
 			valoresDeParada.contCiclos++;
 			Cromossomo pai1 = Selecao.torneio(lc, Principal.configuracao.getnParticipantes());
 			Cromossomo pai2 = Selecao.torneio(lc, Principal.configuracao.getnParticipantes());
-			Cromossomo[] filhos = Cruzamento.novoCruzamento(pai1, pai2);
+			Cromossomo[] filhos = Cruzamento.mascara(pai1, pai2);
 			for (Cromossomo cromossomo : filhos) {
 				auxSaidaMutacao = cromossomo.toString();
 				mutante = Mutacao.mutar(lp, cromossomo, Principal.configuracao.getProbMutacao(), 

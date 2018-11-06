@@ -1,6 +1,7 @@
 package CriteriosDeParada;
 
 import Geral.Configuracao;
+import Principal.Principal;
 
 public final class ParadaFitness implements CriteriosParada {
 
@@ -9,5 +10,4 @@ public final class ParadaFitness implements CriteriosParada {
 		return	(configuracao.getFitnessAlvo() >= valoresDeParada.fitAtual);
 
 	}
-
 }

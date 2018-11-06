@@ -6,7 +6,16 @@ import Geral.Gen;
 import Geral.Preferencia;
 
 public class Mutacao {
-	public static boolean mutar(ArrayList<Preferencia> lp, Cromossomo cromo, int probMut, int nGenMutado) {
+	/**
+	 * Verifica a probabilidade de mutação e altera o numero especificado de gens.
+	 * Busca um gen aleatório na lista de preferencias.
+	 * @param listaDePreferencias
+	 * @param cromo
+	 * @param probMut
+	 * @param nGenMutado
+	 * @return
+	 */
+	public static boolean mutar(ArrayList<Preferencia> listaDePreferencias, Cromossomo cromo, int probMut, int nGenMutado) {
 		boolean mutante = false;
 		int aulas = cromo.getHorario().getAulas();
 		int dias = cromo.getHorario().getDias();
@@ -21,8 +30,8 @@ public class Mutacao {
 			for (int i = 0; i < nGenMutado; i++) {
 				aulaMut = (int)(Math.random()*aulas);
 				diaMut = (int)(Math.random()*dias);
-				novoGen = (int)(Math.random()*lp.size());	
-				p = lp.get(novoGen);
+				novoGen = (int)(Math.random()*listaDePreferencias.size());	
+				p = listaDePreferencias.get(novoGen);
 				novo = new Gen(p);
 				cromo.trocaGen(aulaMut, diaMut, novo);
 			}

@@ -5,10 +5,16 @@ import Geral.Cromossomo;
 import Geral.Gen;
 
 public class Deteccao {
-
-	public static Cromossomo clone(ArrayList<Cromossomo> lc, Cromossomo c) {
+/**
+ * Verifica se dois cromossomos são iguais, em caso positivo retorna o cromossomo.
+ * Recebe uma lista de cromossomo (populacao).
+ * @param listaDeCromossomo
+ * @param c
+ * @return
+ */
+	public static Cromossomo clone(ArrayList<Cromossomo> listaDeCromossomo, Cromossomo c) {
 		Cromossomo original = null;
-		for (Cromossomo cromossomo : lc) {
+		for (Cromossomo cromossomo : listaDeCromossomo) {
 			if(c.UID().hashCode() == cromossomo.UID().hashCode()) {
 				original = cromossomo;
 				break;

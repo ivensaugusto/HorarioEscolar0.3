@@ -37,8 +37,6 @@ public class Slot {
 			peso = this.getGen().getPeso(this);
 		
 		// TODO: Condições das penalidades do GEN dentro do SLOT
-		
-		
 		return peso;
 	}
 	
