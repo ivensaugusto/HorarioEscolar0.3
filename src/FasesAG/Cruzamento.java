@@ -5,7 +5,13 @@ import Geral.Cromossomo;
 import Geral.Slot;
 
 public class Cruzamento {
-
+/**
+ * Recebe dois cromossomos pais e gera dois novos filhos atravéz da troca de gens entre os iniciais.
+ * Cada filho é um espelho do outro.
+ * @param pai1
+ * @param pai2
+ * @return
+ */
 	public static Cromossomo[] mascara(Cromossomo pai1, Cromossomo pai2) {
 		Random rnd = new Random();
 		int aulas = pai1.getHorario().getAulas();
@@ -34,4 +40,16 @@ public class Cruzamento {
 //		System.out.println(filho2);
 		return filhos ;
 	}
+/**
+ * TODO:
+	 * Escolher e implementar novo metodo de cruzamento que garanta a criação de filhos validos.
+ * @param pai1
+ * @param pai2
+ * @return lista filhos contendo dois cromossomos.
+ */
+public static Cromossomo[] novoCruzamento(Cromossomo pai1, Cromossomo pai2) {
+	// TODO: Escolher e implementar novo metodo de cruzamento que garanta a criação de filhos validos.
+	return null;
+}
+	
 }
