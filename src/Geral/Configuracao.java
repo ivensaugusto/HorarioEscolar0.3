@@ -17,14 +17,14 @@ public class Configuracao {
 
 	public Configuracao() {
 		super();
-		this.ProbMutacao = 3;
-		this.nGensMutados = 2;
+		this.ProbMutacao = 1;
+		this.nGensMutados = 1;
 		this.nParticipantes = 16;
-		this.populacao = 400;
+		this.populacao = 5000;
 		this.maxCiclos = 2000000;
-		this.tempoMax = Duration.ofMinutes(180);
+		this.tempoMax = Duration.ofMinutes(30);
 		this.fitnessAlvo = 19;
-		this.maximoMelhorias = 100000;
+		this.maximoMelhorias = 10000;
 	}
 
 	public Configuracao(int fitnessAuxiliar, int probMutacao, int nGensMutados, 

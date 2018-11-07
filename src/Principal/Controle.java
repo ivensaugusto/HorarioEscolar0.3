@@ -164,16 +164,13 @@ public class Controle {
 		}
 		return melhoresFit;
 	}
-	public static void intervaloInformacao(Configuracao configuracao, ValoresDeParada valoresDeParada) {
-		
-		Instant agora = Instant.now();
-		Duration d = Duration.between(valoresDeParada.tempoInicial, agora);
-		long x = (d.getSeconds()%configuracao.getTempoInformacao().getSeconds());
-		if(x <= 2)
-			System.out.println("... AG em execução..." + agora);
-		
+	public static void msgAtividade(Instant tempoInicial) {
+		Duration duracao = Duration.between(tempoInicial, Instant.now());
+		long intervalo = 10000;
+		if((duracao.toMillis()%intervalo) <= 2) {
+			System.out.println("...AG em execução..." + duracao);
+		}		
 	}
 
-	
 	
 }

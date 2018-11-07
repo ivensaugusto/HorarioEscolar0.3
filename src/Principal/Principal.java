@@ -14,7 +14,11 @@ public class Principal {
 		quadroHorario = new QuadroHorario(4,5);
 		boolean fim = false;
 		int opcaoGeral = -1;
-		AG.executarAG();
+		
+		for (int i = 0; i < 5; i++) {
+			AG.executarAG();
+		}
+		
 		
 /*
 		do {

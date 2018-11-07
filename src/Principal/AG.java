@@ -21,6 +21,8 @@ public class AG {
 		Cromossomo aux = null;
 		valoresDeParada.tempoInicial = Instant.now();
 		Duration duracao = null;
+		
+		
 		///////////////////////
 		System.out.println("Executando AG...");
 		Populacao p = new Populacao(Principal.quadroHorario);				
@@ -31,7 +33,7 @@ public class AG {
 		System.out.println("Criando populacao...");
 		ArrayList<Cromossomo> lc = p.criar(lp, Principal.configuracao.getPopulacao());
 
-		System.out.println("Iniciando AG...");
+		System.out.println("Iniciando AG..." + valoresDeParada.tempoInicial);
 		do {
 			valoresDeParada.contCiclos++;
 			Cromossomo pai1 = Selecao.torneio(lc, Principal.configuracao.getnParticipantes());
@@ -64,7 +66,7 @@ public class AG {
 					System.out.println("Ocorreu uma melhoria " + duracao);
 				}
 				
-				//Controle.intervaloInformacao(Principal.configuracao, valoresDeParada.tempoInicial);
+				Controle.msgAtividade(valoresDeParada.tempoInicial);
 			}
 		}while(!criterio.parar(Principal.configuracao, valoresDeParada));
 

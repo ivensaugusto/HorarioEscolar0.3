@@ -1,0 +1,89 @@
+Encontrou uma melhoria apos PT0.094S tempo
+Cromossomo:
+|PS1:11|Emp:01|PS1:01|Emp:15|RC1:01|
+|BD2:14|Emp:01|Emp:01|LP1:01|RC1:01|
+|PS1:13|LP1:12|RC1:01|LP1:15|BD2:13|
+|LP1:01|BD2:01|RC1:01|BD2:01|TE2:10|
+Fitness: 115
+
+Encontrou uma melhoria apos PT5.828S tempo
+Cromossomo:
+|TE2:01|Emp:01|PS1:01|LP1:01|RC1:01|
+|PS1:17|LP1:10|LP1:15|BD2:01|RC1:01|
+|BD2:13|PS1:14|RC1:01|BD2:01|TE2:16|
+|LP1:01|BD2:01|RC1:01|BD2:01|PS1:01|
+Fitness: 99
+
+Encontrou uma melhoria apos PT10.098S tempo
+Cromossomo:
+|TE2:01|Emp:01|Emp:01|LP1:01|RC1:01|
+|TE2:01|RC1:17|Emp:01|LP1:01|PS1:18|
+|LP1:01|Emp:11|RC1:01|BD2:01|PS1:01|
+|LP1:01|BD2:01|BD2:10|BD2:01|PS1:01|
+Fitness: 72
+
+Encontrou uma melhoria apos PT20.051S tempo
+Cromossomo:
+|TE2:01|PS1:14|PS1:01|LP1:01|RC1:01|
+|TE2:01|Emp:01|Emp:01|LP1:01|BD2:12|
+|PS1:13|Emp:11|RC1:01|BD2:01|PS1:01|
+|LP1:01|BD2:01|RC1:01|BD2:01|PS1:01|
+Fitness: 66
+
+Encontrou uma melhoria apos PT28.552S tempo
+Cromossomo:
+|TE2:01|Emp:01|Emp:01|PS1:11|RC1:01|
+|TE2:01|Emp:01|PS1:01|BD2:01|RC1:01|
+|LP1:01|TE2:16|RC1:01|BD2:01|PS1:01|
+|LP1:01|LP1:15|RC1:01|BD2:01|PS1:01|
+Fitness: 59
+
+Encontrou uma melhoria apos PT30.897S tempo
+Cromossomo:
+|TE2:01|Emp:01|Emp:01|LP1:01|RC1:01|
+|TE2:01|Emp:01|PS1:01|LP1:01|RC1:01|
+|LP1:01|RC1:15|RC1:01|BD2:01|BD2:13|
+|LP1:01|BD2:01|RC1:01|BD2:01|PS1:01|
+Fitness: 46
+
+Encontrou uma melhoria apos PT33.351S tempo
+Cromossomo:
+|TE2:01|Emp:01|Emp:01|PS1:11|RC1:01|
+|TE2:01|Emp:01|PS1:01|LP1:01|RC1:01|
+|LP1:01|Emp:11|RC1:01|BD2:01|PS1:01|
+|LP1:01|BD2:01|RC1:01|BD2:01|PS1:01|
+Fitness: 40
+
+Encontrou uma melhoria apos PT39.025S tempo
+Cromossomo:
+|TE2:01|Emp:01|Emp:01|LP1:01|RC1:01|
+|TE2:01|Emp:01|PS1:01|LP1:01|RC1:01|
+|LP1:01|BD2:16|RC1:01|BD2:01|PS1:01|
+|LP1:01|BD2:01|RC1:01|BD2:01|PS1:01|
+Fitness: 35
+
+Encontrou uma melhoria apos PT47.994S tempo
+Cromossomo:
+|TE2:01|Emp:01|Emp:01|LP1:01|RC1:01|
+|TE2:01|Emp:01|Emp:01|LP1:01|RC1:01|
+|LP1:01|Emp:11|RC1:01|BD2:01|PS1:01|
+|LP1:01|BD2:01|RC1:01|BD2:01|PS1:01|
+Fitness: 30
+
+
+Configuracao:
+ProbMutacao=1, nGensMutados=1,
+nParticipantes=16, populacao=5000,
+maxCiclos=2000000, maximoMelhorias=10000,
+tempoMax=30, fitnessAlvo=19
+
+Resumo:
+Quantidade de ciclos: 53186
+Quantidade de resultados: 54
+Quantidade de melhorias: 9
+Melhor fitness: 30
+Foram detectados 1887 clones.
+Foram detectadas 1012 mutacoes.
+Tempo Inicial 2018-11-07T19:48:31.718Z
+Tempo Final 2018-11-07T20:18:31.729Z
+Duracao: PT30M0.011S
