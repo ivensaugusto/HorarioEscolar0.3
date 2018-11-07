@@ -6,8 +6,8 @@ import Geral.Slot;
 
 public class Cruzamento {
 	/**
-	 * Recebe dois cromossomos pais e gera dois novos filhos atravéz da troca de gens entre os iniciais.
-	 * Cada filho é um espelho do outro.
+	 * Recebe dois cromossomos pais e gera dois novos filhos atravï¿½z da troca de gens entre os iniciais.
+	 * Cada filho ï¿½ um espelho do outro.
 	 * @param pai1
 	 * @param pai2
 	 * @return
@@ -42,13 +42,14 @@ public class Cruzamento {
 	}
 	/**
 	 * TODO:
-	 * Escolher e implementar novo metodo de cruzamento que garanta a criação de filhos validos.
+	 * Escolher e implementar novo metodo de cruzamento que garanta a criaï¿½ï¿½o de filhos validos.
 	 * @param pai1
 	 * @param pai2
 	 * @return lista filhos contendo dois cromossomos.
 	 */
 	public static Cromossomo[] novoCruzamento(Cromossomo pai1, Cromossomo pai2) {
-		// TODO: Escolher e implementar novo metodo de cruzamento que garanta a criação de filhos validos.
+		//SÃ£o verdes
+		// TODO: Escolher e implementar novo metodo de cruzamento que garanta a criaï¿½ï¿½o de filhos validos.
 		return null;
 	}
 
