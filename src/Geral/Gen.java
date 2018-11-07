@@ -10,6 +10,18 @@ public class Gen {
 		this.quinzenal = null;
 	}
 
+	@Override
+	public String toString() {
+		StringBuilder builder = new StringBuilder();
+		builder.append(this.getDisciplina().getNome());//		
+//		if (this.getPeso() < 10)
+//			builder.append(":0");
+//		else
+//			builder.append(":");
+//		builder.append(this.getPeso());
+		return builder.toString();
+	}
+	
 	public Preferencia getPreferencia() {
 		return preferencia;
 	}
@@ -45,16 +57,9 @@ public class Gen {
 	public void setDefeituoso(boolean defeituoso) {
 		this.defeituoso = defeituoso;
 	}
-
-	@Override
-	public String toString() {
-		StringBuilder builder = new StringBuilder();
-		builder.append(this.getDisciplina().getNome());//		
-//		if (this.getPeso() < 10)
-//			builder.append(":0");
-//		else
-//			builder.append(":");
-//		builder.append(this.getPeso());
-		return builder.toString();
+	
+	public boolean compara(Gen g) {
+		return this.UID().equals(g.UID()) ? true : false;
 	}
+
 }

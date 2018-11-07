@@ -32,7 +32,7 @@ public class Cromossomo {
 	}
 
 	/**
-	 * criarIndividual: Cria uma matriz, que é um conjunto slots, contendo um gen em cada. 
+	 * criarIndividual: Cria uma matriz, que ï¿½ um conjunto slots, contendo um gen em cada. 
 	 * Usa uma regra que coloca aulas em horarios seguidos.
 	 * 
 	 * @param Lista de preferencias, grade horaria.
@@ -73,7 +73,7 @@ public class Cromossomo {
 	}
 	
 	/**
-	 * criarGeminado: Cria uma matriz, que é um conjunto slots, contendo um gen em cada. 
+	 * criarGeminado: Cria uma matriz, que ï¿½ um conjunto slots, contendo um gen em cada. 
 	 * Usa uma regra que coloca aulas geminadas em horarios seguidos.
 	 * 
 	 * @param Lista de preferencias, grade horaria.
@@ -86,11 +86,11 @@ public class Cromossomo {
 		Slot slot;
 		boolean fim = false;
 		boolean permiteSlotQuinzenal = false;
-		int interacoes;
+		int iteracoes;
 		for (Preferencia preferencia : preferencias) {
-			interacoes = preferencia.getDisciplina().getTotalIteracoesGeniado();
-			permiteSlotQuinzenal = (interacoes > 1);
-			for (int i = 0; i < interacoes; i++) {
+			iteracoes = preferencia.getDisciplina().getTotalIteracoesGeniado();
+			permiteSlotQuinzenal = (iteracoes > 1);
+			for (int i = 0; i < iteracoes; i++) {
 				fim = false;
 				do {
 					slot = obterSlotDisponivel(slotsQuadroHorario, permiteSlotQuinzenal);
@@ -98,10 +98,10 @@ public class Cromossomo {
 						gen = new Gen(preferencia);
 						slot.setGen(gen);
 						if (testaQuinzenal(slot.aula, slot.dia)) {
-							if(i < (interacoes-1)) {
+							if(i < (iteracoes-1)) {
 								addGenNoSlot(slotsQuadroHorario, preferencia, false);
 								// BREAK no FOR
-								i = interacoes;
+								i = iteracoes;
 							}
 						}else {
 							dobraAula(slotsQuadroHorario, slot);

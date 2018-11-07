@@ -1,6 +1,5 @@
 package Geral;
 
-
 public class Slot {
 	public int aula;
 	public int dia;
