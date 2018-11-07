@@ -20,11 +20,11 @@ public class Configuracao {
 		this.ProbMutacao = 3;
 		this.nGensMutados = 2;
 		this.nParticipantes = 16;
-		this.populacao = 40000;
-		this.maxCiclos = 200000;
-		this.tempoMax = Duration.ofMinutes(20);
+		this.populacao = 400;
+		this.maxCiclos = 2000000;
+		this.tempoMax = Duration.ofMinutes(180);
 		this.fitnessAlvo = 19;
-		this.maximoMelhorias = 10000;
+		this.maximoMelhorias = 100000;
 	}
 
 	public Configuracao(int fitnessAuxiliar, int probMutacao, int nGensMutados, 

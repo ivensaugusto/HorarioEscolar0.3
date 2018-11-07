@@ -9,5 +9,5 @@ public final class ParadaFitness implements CriteriosParada {
 	public boolean parar(Configuracao configuracao, ValoresDeParada valoresDeParada){
 		return	(configuracao.getFitnessAlvo() >= valoresDeParada.fitAtual);
 
-	}
+	}	
 }

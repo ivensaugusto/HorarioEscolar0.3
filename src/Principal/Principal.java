@@ -1,4 +1,6 @@
 package Principal;
+import javax.swing.JOptionPane;
+
 import Geral.Configuracao;
 import Geral.QuadroHorario;
 
@@ -12,7 +14,9 @@ public class Principal {
 		quadroHorario = new QuadroHorario(4,5);
 		boolean fim = false;
 		int opcaoGeral = -1;
+		AG.executarAG();
 		
+/*
 		do {
 			opcaoGeral = Visao.menuGeral();
 			//int opcaoGeral = 5;
@@ -40,6 +44,8 @@ public class Principal {
 				System.err.println("Opcao invalida!");
 				break;
 			}
-		}while(!fim);
+		}while(!fim);*/
+		
+		System.exit(0);
 	}
 }

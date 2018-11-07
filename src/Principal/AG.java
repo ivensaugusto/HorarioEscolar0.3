@@ -11,7 +11,7 @@ import Geral.Preferencia;
 
 public class AG {
 	public static void executarAG() {
-		CriteriosParada criterio = new ParadaFitness();
+		CriteriosParada criterio = new ParadaTodosCriterios();
 		ValoresDeParada valoresDeParada = new ValoresDeParada();
 		///variaveis de controle /////
 		int contClones = 0, contMutacoes = 0;
@@ -61,6 +61,7 @@ public class AG {
 					valoresDeParada.contMelhorias++;
 					duracao = Duration.between(valoresDeParada.tempoInicial, Instant.now());
 					saidaMelhoria += concatMelhorias(aux, duracao);
+					System.out.println("Ocorreu uma melhoria " + duracao);
 				}
 				
 				//Controle.intervaloInformacao(Principal.configuracao, valoresDeParada.tempoInicial);
