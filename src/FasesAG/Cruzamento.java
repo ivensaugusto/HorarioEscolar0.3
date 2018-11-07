@@ -48,7 +48,6 @@ public class Cruzamento {
 	 * @return lista filhos contendo dois cromossomos.
 	 */
 	public static Cromossomo[] novoCruzamento(Cromossomo pai1, Cromossomo pai2) {
-		//São verdes
 		// TODO: Escolher e implementar novo metodo de cruzamento que garanta a cria��o de filhos validos.
 		return null;
 	}
