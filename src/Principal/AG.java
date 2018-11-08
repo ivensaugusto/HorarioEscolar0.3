@@ -38,7 +38,7 @@ public class AG {
 			valoresDeParada.contCiclos++;
 			Cromossomo pai1 = Selecao.torneio(lc, Principal.configuracao.getnParticipantes());
 			Cromossomo pai2 = Selecao.torneio(lc, Principal.configuracao.getnParticipantes());
-			Cromossomo[] filhos = Cruzamento.mascara(pai1, pai2);
+			Cromossomo[] filhos = Cruzamento.novoCruzamento(pai1, pai2);
 			for (Cromossomo cromossomo : filhos) {
 				auxSaidaMutacao = cromossomo.toString();
 				mutante = Mutacao.mutar(lp, cromossomo, Principal.configuracao.getProbMutacao(), 
@@ -63,7 +63,7 @@ public class AG {
 					valoresDeParada.contMelhorias++;
 					duracao = Duration.between(valoresDeParada.tempoInicial, Instant.now());
 					saidaMelhoria += concatMelhorias(aux, duracao);
-					System.out.println("Ocorreu uma melhoria " + duracao);
+					//System.out.println("Ocorreu uma melhoria " + duracao);
 				}
 				
 				Controle.msgAtividade(valoresDeParada.tempoInicial);

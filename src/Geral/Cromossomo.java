@@ -234,7 +234,6 @@ public class Cromossomo {
 	public int getFitness() {
 		if(this.fitness == Integer.MIN_VALUE)
 			this.fitness = this.calculaFitness();
-
 		return this.fitness;
 	}
 

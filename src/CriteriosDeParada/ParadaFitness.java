@@ -1,7 +1,6 @@
 package CriteriosDeParada;
 
 import Geral.Configuracao;
-import Principal.Principal;
 
 public final class ParadaFitness implements CriteriosParada {
 

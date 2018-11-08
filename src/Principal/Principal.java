@@ -1,6 +1,4 @@
 package Principal;
-import javax.swing.JOptionPane;
-
 import Geral.Configuracao;
 import Geral.QuadroHorario;
 

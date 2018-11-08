@@ -9,8 +9,6 @@ import java.time.Instant;
 import java.util.ArrayList;
 import java.util.Collections;
 
-import CriteriosDeParada.ValoresDeParada;
-import Geral.Configuracao;
 import Geral.Cromossomo;
 import Geral.Disciplina;
 import Geral.QuadroHorario;
