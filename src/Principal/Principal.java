@@ -13,11 +13,10 @@ public class Principal {
 		boolean fim = false;
 		int opcaoGeral = -1;
 
-		for (int i = 0; i < 5; i++) {
+		for (int i = 0; i < 3; i++) {
 			AG.executarAG();
 			AG.executarAGcomMascara();
 		}
-
 
 		/*
 		do {
