@@ -165,7 +165,7 @@ public class Controle {
 	public static void msgAtividade(Instant tempoInicial) {
 		Duration duracao = Duration.between(tempoInicial, Instant.now());
 		long intervalo = 10000;
-		if((duracao.toMillis()%intervalo) <= 2) {
+		if((duracao.toMillis()%intervalo) <= 20) {
 			System.out.println("...AG em execução..." + duracao);
 		}		
 	}

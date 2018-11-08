@@ -57,36 +57,29 @@ public class Cruzamento {
 		Slot[][] slotsFilho2 = new Slot[aulas][dias];
 		for (int dia = 0; dia < dias; dia++) {
 			for (int aula = 0; aula < aulas; aula += 2) {
-				System.out.println(pai1+"\n");
-				System.out.println(pai2+"\n");
-				System.out.println(Tools.writeMat(slotsFilho1)+"\n");
-				System.out.println(Tools.writeMat(slotsFilho2)+"\n");
 				Gen g1 = pai1.getSlot(aula, dia).getGen();
 				Gen g2 = pai1.getSlot(aula + 1, dia).getGen();
 				Gen g3 = pai2.getSlot(aula, dia).getGen();
 				Gen g4 = pai2.getSlot(aula + 1, dia).getGen();
 				if (g1.compara(g2) || g3.compara(g4)) {
-					System.out.println(g1.compara(g2) || g3.compara(g4));
 					slotsFilho1[aula][dia] = pai1.getSlot(aula, dia);
 					slotsFilho1[aula + 1][dia] = pai1.getSlot(aula + 1, dia);
 					slotsFilho2[aula][dia] = pai2.getSlot(aula, dia);
 					slotsFilho2[aula + 1][dia] = pai2.getSlot(aula + 1, dia);
 				}else {
 					for (int i = 0; i < 2; i++) {
-						int teste = rnd.nextInt(4);
-						System.out.println(teste);
-						if (teste == 0) {
-							slotsFilho1[aula][dia] = pai1.getSlot(aula + i, dia);
-							slotsFilho2[aula][dia] = pai1.getSlot(aula + i, dia);
+						if (rnd.nextInt(4) == 0) {
+							slotsFilho1[aula + i][dia] = pai1.getSlot(aula + i, dia);
+							slotsFilho2[aula + i][dia] = pai1.getSlot(aula + i, dia);
 						}else if (rnd.nextInt(4) == 1) {
-							slotsFilho1[aula + 1][dia] = pai1.getSlot(aula + i, dia);
-							slotsFilho2[aula + 1][dia] = pai2.getSlot(aula + i, dia);
+							slotsFilho1[aula + i][dia] = pai1.getSlot(aula + i, dia);
+							slotsFilho2[aula + i][dia] = pai2.getSlot(aula + i, dia);
 						}else if (rnd.nextInt(4) == 2) {
-							slotsFilho1[aula + 1][dia] = pai2.getSlot(aula + i, dia);
-							slotsFilho2[aula + 1][dia] = pai1.getSlot(aula + i, dia);
+							slotsFilho1[aula + i][dia] = pai2.getSlot(aula + i, dia);
+							slotsFilho2[aula + i][dia] = pai1.getSlot(aula + i, dia);
 						}else {
-							slotsFilho1[aula + 1][dia] = pai2.getSlot(aula + i, dia);
-							slotsFilho2[aula + 1][dia] = pai2.getSlot(aula + i, dia);
+							slotsFilho1[aula + i][dia] = pai2.getSlot(aula + i, dia);
+							slotsFilho2[aula + i][dia] = pai2.getSlot(aula + i, dia);
 						}
 					}
 				}
