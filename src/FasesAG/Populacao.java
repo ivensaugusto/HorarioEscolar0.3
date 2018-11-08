@@ -31,7 +31,6 @@ public class Populacao {
 	
 	public Cromossomo achaMenor(ArrayList<Cromossomo> lc) {
 		Collections.sort(lc, new OrdenaPorFitness());
-		lc.sort(new OrdenaPorFitness());
 		return lc.get(0);
 	}
 	

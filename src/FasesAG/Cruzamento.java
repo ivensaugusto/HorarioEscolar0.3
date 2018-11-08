@@ -86,7 +86,7 @@ public class Cruzamento {
 			}
 		}
 		// A avaliacao foi retirada para melhoria de desempenho, sera feita 
-		// no processo de mutacao.		
+		// apos o processo de mutacao.		
 		Cromossomo filho1 = new Cromossomo(slotsFilho1, pai1.getHorario());
 		Cromossomo filho2 = new Cromossomo(slotsFilho2, pai2.getHorario());
 		Cromossomo[] filhos = new Cromossomo[] {filho1, filho2};

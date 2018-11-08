@@ -3,22 +3,23 @@ import Geral.Configuracao;
 import Geral.QuadroHorario;
 
 public class Principal {
-	
+
 	static Configuracao configuracao;
 	static QuadroHorario quadroHorario;
-	
+
 	public static void main(String[] args) {
 		configuracao = new Configuracao();
 		quadroHorario = new QuadroHorario(4,5);
 		boolean fim = false;
 		int opcaoGeral = -1;
-		
+
 		for (int i = 0; i < 5; i++) {
 			AG.executarAG();
+			AG.executarAGcomMascara();
 		}
-		
-		
-/*
+
+
+		/*
 		do {
 			opcaoGeral = Visao.menuGeral();
 			//int opcaoGeral = 5;
@@ -47,7 +48,7 @@ public class Principal {
 				break;
 			}
 		}while(!fim);*/
-		
+
 		System.exit(0);
 	}
 }

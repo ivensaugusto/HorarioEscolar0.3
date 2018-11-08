@@ -11,7 +11,6 @@ public class Configuracao {
 	private int populacao;
 	private int maxCiclos;
 	private Duration tempoMax;
-	private Duration tempoInformacao;
 	private int fitnessAlvo;
 	private int maximoMelhorias;
 
@@ -19,12 +18,12 @@ public class Configuracao {
 		super();
 		this.ProbMutacao = 1;
 		this.nGensMutados = 1;
-		this.nParticipantes = 16;
-		this.populacao = 5000;
+		this.nParticipantes = 32;
+		this.populacao = 200;
 		this.maxCiclos = 2000000;
-		this.tempoMax = Duration.ofMinutes(30);
+		this.tempoMax = Duration.ofMinutes(1);
 		this.fitnessAlvo = 19;
-		this.maximoMelhorias = 10000;
+		this.maximoMelhorias = 100;
 	}
 
 	public Configuracao(int fitnessAuxiliar, int probMutacao, int nGensMutados, 
@@ -118,8 +117,5 @@ public class Configuracao {
 	}
 	public void setFitnessAlvo(int fitnessAlvo) {
 		this.fitnessAlvo = fitnessAlvo;
-	}
-	public Duration getTempoInformacao() {
-		return tempoInformacao;
 	}
 }
