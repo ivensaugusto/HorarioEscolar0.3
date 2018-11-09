@@ -21,7 +21,7 @@ public class Configuracao {
 		this.nParticipantes = 32;
 		this.populacao = 10000;
 		this.maxCiclos = 2000000;
-		this.tempoMax = Duration.ofMinutes(2);
+		this.tempoMax = Duration.ofMinutes(60);
 		this.fitnessAlvo = 19;
 		this.maximoMelhorias = 100;
 	}

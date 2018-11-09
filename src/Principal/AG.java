@@ -83,7 +83,7 @@ public class AG {
 		String resumo = preparaResumoLog(valoresDeParada.contCiclos, nl.size(), valoresDeParada.fitAtual, contClones,
 				contMutacoes, valoresDeParada.tempoInicial, tempoFinal, valoresDeParada.contMelhorias);
 
-		System.out.println(saidaResultados + resumo);
+		System.out.println(saidaResultados + resumo + "\n");
 
 		Log("populacao.txt", p.toString() + resumo);
 		Log("mutacoes.txt", saidaMutacao + resumo);
