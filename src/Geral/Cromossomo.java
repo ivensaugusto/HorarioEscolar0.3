@@ -24,7 +24,21 @@ public class Cromossomo {
 		this.slots = slots;
 		this._horario = horario;
 		this.label = null;
+		this.fitness = Integer.MIN_VALUE;
 	}
+	
+	@Override
+	public String toString() {
+		StringBuilder builder = new StringBuilder();
+		builder.append("Cromossomo:\n");
+		builder.append(Tools.writeMat(slots));
+		builder.append("\nFitness: ");
+		builder.append(this.getFitness());
+		builder.append("\n\n");
+		//builder.append(" Label=" + label + "\n");
+		return builder.toString();
+	}	
+	
 
 	public void gerar() {
 		this.slots = criarIndividual(this._preferencias, this._horario);
@@ -263,17 +277,6 @@ public class Cromossomo {
 		this.fitness = Integer.MIN_VALUE; 
 	}
 
-	@Override
-	public String toString() {
-		StringBuilder builder = new StringBuilder();
-		builder.append("Cromossomo:\n");
-		builder.append(Tools.writeMat(slots));
-		builder.append("\nFitness: ");
-		builder.append(this.getFitness());
-		builder.append("\n\n");
-		//builder.append(" Label=" + label + "\n");
-		return builder.toString();
-	}
 	public Slot obterSlotDisponivel() {
 		return this.obterSlotDisponivel(this.slots, true);
 	}

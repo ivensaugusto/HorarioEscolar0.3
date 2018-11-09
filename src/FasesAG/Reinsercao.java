@@ -16,9 +16,10 @@ public class Reinsercao {
 	public static ArrayList<Cromossomo> maiorFit(ArrayList<Cromossomo> lc, Cromossomo c) {
 		OrdenaPorFitness ordenacao = new OrdenaPorFitness();
 		Collections.sort(lc, ordenacao.reversed());
-		if(lc.get(0).getFitness() > c.getFitness())
-		{
+		if(lc.get(0).getFitness() > c.getFitness()){
 			lc.set(0, c);
+		}else if (lc.get(0).getFitness() == c.getFitness()){
+			lc.add(c);
 		}
 		Collections.sort(lc, ordenacao);
 		return lc;

@@ -19,9 +19,9 @@ public class Configuracao {
 		this.ProbMutacao = 1;
 		this.nGensMutados = 1;
 		this.nParticipantes = 32;
-		this.populacao = 200;
+		this.populacao = 10000;
 		this.maxCiclos = 2000000;
-		this.tempoMax = Duration.ofMinutes(5);
+		this.tempoMax = Duration.ofMinutes(2);
 		this.fitnessAlvo = 19;
 		this.maximoMelhorias = 100;
 	}

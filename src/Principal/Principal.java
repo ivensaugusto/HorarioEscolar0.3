@@ -1,10 +1,5 @@
 package Principal;
-import java.util.ArrayList;
-
-import FasesAG.Populacao;
 import Geral.Configuracao;
-import Geral.Cromossomo;
-import Geral.Preferencia;
 import Geral.QuadroHorario;
 
 public class Principal {
@@ -18,18 +13,8 @@ public class Principal {
 		boolean fim = false;
 		int opcaoGeral = -1;
 
-		System.out.println("Carregando preferencias...");
-		ArrayList<Preferencia> lp = Preferencia.carregaListaPref(Principal.quadroHorario);
-		
-		System.out.println("Executando AG...");
-		Populacao p = new Populacao(Principal.quadroHorario);				
-
-		System.out.println("Criando populacao...");
-		ArrayList<Cromossomo> lc = p.criar(lp, Principal.configuracao.getPopulacao());
-		
 		for (int i = 0; i < 3; i++) {
-			AG.executarAG(lc, lp, p);
-			AG.executarAGcomMascara(lc, lp, p);
+			AG.executarAG();
 		}
 
 		
