@@ -42,7 +42,7 @@ public class Cromossomo {
 	
 
 	public void gerar() {
-		this.slots = criarGeminado(this._preferencias, this._horario);
+		this.slots = criarIndividual(this._preferencias, this._horario);
 		this.label = null;
 	}
 
