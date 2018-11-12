@@ -1,0 +1,105 @@
+Encontrou uma melhoria apos PT0.206S tempo
+Cromossomo:
+|TE2:09|Emp:09|BD2:16|PS1:11|RC1:09|
+|TE2:09|Emp:09|Emp:09|PS1:11|RC1:09|
+|LP1:09|BD2:16|RC1:09|PS1:18|LP1:17|
+|LP1:09|BD2:09|RC1:09|PS1:12|LP1:17|
+Fitness: 226
+
+Encontrou uma melhoria apos PT0.49S tempo
+Cromossomo:
+|LP1:17|LP1:17|PS1:09|PS1:11|RC1:09|
+|LP1:13|LP1:10|Emp:09|PS1:11|RC1:09|
+|RC1:11|BD2:16|Emp:10|BD2:09|PS1:09|
+|RC1:13|BD2:09|Emp:12|BD2:09|PS1:09|
+Fitness: 222
+
+Encontrou uma melhoria apos PT1.114S tempo
+Cromossomo:
+|TE2:09|RC1:13|Emp:09|PS1:11|RC1:09|
+|TE2:09|Emp:09|Emp:09|PS1:11|RC1:09|
+|LP1:09|BD2:16|RC1:09|PS1:18|BD2:13|
+|LP1:09|BD2:09|RC1:09|RC1:11|LP1:17|
+Fitness: 218
+
+Encontrou uma melhoria apos PT1.139S tempo
+Cromossomo:
+|TE2:09|RC1:13|Emp:09|PS1:11|RC1:09|
+|TE2:09|Emp:09|Emp:09|PS1:11|RC1:09|
+|LP1:09|BD2:16|RC1:09|RC1:16|BD2:13|
+|LP1:09|BD2:09|RC1:09|RC1:11|LP1:17|
+Fitness: 216
+
+Encontrou uma melhoria apos PT1.149S tempo
+Cromossomo:
+|TE2:09|RC1:13|Emp:09|PS1:11|RC1:09|
+|TE2:09|Emp:09|Emp:09|PS1:11|RC1:09|
+|LP1:09|BD2:16|RC1:09|RC1:16|BD2:13|
+|LP1:09|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 215
+
+Encontrou uma melhoria apos PT2.359S tempo
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|BD2:14|RC1:09|
+|TE2:09|LP1:10|RC1:10|PS1:11|RC1:09|
+|LP1:09|BD2:16|Emp:10|BD2:09|Emp:15|
+|LP1:09|BD2:09|Emp:12|BD2:09|TE2:10|
+Fitness: 213
+
+Encontrou uma melhoria apos PT2.368S tempo
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|TE2:13|RC1:09|
+|TE2:09|Emp:09|RC1:10|PS1:11|RC1:09|
+|PS1:13|BD2:16|Emp:10|BD2:09|PS1:09|
+|LP1:09|BD2:09|Emp:12|BD2:09|PS1:09|
+Fitness: 208
+
+Encontrou uma melhoria apos PT2.741S tempo
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|TE2:13|BD2:11|
+|TE2:09|Emp:09|Emp:09|BD2:09|RC1:09|
+|LP1:09|BD2:16|Emp:10|BD2:09|PS1:09|
+|LP1:09|BD2:09|BD2:10|TE2:15|PS1:09|
+Fitness: 207
+
+Encontrou uma melhoria apos PT2.907S tempo
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|TE2:13|BD2:11|
+|TE2:09|Emp:09|Emp:09|PS1:11|RC1:09|
+|LP1:09|BD2:16|Emp:10|BD2:09|PS1:09|
+|LP1:09|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 206
+
+Encontrou uma melhoria apos PT12.052S tempo
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|LP1:09|BD2:11|
+|TE2:09|Emp:09|RC1:10|LP1:09|RC1:09|
+|Emp:13|TE2:16|RC1:09|TE2:13|PS1:09|
+|Emp:10|BD2:09|BD2:10|BD2:09|PS1:09|
+Fitness: 202
+
+Encontrou uma melhoria apos PT13.929S tempo
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|Emp:14|
+|LP1:13|Emp:09|PS1:09|LP1:09|RC1:09|
+|RC1:11|TE2:16|RC1:09|Emp:10|PS1:09|
+|LP1:09|BD2:09|BD2:10|BD2:09|PS1:09|
+Fitness: 200
+
+
+Configuracao:
+ProbMutacao=5, nGensMutados=2,
+nParticipantes=16, populacao=500,
+maxCiclos=2000000, maximoMelhorias=100,
+tempoMax=15, fitnessAlvo=45
+
+Resumo:
+Quantidade de ciclos: 15177
+Quantidade de resultados: 0
+Quantidade de melhorias: 11
+Melhor fitness: 200
+Foram detectados 19850 clones.
+Foram detectadas 1502 mutacoes.
+Tempo Inicial 2018-11-12T21:17:29.351Z
+Tempo Final 2018-11-12T21:32:29.476Z
+Duracao: PT15M0.125S
