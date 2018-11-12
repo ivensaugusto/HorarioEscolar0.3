@@ -19,6 +19,7 @@ public class Cromossomo {
 
 		this.gerar();
 	}
+	
 	public Cromossomo(Slot[][] slots, QuadroHorario horario) {
 		super();
 		this.slots = slots;
@@ -41,7 +42,7 @@ public class Cromossomo {
 	
 
 	public void gerar() {
-		this.slots = criarIndividual(this._preferencias, this._horario);
+		this.slots = criarGeminado(this._preferencias, this._horario);
 		this.label = null;
 	}
 
@@ -246,7 +247,7 @@ public class Cromossomo {
 	 * @return
 	 */
 	public int getFitness() {
-		if(this.fitness == Integer.MIN_VALUE)
+		//if(this.fitness == Integer.MIN_VALUE)
 			this.fitness = this.calculaFitness();
 		return this.fitness;
 	}

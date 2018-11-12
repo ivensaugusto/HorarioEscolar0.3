@@ -16,13 +16,13 @@ public class Configuracao {
 
 	public Configuracao() {
 		super();
-		this.ProbMutacao = 1;
-		this.nGensMutados = 1;
-		this.nParticipantes = 32;
-		this.populacao = 10000;
+		this.ProbMutacao = 5;
+		this.nGensMutados = 2;
+		this.nParticipantes = 16;
+		this.populacao = 500;
 		this.maxCiclos = 2000000;
-		this.tempoMax = Duration.ofMinutes(60);
-		this.fitnessAlvo = 19;
+		this.tempoMax = Duration.ofMinutes(15);
+		this.fitnessAlvo = 180;
 		this.maximoMelhorias = 100;
 	}
 

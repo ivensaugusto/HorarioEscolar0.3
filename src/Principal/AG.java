@@ -32,13 +32,13 @@ public class AG {
 
 		System.out.println("Criando populacao...");
 		lc = p.criar(lp, Principal.configuracao.getPopulacao());
-
+		
 		System.out.println("Inicio do AG em:\n" + valoresDeParada.tempoInicial);
 		do {
 			valoresDeParada.contCiclos++;
 			Cromossomo pai1 = Selecao.torneio(lc, Principal.configuracao.getnParticipantes());
 			Cromossomo pai2 = Selecao.torneio(lc, Principal.configuracao.getnParticipantes());
-			Cromossomo[] filhos = Cruzamento.novoCruzamento(pai1, pai2);
+			Cromossomo[] filhos = Cruzamento.mascara(pai1, pai2);
 			for (Cromossomo cromossomo : filhos) {
 				auxSaidaMutacao = cromossomo.toString();
 				mutante = Mutacao.mutar(lp, cromossomo, Principal.configuracao.getProbMutacao(), 

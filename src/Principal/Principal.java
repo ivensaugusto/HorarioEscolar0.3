@@ -13,11 +13,9 @@ public class Principal {
 		boolean fim = false;
 		int opcaoGeral = -1;
 
-		for (int i = 0; i < 3; i++) {
+		//for (int i = 0; i < 3; i++) 
 			AG.executarAG();
-		}
 
-		
 		/*
 		do {
 			opcaoGeral = Visao.menuGeral();

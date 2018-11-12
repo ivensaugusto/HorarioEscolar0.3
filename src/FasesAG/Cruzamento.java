@@ -48,7 +48,7 @@ public class Cruzamento {
 	 * @param pai2
 	 * @return lista filhos contendo dois cromossomos.
 	 */
-	public static Cromossomo[] novoCruzamento(Cromossomo pai1, Cromossomo pai2) {
+	public static Cromossomo[] cruzamentoIC(Cromossomo pai1, Cromossomo pai2) {
 		// TODO: Escolher e implementar novo metodo de cruzamento que garanta a criação de filhos validos.
 		Random rnd = new Random();
 		int aulas = pai1.getHorario().getAulas();
