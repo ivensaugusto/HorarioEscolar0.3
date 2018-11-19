@@ -1,6 +1,8 @@
 package FasesAG;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
+import java.util.Iterator;
 
 import Geral.Cromossomo;
 import Geral.OrdenaPorFitness;
@@ -25,10 +27,44 @@ public class Reinsercao {
 		return lc;
 	}
 
-	public static ArrayList<Cromossomo> piorPai(ArrayList<Cromossomo> lc, Cromossomo pai, Cromossomo filho) {
-		//TODO Implementar o pior pai
+	public static ArrayList<Cromossomo> piorPai(ArrayList<Cromossomo> lc, Cromossomo filho) {
+		Cromossomo pai1 = Reinsercao.encontraCromossomoPeloUID(lc, filho.getUIDPai1());
+		Cromossomo pai2 = Reinsercao.encontraCromossomoPeloUID(lc, filho.getUIDPai2());
+		//ArrayList<Cromossomo> pais = new ArrayList<Cromossomo>(Arrays.asList(pai1, pai2));
+		ArrayList<Cromossomo> pais = new ArrayList<Cromossomo>();
+		
+		if(pai1 != null)
+			pais.add(pai1);
+		
+		if(pai2 != null)
+			pais.add(pai2);
+		
+		Cromossomo piorPai = Avaliacao.encontrarPiorPai(pais);
+		filhoMelhorQuePai(lc, piorPai, filho);
 		Collections.sort(lc, new OrdenaPorFitness());
 		return lc;
+	}
+
+	private static void filhoMelhorQuePai(ArrayList<Cromossomo> lc, Cromossomo piorPai, Cromossomo filho) {
+		
+		if(piorPai == null || piorPai.getFitness() == filho.getFitness()) {
+			lc.add(filho);
+		} else if(piorPai.getFitness() > filho.getFitness()) {
+			int pos = lc.indexOf(piorPai);
+			if(pos >= 0)
+				lc.set(pos, filho);
+		}
+	}
+
+	private static Cromossomo encontraCromossomoPeloUID(ArrayList<Cromossomo> lc, String uidPai) {
+		Cromossomo pai = null;
+		for(Cromossomo item : lc) {
+			if(item.UID().equals(uidPai)) {
+				pai = item;
+				break;
+			}
+		}
+		return pai;
 	}
 
 	public static ArrayList<Cromossomo> listaResultados(ArrayList<Cromossomo> lc, int limite) {
@@ -40,4 +76,6 @@ public class Reinsercao {
 		}
 		return nl;
 	}
+
+
 }

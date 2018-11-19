@@ -22,6 +22,9 @@ public class AG {
 		valoresDeParada.tempoInicial = Instant.now();
 		Duration duracao = null;
 		ArrayList<Cromossomo> lc;
+		// informar se o AG está em execução a cada 10% do tempo total de execução
+		long intervalo = Principal.configuracao.getTempoMax().toMillis()/10; 
+		long inicioApos = intervalo/100;
 		///////////////////////
 
 		System.out.println("Carregando preferencias...");
@@ -32,12 +35,16 @@ public class AG {
 
 		System.out.println("Criando populacao...");
 		lc = p.criar(lp, Principal.configuracao.getPopulacao());
-		
+
 		System.out.println("Inicio do AG em:\n" + valoresDeParada.tempoInicial);
+
+		Controle.msgAtividade(inicioApos, intervalo); //
+
 		do {
 			valoresDeParada.contCiclos++;
 			Cromossomo pai1 = Selecao.torneio(lc, Principal.configuracao.getnParticipantes());
 			Cromossomo pai2 = Selecao.torneio(lc, Principal.configuracao.getnParticipantes());
+
 			Cromossomo[] filhos = Cruzamento.mascara(pai1, pai2);
 			for (Cromossomo cromossomo : filhos) {
 				auxSaidaMutacao = cromossomo.toString();
@@ -51,8 +58,8 @@ public class AG {
 				Avaliacao.Gens(cromossomo);
 				aux = Deteccao.clone(lc, cromossomo);
 				if (aux == null) {
-
-					Reinsercao.maiorFit(lc, cromossomo);
+					//Reinsercao.maiorFit(lc, cromossomo);
+					Reinsercao.piorPai(lc, cromossomo);
 				} else{
 					contClones++;
 					duracao = Duration.between(valoresDeParada.tempoInicial, Instant.now());

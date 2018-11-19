@@ -8,6 +8,8 @@ import java.time.Duration;
 import java.time.Instant;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Timer;
+import java.util.TimerTask;
 
 import Geral.Cromossomo;
 import Geral.Disciplina;
@@ -162,12 +164,27 @@ public class Controle {
 		}
 		return melhoresFit;
 	}
-	public static void msgAtividade(Instant tempoInicial) {
+	public static void msgAtividade_old(Instant tempoInicial) {
 		Duration duracao = Duration.between(tempoInicial, Instant.now());
 		long intervalo = 10000;
 		if((duracao.toMillis()%intervalo) <= 20) {
 			System.out.println("...AG em execução..." + duracao);
 		}		
+	}
+	
+	public static void msgAtividade(long inicioApos, long intervalo) {
+		Timer timer = new Timer();
+		TimerTask tarefa = new TimerTask() {
+			public void run() {
+				//método
+				try {
+					System.out.println("...AG em execução...");
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		};
+		timer.scheduleAtFixedRate(tarefa, inicioApos, intervalo);
 	}
 
 	

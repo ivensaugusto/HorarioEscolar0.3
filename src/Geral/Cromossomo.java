@@ -10,24 +10,27 @@ public class Cromossomo {
 	private ArrayList<Preferencia> _preferencias;
 	private QuadroHorario _horario;
 	private int fitness = Integer.MIN_VALUE;
+	private String UIDPai1 = null;
+	private String UIDPai2 = null;
 
 	public Cromossomo(ArrayList<Preferencia> preferencias, QuadroHorario horario) {
-		super();
 		this._preferencias = preferencias;
 		this._horario = horario;
 		this.label = null;
-
-		this.gerar();
+		this.slots = this.gerar(preferencias, horario);
+		this.UIDPai1 = null;
+		this.UIDPai2 = null;
 	}
-	
-	public Cromossomo(Slot[][] slots, QuadroHorario horario) {
-		super();
+
+	public Cromossomo(Slot[][] slots, Cromossomo pai1, Cromossomo pai2) {
 		this.slots = slots;
-		this._horario = horario;
+		this._horario = pai1.getHorario();
 		this.label = null;
 		this.fitness = Integer.MIN_VALUE;
+		this.UIDPai1 = pai1.UID();
+		this.UIDPai2 = pai2.UID();
 	}
-	
+
 	@Override
 	public String toString() {
 		StringBuilder builder = new StringBuilder();
@@ -39,11 +42,15 @@ public class Cromossomo {
 		//builder.append(" Label=" + label + "\n");
 		return builder.toString();
 	}	
-	
 
-	public void gerar() {
-		this.slots = criarIndividual(this._preferencias, this._horario);
-		this.label = null;
+	//	public void gerar() {
+	//		this.slots = this.gerar(this._preferencias, this._horario);
+	//		this.label = null;
+	//	}
+
+	public Slot[][] gerar(ArrayList<Preferencia> preferencias, QuadroHorario horario) {
+		Slot[][] slots = criarIndividual(preferencias, horario);
+		return slots;
 	}
 
 	/**
@@ -86,7 +93,7 @@ public class Cromossomo {
 		}
 		return aulasDistribuidas;
 	}
-	
+
 	/**
 	 * criarGeminado: Cria uma matriz, que � um conjunto slots, contendo um gen em cada. 
 	 * Usa uma regra que coloca aulas geminadas em horarios seguidos.
@@ -248,7 +255,7 @@ public class Cromossomo {
 	 */
 	public int getFitness() {
 		//if(this.fitness == Integer.MIN_VALUE)
-			this.fitness = this.calculaFitness();
+		this.fitness = this.calculaFitness();
 		return this.fitness;
 	}
 
@@ -258,6 +265,14 @@ public class Cromossomo {
 
 	public QuadroHorario getHorario() {
 		return this._horario;
+	}
+	
+	public String getUIDPai1() {
+		return UIDPai1;
+	}
+
+	public String getUIDPai2() {
+		return UIDPai2;
 	}
 
 	public String UID() {

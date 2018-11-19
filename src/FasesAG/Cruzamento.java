@@ -32,8 +32,8 @@ public class Cruzamento {
 		}
 		// A avaliacao foi retirada para melhoria de desempenho, sera feita 
 		// no processo de mutacao.		
-		Cromossomo filho1 = new Cromossomo(slotsFilho1, pai1.getHorario());
-		Cromossomo filho2 = new Cromossomo(slotsFilho2, pai2.getHorario());
+		Cromossomo filho1 = new Cromossomo(slotsFilho1, pai1, pai2);
+		Cromossomo filho2 = new Cromossomo(slotsFilho2, pai2, pai1);
 		Cromossomo[] filhos = new Cromossomo[] {filho1, filho2};
 
 		//		System.out.println("na Cruzamento:\n");
@@ -49,7 +49,7 @@ public class Cruzamento {
 	 * @return lista filhos contendo dois cromossomos.
 	 */
 	public static Cromossomo[] cruzamentoIC(Cromossomo pai1, Cromossomo pai2) {
-		// TODO: Escolher e implementar novo metodo de cruzamento que garanta a criação de filhos validos.
+		// TODO: Escolher e implementar novo metodo de cruzamento que garanta a criaï¿½ï¿½o de filhos validos.
 		Random rnd = new Random();
 		int aulas = pai1.getHorario().getAulas();
 		int dias = pai1.getHorario().getDias();
@@ -87,8 +87,8 @@ public class Cruzamento {
 		}
 		// A avaliacao foi retirada para melhoria de desempenho, sera feita 
 		// apos o processo de mutacao.		
-		Cromossomo filho1 = new Cromossomo(slotsFilho1, pai1.getHorario());
-		Cromossomo filho2 = new Cromossomo(slotsFilho2, pai2.getHorario());
+		Cromossomo filho1 = new Cromossomo(slotsFilho1, pai1, pai2);
+		Cromossomo filho2 = new Cromossomo(slotsFilho2, pai2, pai1);
 		Cromossomo[] filhos = new Cromossomo[] {filho1, filho2};
 
 		//		System.out.println("na Cruzamento:\n");
