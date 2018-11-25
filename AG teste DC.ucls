@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Principal.Controle" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/Principal/Controle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="392" x="562" y="-797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Principal.Visao" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/Principal/Visao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="238" x="994" y="-797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Geral.Slot" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/Geral/Slot.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="147" x="130" y="-363"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Geral.QuadroHorario" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/Geral/QuadroHorario.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="164" x="274" y="612"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Geral.Gen" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/Geral/Gen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="164" x="113" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Geral.Configuracao" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/Geral/Configuracao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="585" width="194" x="64" y="-988"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Geral.Cromossomo" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/Geral/Cromossomo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="567" width="324" x="298" y="-988"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Geral.Disciplina" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/Geral/Disciplina.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="183" x="113" y="1075"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Geral.Preferencia" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/Geral/Preferencia.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="302" x="113" y="275"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="Geral.OrdenaPorFitness" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/Geral/OrdenaPorFitness.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="219" x="662" y="-988"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Principal.Principal" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/Principal/Principal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="464" y="-1387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="Principal.Tools" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/Principal/Tools.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="2097" width="262" x="617" y="-1387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Principal.AG" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/Principal/AG.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="311" x="919" y="-1387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="FasesAG.Cruzamento" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/FasesAG/Cruzamento.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="301" x="132" y="-669"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="FasesAG.Populacao" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/FasesAG/Populacao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="306" x="473" y="-669"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="FasesAG.Avaliacao" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/FasesAG/Avaliacao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="299" x="819" y="-669"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="FasesAG.Reinsercao" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/FasesAG/Reinsercao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="395" x="1158" y="-669"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="FasesAG.Mutacao" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/FasesAG/Mutacao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="309" x="1593" y="-669"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="FasesAG.Deteccao" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/FasesAG/Deteccao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="312" x="1942" y="-669"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="FasesAG.Selecao" project="HorarioEscolar0.3" 
+    file="/HorarioEscolar0.3/src/FasesAG/Selecao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="316" x="2294" y="-669"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="21">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="22" name="horario"/>      
+      <multiplicity id="23" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="25" name="gen"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="28" name="configuracao"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <bendpoint x="445" y="-363"/>    
+    <bendpoint x="445" y="-62"/>    
+    <bendpoint x="445" y="275"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="31" name="_horario"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="34" name="slots"/>      
+      <multiplicity id="35" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <bendpoint x="122" y="612"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="37" name="disciplina"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="40" name="listaCromo"/>      
+      <multiplicity id="41" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="43" name="QuadroHorario"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="46" name="preferencia"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="49" name="Top1"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="52" name="horario"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <bendpoint x="307" y="-363"/>    
+    <bendpoint x="307" y="-62"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="55" name="_preferencias"/>      
+      <multiplicity id="56" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="58" name="quadroHorario"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
