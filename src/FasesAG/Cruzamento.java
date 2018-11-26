@@ -30,12 +30,13 @@ public class Cruzamento {
 				}
 			}
 		}
+		
 		// A avaliacao foi retirada para melhoria de desempenho, sera feita 
 		// no processo de mutacao.		
 		Cromossomo filho1 = new Cromossomo(slotsFilho1, pai1, pai2);
 		Cromossomo filho2 = new Cromossomo(slotsFilho2, pai2, pai1);
 		Cromossomo[] filhos = new Cromossomo[] {filho1, filho2};
-
+		
 		//		System.out.println("na Cruzamento:\n");
 		//		System.out.println(filho1);
 		//		System.out.println(filho2);

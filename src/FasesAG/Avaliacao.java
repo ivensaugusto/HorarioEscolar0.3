@@ -4,8 +4,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
+import Geral.Configuracao;
 import Geral.Cromossomo;
+import Geral.Gen;
 import Geral.OrdenaPorFitness;
+import Geral.QuadroHorario;
 import Geral.Slot;
 
 public class Avaliacao {
@@ -35,8 +38,9 @@ public class Avaliacao {
 	 * @param cromossomo
 	 * @return
 	 */
-	public static boolean checarDisciplinasSequencia(Cromossomo cromossomo) {
-		return false;
+	public static boolean[][] checarDisciplinasSequencia(Cromossomo cromossomo, QuadroHorario quadroHorario) {
+		return null;
+	
 	}
 
 	/**
@@ -45,8 +49,27 @@ public class Avaliacao {
 	 * @param cromossomo
 	 * @return
 	 */
-	public static boolean checarQtdMaxDisciplinasDia(Cromossomo cromossomo) {
-		return false;
+	public static boolean checarQtdMaxDisciplinasDia(Cromossomo cromossomo, QuadroHorario quadroHorario) {
+		int dias = quadroHorario.getDias();
+		int aulas = quadroHorario.getAulas();
+		int cont = -1;
+		for (int dia = 0; dia < dias; dia++) {
+			for (int aula = 0; aula < aulas; aula++) {
+				Slot aux = cromossomo.getSlot(aula, dia);
+				cont = -1;
+				for (int i = 0; i < aulas; i++) {
+					if (aux.getGen().UID().equals(cromossomo.getSlot(aula, dia).getGen().UID())) {
+						cont++;
+					}
+				}
+				if (cont > 2) {
+					System.out.println("Repete mais que duas vezes no mesmo dias!"+cont);
+					return false;
+				}
+				
+			}
+		}
+		return true;
 	}
 
 	/***

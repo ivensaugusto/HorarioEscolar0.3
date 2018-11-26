@@ -2170,5 +2170,12 @@ public class Tools {
 		}
 		return spaces;
 	}
-
+	
+	/**
+	 * 110 - Pausa ate pressionar uma tecla.
+	 */
+	public static void pause () {
+		Scanner input = new Scanner(System.in);
+		input.nextLine();
+	}
 }

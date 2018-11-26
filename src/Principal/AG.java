@@ -40,12 +40,18 @@ public class AG {
 
 		Controle.msgAtividade(inicioApos, intervalo); //
 
+		
+		
+		Avaliacao.checarQtdMaxDisciplinasDia(Selecao.torneio(lc, Principal.configuracao.getnParticipantes()), Principal.quadroHorario);
+		Tools.pause();
+		
 		do {
 			valoresDeParada.contCiclos++;
 			Cromossomo pai1 = Selecao.torneio(lc, Principal.configuracao.getnParticipantes());
 			Cromossomo pai2 = Selecao.torneio(lc, Principal.configuracao.getnParticipantes());
 
 			Cromossomo[] filhos = Cruzamento.mascara(pai1, pai2);
+		
 			for (Cromossomo cromossomo : filhos) {
 				auxSaidaMutacao = cromossomo.toString();
 				mutante = Mutacao.mutar(lp, cromossomo, Principal.configuracao.getProbMutacao(), 

@@ -28,6 +28,7 @@ public class Slot {
 	public boolean disponivel() {
 		return this.gen == null;
 	}
+	
 	public int getPeso() {
 		int peso = 0;
 		if(this.gen == null)
