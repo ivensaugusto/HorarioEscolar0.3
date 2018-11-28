@@ -1,0 +1,21 @@
+Resultados:
+
+[]
+
+
+Configuracao:
+ProbMutacao=5, nGensMutados=2,
+nParticipantes=16, populacao=500,
+maxCiclos=2000000, maximoMelhorias=100,
+tempoMax=3, fitnessAlvo=180
+
+Resumo:
+Quantidade de ciclos: 9703
+Quantidade de resultados: 0
+Quantidade de melhorias: 11
+Melhor fitness: 190
+Foram detectados 349 clones.
+Foram detectadas 972 mutacoes.
+Tempo Inicial 2018-11-26T21:46:38.094Z
+Tempo Final 2018-11-26T21:49:38.097Z
+Duracao: PT3M0.003S

@@ -1,0 +1,6648 @@
+Encontrou um clone apos PT7.957S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|Emp:09|LP1:09|Emp:14|
+|RC1:13|Emp:09|PS1:09|LP1:09|RC1:09|
+|PS1:13|LP1:12|RC1:09|Emp:10|LP1:17|
+|BD2:11|PS1:14|Emp:12|BD2:09|PS1:09|
+Fitness: 215
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|Emp:09|LP1:09|Emp:14|
+|RC1:13|Emp:09|PS1:09|LP1:09|RC1:09|
+|PS1:13|LP1:12|RC1:09|Emp:10|LP1:17|
+|BD2:11|PS1:14|Emp:12|BD2:09|PS1:09|
+Fitness: 215
+
+Encontrou um clone apos PT7.957S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|Emp:09|LP1:09|Emp:14|
+|RC1:13|Emp:09|PS1:09|LP1:09|RC1:09|
+|PS1:13|LP1:12|RC1:09|Emp:10|LP1:17|
+|BD2:11|PS1:14|Emp:12|BD2:09|PS1:09|
+Fitness: 215
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|Emp:09|LP1:09|Emp:14|
+|RC1:13|Emp:09|PS1:09|LP1:09|RC1:09|
+|PS1:13|LP1:12|RC1:09|Emp:10|LP1:17|
+|BD2:11|PS1:14|Emp:12|BD2:09|PS1:09|
+Fitness: 215
+
+Encontrou um clone apos PT8.092S tempo
+
+de:
+Cromossomo:
+|Emp:11|LP1:17|Emp:09|RC1:15|RC1:09|
+|RC1:13|Emp:09|BD2:11|LP1:09|TE2:17|
+|PS1:13|RC1:15|RC1:09|Emp:10|PS1:09|
+|RC1:13|RC1:20|RC1:09|RC1:11|TE2:10|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|Emp:11|LP1:17|Emp:09|RC1:15|RC1:09|
+|RC1:13|Emp:09|BD2:11|LP1:09|TE2:17|
+|PS1:13|RC1:15|RC1:09|Emp:10|PS1:09|
+|RC1:13|RC1:20|RC1:09|RC1:11|TE2:10|
+Fitness: 239
+
+Encontrou um clone apos PT8.093S tempo
+
+de:
+Cromossomo:
+|Emp:11|LP1:17|Emp:09|RC1:15|RC1:09|
+|RC1:13|Emp:09|BD2:11|LP1:09|TE2:17|
+|PS1:13|RC1:15|RC1:09|Emp:10|PS1:09|
+|RC1:13|RC1:20|RC1:09|RC1:11|TE2:10|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|Emp:11|LP1:17|Emp:09|RC1:15|RC1:09|
+|RC1:13|Emp:09|BD2:11|LP1:09|TE2:17|
+|PS1:13|RC1:15|RC1:09|Emp:10|PS1:09|
+|RC1:13|RC1:20|RC1:09|RC1:11|TE2:10|
+Fitness: 239
+
+Encontrou um clone apos PT8.243S tempo
+
+de:
+Cromossomo:
+|TE2:09|LP1:17|Emp:09|LP1:09|RC1:09|
+|TE2:09|Emp:09|RC1:10|PS1:11|TE2:17|
+|PS1:13|Emp:11|LP1:11|Emp:10|Emp:15|
+|LP1:09|BD2:09|RC1:09|RC1:11|PS1:09|
+Fitness: 216
+
+
+para:
+Cromossomo:
+|TE2:09|LP1:17|Emp:09|LP1:09|RC1:09|
+|TE2:09|Emp:09|RC1:10|PS1:11|TE2:17|
+|PS1:13|Emp:11|LP1:11|Emp:10|Emp:15|
+|LP1:09|BD2:09|RC1:09|RC1:11|PS1:09|
+Fitness: 216
+
+Encontrou um clone apos PT8.244S tempo
+
+de:
+Cromossomo:
+|TE2:09|LP1:17|Emp:09|LP1:09|RC1:09|
+|TE2:09|Emp:09|RC1:10|PS1:11|TE2:17|
+|PS1:13|Emp:11|LP1:11|Emp:10|Emp:15|
+|LP1:09|BD2:09|RC1:09|RC1:11|PS1:09|
+Fitness: 216
+
+
+para:
+Cromossomo:
+|TE2:09|LP1:17|Emp:09|LP1:09|RC1:09|
+|TE2:09|Emp:09|RC1:10|PS1:11|TE2:17|
+|PS1:13|Emp:11|LP1:11|Emp:10|Emp:15|
+|LP1:09|BD2:09|RC1:09|RC1:11|PS1:09|
+Fitness: 216
+
+Encontrou um clone apos PT8.469S tempo
+
+de:
+Cromossomo:
+|PS1:11|BD2:19|Emp:09|LP1:09|RC1:09|
+|PS1:17|LP1:10|BD2:11|RC1:10|RC1:09|
+|BD2:13|Emp:11|RC1:09|BD2:09|PS1:09|
+|RC1:13|BD2:09|RC1:09|RC1:11|LP1:17|
+Fitness: 224
+
+
+para:
+Cromossomo:
+|PS1:11|BD2:19|Emp:09|LP1:09|RC1:09|
+|PS1:17|LP1:10|BD2:11|RC1:10|RC1:09|
+|BD2:13|Emp:11|RC1:09|BD2:09|PS1:09|
+|RC1:13|BD2:09|RC1:09|RC1:11|LP1:17|
+Fitness: 224
+
+Encontrou um clone apos PT8.469S tempo
+
+de:
+Cromossomo:
+|PS1:11|BD2:19|Emp:09|LP1:09|RC1:09|
+|PS1:17|LP1:10|BD2:11|RC1:10|RC1:09|
+|BD2:13|Emp:11|RC1:09|BD2:09|PS1:09|
+|RC1:13|BD2:09|RC1:09|RC1:11|LP1:17|
+Fitness: 224
+
+
+para:
+Cromossomo:
+|PS1:11|BD2:19|Emp:09|LP1:09|RC1:09|
+|PS1:17|LP1:10|BD2:11|RC1:10|RC1:09|
+|BD2:13|Emp:11|RC1:09|BD2:09|PS1:09|
+|RC1:13|BD2:09|RC1:09|RC1:11|LP1:17|
+Fitness: 224
+
+Encontrou um clone apos PT8.912S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|BD2:16|Emp:15|RC1:09|
+|TE2:09|LP1:10|PS1:09|RC1:10|LP1:11|
+|LP1:09|BD2:16|RC1:09|Emp:10|Emp:15|
+|LP1:09|RC1:20|PS1:15|PS1:12|BD2:16|
+Fitness: 238
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|BD2:16|Emp:15|RC1:09|
+|TE2:09|LP1:10|PS1:09|RC1:10|LP1:11|
+|LP1:09|BD2:16|RC1:09|Emp:10|Emp:15|
+|LP1:09|RC1:20|PS1:15|PS1:12|BD2:16|
+Fitness: 238
+
+Encontrou um clone apos PT8.913S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|BD2:16|Emp:15|RC1:09|
+|TE2:09|LP1:10|PS1:09|RC1:10|LP1:11|
+|LP1:09|BD2:16|RC1:09|Emp:10|Emp:15|
+|LP1:09|RC1:20|PS1:15|PS1:12|BD2:16|
+Fitness: 238
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|BD2:16|Emp:15|RC1:09|
+|TE2:09|LP1:10|PS1:09|RC1:10|LP1:11|
+|LP1:09|BD2:16|RC1:09|Emp:10|Emp:15|
+|LP1:09|RC1:20|PS1:15|PS1:12|BD2:16|
+Fitness: 238
+
+Encontrou um clone apos PT9.647S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|Emp:14|
+|BD2:14|Emp:09|Emp:09|BD2:09|RC1:09|
+|BD2:13|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|BD2:09|RC1:09|BD2:09|PS1:09|
+Fitness: 200
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|Emp:14|
+|BD2:14|Emp:09|Emp:09|BD2:09|RC1:09|
+|BD2:13|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|BD2:09|RC1:09|BD2:09|PS1:09|
+Fitness: 200
+
+Encontrou um clone apos PT9.666S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|Emp:14|
+|LP1:13|Emp:09|Emp:09|BD2:09|RC1:09|
+|BD2:13|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|BD2:09|RC1:09|BD2:09|PS1:09|
+Fitness: 199
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|Emp:14|
+|LP1:13|Emp:09|Emp:09|BD2:09|RC1:09|
+|BD2:13|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|BD2:09|RC1:09|BD2:09|PS1:09|
+Fitness: 199
+
+Encontrou um clone apos PT9.666S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|Emp:14|
+|LP1:13|Emp:09|Emp:09|BD2:09|RC1:09|
+|BD2:13|LP1:12|Emp:10|Emp:10|PS1:09|
+|BD2:11|BD2:09|BD2:10|BD2:09|PS1:09|
+Fitness: 201
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|Emp:14|
+|LP1:13|Emp:09|Emp:09|BD2:09|RC1:09|
+|BD2:13|LP1:12|Emp:10|Emp:10|PS1:09|
+|BD2:11|BD2:09|BD2:10|BD2:09|PS1:09|
+Fitness: 201
+
+Encontrou um clone apos PT9.667S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|Emp:14|
+|LP1:13|Emp:09|Emp:09|BD2:09|RC1:09|
+|BD2:13|LP1:12|Emp:10|Emp:10|PS1:09|
+|BD2:11|BD2:09|BD2:10|BD2:09|PS1:09|
+Fitness: 201
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|Emp:14|
+|LP1:13|Emp:09|Emp:09|BD2:09|RC1:09|
+|BD2:13|LP1:12|Emp:10|Emp:10|PS1:09|
+|BD2:11|BD2:09|BD2:10|BD2:09|PS1:09|
+Fitness: 201
+
+Encontrou um clone apos PT10.056S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|LP1:09|Emp:14|
+|LP1:13|Emp:09|Emp:09|BD2:09|RC1:09|
+|BD2:13|LP1:12|PS1:15|BD2:09|PS1:09|
+|TE2:18|BD2:09|BD2:10|BD2:09|PS1:09|
+Fitness: 214
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|LP1:09|Emp:14|
+|LP1:13|Emp:09|Emp:09|BD2:09|RC1:09|
+|BD2:13|LP1:12|PS1:15|BD2:09|PS1:09|
+|TE2:18|BD2:09|BD2:10|BD2:09|PS1:09|
+Fitness: 214
+
+Encontrou um clone apos PT10.057S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|LP1:09|Emp:14|
+|LP1:13|Emp:09|Emp:09|BD2:09|RC1:09|
+|BD2:13|LP1:12|RC1:09|BD2:09|PS1:09|
+|Emp:10|BD2:09|BD2:10|BD2:09|PS1:09|
+Fitness: 200
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|LP1:09|Emp:14|
+|LP1:13|Emp:09|Emp:09|BD2:09|RC1:09|
+|BD2:13|LP1:12|RC1:09|BD2:09|PS1:09|
+|Emp:10|BD2:09|BD2:10|BD2:09|PS1:09|
+Fitness: 200
+
+Encontrou um clone apos PT10.681S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|PS1:11|LP1:16|
+|BD2:14|Emp:09|TE2:16|BD2:09|RC1:09|
+|BD2:13|Emp:11|RC1:09|BD2:09|PS1:09|
+|Emp:10|LP1:15|RC1:09|RC1:11|PS1:09|
+Fitness: 216
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|PS1:11|LP1:16|
+|BD2:14|Emp:09|TE2:16|BD2:09|RC1:09|
+|BD2:13|Emp:11|RC1:09|BD2:09|PS1:09|
+|Emp:10|LP1:15|RC1:09|RC1:11|PS1:09|
+Fitness: 216
+
+Encontrou um clone apos PT10.681S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|PS1:11|LP1:16|
+|BD2:14|Emp:09|TE2:16|BD2:09|RC1:09|
+|BD2:13|Emp:11|RC1:09|BD2:09|PS1:09|
+|Emp:10|LP1:15|RC1:09|RC1:11|PS1:09|
+Fitness: 216
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|PS1:11|LP1:16|
+|BD2:14|Emp:09|TE2:16|BD2:09|RC1:09|
+|BD2:13|Emp:11|RC1:09|BD2:09|PS1:09|
+|Emp:10|LP1:15|RC1:09|RC1:11|PS1:09|
+Fitness: 216
+
+Encontrou um clone apos PT10.723S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|PS1:11|Emp:14|
+|TE2:09|Emp:09|PS1:09|LP1:09|BD2:12|
+|LP1:09|LP1:12|RC1:09|BD2:09|PS1:09|
+|Emp:10|BD2:09|RC1:09|BD2:09|PS1:09|
+Fitness: 196
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|PS1:11|Emp:14|
+|TE2:09|Emp:09|PS1:09|LP1:09|BD2:12|
+|LP1:09|LP1:12|RC1:09|BD2:09|PS1:09|
+|Emp:10|BD2:09|RC1:09|BD2:09|PS1:09|
+Fitness: 196
+
+Encontrou um clone apos PT10.723S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|PS1:11|Emp:14|
+|TE2:09|Emp:09|PS1:09|LP1:09|BD2:12|
+|LP1:09|LP1:12|RC1:09|BD2:09|PS1:09|
+|Emp:10|BD2:09|RC1:09|BD2:09|PS1:09|
+Fitness: 196
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|PS1:11|Emp:14|
+|TE2:09|Emp:09|PS1:09|LP1:09|BD2:12|
+|LP1:09|LP1:12|RC1:09|BD2:09|PS1:09|
+|Emp:10|BD2:09|RC1:09|BD2:09|PS1:09|
+Fitness: 196
+
+Encontrou um clone apos PT10.762S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|Emp:09|PS1:11|RC1:09|
+|BD2:13|LP1:12|RC1:09|BD2:09|BD2:13|
+|Emp:10|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 203
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|Emp:09|PS1:11|RC1:09|
+|BD2:13|LP1:12|RC1:09|BD2:09|BD2:13|
+|Emp:10|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 203
+
+Encontrou um clone apos PT10.763S tempo
+
+de:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|Emp:09|PS1:11|RC1:09|
+|BD2:13|LP1:12|RC1:09|BD2:09|BD2:13|
+|Emp:10|Emp:19|RC1:09|RC1:11|PS1:09|
+Fitness: 216
+
+
+para:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|Emp:09|PS1:11|RC1:09|
+|BD2:13|LP1:12|RC1:09|BD2:09|BD2:13|
+|Emp:10|Emp:19|RC1:09|RC1:11|PS1:09|
+Fitness: 216
+
+Encontrou um clone apos PT10.837S tempo
+
+de:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|Emp:09|PS1:11|RC1:09|
+|BD2:13|LP1:12|RC1:09|BD2:09|BD2:13|
+|Emp:10|Emp:19|RC1:09|RC1:11|PS1:09|
+Fitness: 216
+
+
+para:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|Emp:09|PS1:11|RC1:09|
+|BD2:13|LP1:12|RC1:09|BD2:09|BD2:13|
+|Emp:10|Emp:19|RC1:09|RC1:11|PS1:09|
+Fitness: 216
+
+Encontrou um clone apos PT10.838S tempo
+
+de:
+Cromossomo:
+|TE2:09|TE2:12|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|Emp:09|BD2:09|RC1:09|
+|PS1:13|Emp:11|RC1:09|BD2:09|PS1:09|
+|RC1:13|LP1:15|BD2:10|RC1:11|PS1:09|
+Fitness: 207
+
+
+para:
+Cromossomo:
+|TE2:09|TE2:12|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|Emp:09|BD2:09|RC1:09|
+|PS1:13|Emp:11|RC1:09|BD2:09|PS1:09|
+|RC1:13|LP1:15|BD2:10|RC1:11|PS1:09|
+Fitness: 207
+
+Encontrou um clone apos PT10.839S tempo
+
+de:
+Cromossomo:
+|TE2:09|TE2:12|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|Emp:09|BD2:09|RC1:09|
+|PS1:13|Emp:11|RC1:09|BD2:09|PS1:09|
+|RC1:13|LP1:15|BD2:10|RC1:11|PS1:09|
+Fitness: 207
+
+
+para:
+Cromossomo:
+|TE2:09|TE2:12|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|Emp:09|BD2:09|RC1:09|
+|PS1:13|Emp:11|RC1:09|BD2:09|PS1:09|
+|RC1:13|LP1:15|BD2:10|RC1:11|PS1:09|
+Fitness: 207
+
+Encontrou um clone apos PT11.337S tempo
+
+de:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|PS1:11|RC1:09|
+|TE2:09|Emp:09|TE2:16|LP1:09|RC1:09|
+|LP1:09|LP1:12|RC1:09|BD2:09|RC1:12|
+|Emp:10|Emp:19|BD2:10|LP1:18|PS1:09|
+Fitness: 221
+
+
+para:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|PS1:11|RC1:09|
+|TE2:09|Emp:09|TE2:16|LP1:09|RC1:09|
+|LP1:09|LP1:12|RC1:09|BD2:09|RC1:12|
+|Emp:10|Emp:19|BD2:10|LP1:18|PS1:09|
+Fitness: 221
+
+Encontrou um clone apos PT11.337S tempo
+
+de:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|PS1:11|RC1:09|
+|TE2:09|Emp:09|TE2:16|LP1:09|RC1:09|
+|LP1:09|LP1:12|RC1:09|BD2:09|RC1:12|
+|Emp:10|Emp:19|BD2:10|LP1:18|PS1:09|
+Fitness: 221
+
+
+para:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|PS1:11|RC1:09|
+|TE2:09|Emp:09|TE2:16|LP1:09|RC1:09|
+|LP1:09|LP1:12|RC1:09|BD2:09|RC1:12|
+|Emp:10|Emp:19|BD2:10|LP1:18|PS1:09|
+Fitness: 221
+
+Encontrou um clone apos PT11.397S tempo
+
+de:
+Cromossomo:
+|Emp:11|PS1:14|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|BD2:11|PS1:11|RC1:09|
+|LP1:09|LP1:12|RC1:09|BD2:09|BD2:13|
+|Emp:10|Emp:19|RC1:09|TE2:15|TE2:10|
+Fitness: 221
+
+
+para:
+Cromossomo:
+|Emp:11|PS1:14|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|BD2:11|PS1:11|RC1:09|
+|LP1:09|LP1:12|RC1:09|BD2:09|BD2:13|
+|Emp:10|Emp:19|RC1:09|TE2:15|TE2:10|
+Fitness: 221
+
+Encontrou um clone apos PT11.398S tempo
+
+de:
+Cromossomo:
+|Emp:11|PS1:14|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|BD2:11|PS1:11|RC1:09|
+|LP1:09|LP1:12|RC1:09|BD2:09|BD2:13|
+|Emp:10|Emp:19|RC1:09|TE2:15|TE2:10|
+Fitness: 221
+
+
+para:
+Cromossomo:
+|Emp:11|PS1:14|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|BD2:11|PS1:11|RC1:09|
+|LP1:09|LP1:12|RC1:09|BD2:09|BD2:13|
+|Emp:10|Emp:19|RC1:09|TE2:15|TE2:10|
+Fitness: 221
+
+Encontrou um clone apos PT11.531S tempo
+
+de:
+Cromossomo:
+|TE2:09|TE2:12|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|TE2:16|BD2:09|RC1:09|
+|PS1:13|LP1:12|RC1:09|BD2:09|PS1:09|
+|Emp:10|LP1:15|RC1:09|RC1:11|PS1:09|
+Fitness: 211
+
+
+para:
+Cromossomo:
+|TE2:09|TE2:12|PS1:09|LP1:09|Emp:14|
+|TE2:09|Emp:09|TE2:16|BD2:09|RC1:09|
+|PS1:13|LP1:12|RC1:09|BD2:09|PS1:09|
+|Emp:10|LP1:15|RC1:09|RC1:11|PS1:09|
+Fitness: 211
+
+Encontrou um clone apos PT11.532S tempo
+
+de:
+Cromossomo:
+|TE2:09|TE2:12|BD2:16|LP1:09|LP1:16|
+|TE2:09|Emp:09|BD2:11|PS1:11|RC1:09|
+|TE2:16|LP1:12|RC1:09|RC1:16|BD2:13|
+|LP1:09|LP1:15|TE2:17|RC1:11|PS1:09|
+Fitness: 238
+
+
+para:
+Cromossomo:
+|TE2:09|TE2:12|BD2:16|LP1:09|LP1:16|
+|TE2:09|Emp:09|BD2:11|PS1:11|RC1:09|
+|TE2:16|LP1:12|RC1:09|RC1:16|BD2:13|
+|LP1:09|LP1:15|TE2:17|RC1:11|PS1:09|
+Fitness: 238
+
+Encontrou um clone apos PT12.361S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|PS1:09|LP1:09|BD2:11|
+|LP1:13|BD2:16|Emp:09|LP1:09|RC1:09|
+|LP1:09|Emp:11|RC1:09|BD2:09|PS1:09|
+|RC1:13|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 214
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|PS1:09|LP1:09|BD2:11|
+|LP1:13|BD2:16|Emp:09|LP1:09|RC1:09|
+|LP1:09|Emp:11|RC1:09|BD2:09|PS1:09|
+|RC1:13|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 214
+
+Encontrou um clone apos PT12.362S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|PS1:09|LP1:09|BD2:11|
+|LP1:13|BD2:16|Emp:09|LP1:09|RC1:09|
+|LP1:09|Emp:11|RC1:09|BD2:09|PS1:09|
+|RC1:13|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 214
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|PS1:09|LP1:09|BD2:11|
+|LP1:13|BD2:16|Emp:09|LP1:09|RC1:09|
+|LP1:09|Emp:11|RC1:09|BD2:09|PS1:09|
+|RC1:13|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 214
+
+Encontrou um clone apos PT12.907S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|BD2:11|
+|LP1:13|Emp:09|RC1:10|LP1:09|RC1:09|
+|LP1:09|RC1:15|RC1:09|TE2:13|Emp:15|
+|LP1:09|BD2:09|TE2:17|TE2:15|PS1:09|
+Fitness: 217
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|BD2:11|
+|LP1:13|Emp:09|RC1:10|LP1:09|RC1:09|
+|LP1:09|RC1:15|RC1:09|TE2:13|Emp:15|
+|LP1:09|BD2:09|TE2:17|TE2:15|PS1:09|
+Fitness: 217
+
+Encontrou um clone apos PT12.908S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|BD2:11|
+|LP1:13|Emp:09|RC1:10|LP1:09|RC1:09|
+|LP1:09|RC1:15|RC1:09|TE2:13|Emp:15|
+|LP1:09|BD2:09|TE2:17|TE2:15|PS1:09|
+Fitness: 217
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|LP1:09|BD2:11|
+|LP1:13|Emp:09|RC1:10|LP1:09|RC1:09|
+|LP1:09|RC1:15|RC1:09|TE2:13|Emp:15|
+|LP1:09|BD2:09|TE2:17|TE2:15|PS1:09|
+Fitness: 217
+
+Encontrou um clone apos PT13.175S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|LP1:13|Emp:09|RC1:10|RC1:10|RC1:09|
+|RC1:11|RC1:15|RC1:09|TE2:13|PS1:09|
+|TE2:18|TE2:20|Emp:12|TE2:15|PS1:09|
+Fitness: 235
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|LP1:13|Emp:09|RC1:10|RC1:10|RC1:09|
+|RC1:11|RC1:15|RC1:09|TE2:13|PS1:09|
+|TE2:18|TE2:20|Emp:12|TE2:15|PS1:09|
+Fitness: 235
+
+Encontrou um clone apos PT13.176S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|LP1:13|Emp:09|TE2:16|BD2:09|RC1:09|
+|RC1:11|Emp:11|RC1:09|TE2:13|BD2:13|
+|BD2:11|BD2:09|Emp:12|RC1:11|PS1:09|
+Fitness: 218
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|LP1:13|Emp:09|TE2:16|BD2:09|RC1:09|
+|RC1:11|Emp:11|RC1:09|TE2:13|BD2:13|
+|BD2:11|BD2:09|Emp:12|RC1:11|PS1:09|
+Fitness: 218
+
+Encontrou um clone apos PT13.24S tempo
+
+de:
+Cromossomo:
+|TE2:09|RC1:13|PS1:09|TE2:13|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|RC1:15|RC1:09|TE2:13|PS1:09|
+|BD2:11|BD2:09|PS1:15|RC1:11|PS1:09|
+Fitness: 213
+
+
+para:
+Cromossomo:
+|TE2:09|RC1:13|PS1:09|TE2:13|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|RC1:15|RC1:09|TE2:13|PS1:09|
+|BD2:11|BD2:09|PS1:15|RC1:11|PS1:09|
+Fitness: 213
+
+Encontrou um clone apos PT13.241S tempo
+
+de:
+Cromossomo:
+|TE2:09|RC1:13|PS1:09|TE2:13|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|RC1:15|RC1:09|TE2:13|PS1:09|
+|BD2:11|BD2:09|PS1:15|RC1:11|PS1:09|
+Fitness: 213
+
+
+para:
+Cromossomo:
+|TE2:09|RC1:13|PS1:09|TE2:13|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|RC1:15|RC1:09|TE2:13|PS1:09|
+|BD2:11|BD2:09|PS1:15|RC1:11|PS1:09|
+Fitness: 213
+
+Encontrou um clone apos PT13.43S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|Emp:11|RC1:09|TE2:13|Emp:15|
+|BD2:11|PS1:14|TE2:17|RC1:11|PS1:09|
+Fitness: 220
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|Emp:11|RC1:09|TE2:13|Emp:15|
+|BD2:11|PS1:14|TE2:17|RC1:11|PS1:09|
+Fitness: 220
+
+Encontrou um clone apos PT13.431S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|Emp:11|RC1:09|TE2:13|Emp:15|
+|BD2:11|PS1:14|TE2:17|RC1:11|PS1:09|
+Fitness: 220
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|Emp:11|RC1:09|TE2:13|Emp:15|
+|BD2:11|PS1:14|TE2:17|RC1:11|PS1:09|
+Fitness: 220
+
+Encontrou um clone apos PT13.441S tempo
+
+de:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|RC1:15|BD2:11|
+|LP1:13|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|LP1:12|RC1:09|TE2:13|PS1:09|
+|TE2:18|BD2:09|RC1:09|RC1:11|PS1:09|
+Fitness: 218
+
+
+para:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|RC1:15|BD2:11|
+|LP1:13|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|LP1:12|RC1:09|TE2:13|PS1:09|
+|TE2:18|BD2:09|RC1:09|RC1:11|PS1:09|
+Fitness: 218
+
+Encontrou um clone apos PT13.441S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|TE2:09|Emp:09|Emp:09|LP1:09|RC1:09|
+|RC1:11|LP1:12|RC1:09|TE2:13|PS1:09|
+|PS1:14|PS1:14|Emp:12|TE2:15|PS1:09|
+Fitness: 216
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|TE2:09|Emp:09|Emp:09|LP1:09|RC1:09|
+|RC1:11|LP1:12|RC1:09|TE2:13|PS1:09|
+|PS1:14|PS1:14|Emp:12|TE2:15|PS1:09|
+Fitness: 216
+
+Encontrou um clone apos PT13.56S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|TE2:09|Emp:09|BD2:11|RC1:10|RC1:09|
+|LP1:09|Emp:11|RC1:09|TE2:13|PS1:09|
+|BD2:11|PS1:14|TE2:17|RC1:11|PS1:09|
+Fitness: 214
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|TE2:09|Emp:09|BD2:11|RC1:10|RC1:09|
+|LP1:09|Emp:11|RC1:09|TE2:13|PS1:09|
+|BD2:11|PS1:14|TE2:17|RC1:11|PS1:09|
+Fitness: 214
+
+Encontrou um clone apos PT13.561S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|TE2:13|BD2:11|
+|TE2:09|Emp:09|Emp:09|LP1:09|RC1:09|
+|RC1:11|Emp:11|RC1:09|TE2:13|PS1:09|
+|BD2:11|PS1:14|Emp:12|RC1:11|PS1:09|
+Fitness: 206
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|TE2:13|BD2:11|
+|TE2:09|Emp:09|Emp:09|LP1:09|RC1:09|
+|RC1:11|Emp:11|RC1:09|TE2:13|PS1:09|
+|BD2:11|PS1:14|Emp:12|RC1:11|PS1:09|
+Fitness: 206
+
+Encontrou um clone apos PT13.662S tempo
+
+de:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|RC1:15|BD2:11|
+|LP1:13|Emp:09|Emp:09|BD2:09|RC1:09|
+|RC1:11|Emp:11|RC1:09|TE2:13|PS1:09|
+|BD2:11|PS1:14|Emp:12|RC1:11|PS1:09|
+Fitness: 217
+
+
+para:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|RC1:15|BD2:11|
+|LP1:13|Emp:09|Emp:09|BD2:09|RC1:09|
+|RC1:11|Emp:11|RC1:09|TE2:13|PS1:09|
+|BD2:11|PS1:14|Emp:12|RC1:11|PS1:09|
+Fitness: 217
+
+Encontrou um clone apos PT13.669S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|Emp:13|Emp:11|RC1:09|TE2:13|PS1:09|
+|PS1:14|BD2:09|Emp:12|TE2:15|TE2:10|
+Fitness: 214
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|Emp:13|Emp:11|RC1:09|TE2:13|PS1:09|
+|PS1:14|BD2:09|Emp:12|TE2:15|TE2:10|
+Fitness: 214
+
+Encontrou um clone apos PT13.669S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|Emp:13|Emp:11|RC1:09|TE2:13|PS1:09|
+|PS1:14|BD2:09|Emp:12|TE2:15|TE2:10|
+Fitness: 214
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|RC1:15|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|Emp:13|Emp:11|RC1:09|TE2:13|PS1:09|
+|PS1:14|BD2:09|Emp:12|TE2:15|TE2:10|
+Fitness: 214
+
+Encontrou um clone apos PT14.11S tempo
+
+de:
+Cromossomo:
+|BD2:20|PS1:14|PS1:09|TE2:13|BD2:11|
+|LP1:13|Emp:09|RC1:10|BD2:09|RC1:09|
+|LP1:09|Emp:11|RC1:09|TE2:13|Emp:15|
+|LP1:09|PS1:14|Emp:12|RC1:11|TE2:10|
+Fitness: 230
+
+
+para:
+Cromossomo:
+|BD2:20|PS1:14|PS1:09|TE2:13|BD2:11|
+|LP1:13|Emp:09|RC1:10|BD2:09|RC1:09|
+|LP1:09|Emp:11|RC1:09|TE2:13|Emp:15|
+|LP1:09|PS1:14|Emp:12|RC1:11|TE2:10|
+Fitness: 230
+
+Encontrou um clone apos PT14.11S tempo
+
+de:
+Cromossomo:
+|BD2:20|PS1:14|PS1:09|TE2:13|BD2:11|
+|LP1:13|Emp:09|RC1:10|BD2:09|RC1:09|
+|LP1:09|Emp:11|RC1:09|TE2:13|Emp:15|
+|LP1:09|PS1:14|Emp:12|RC1:11|TE2:10|
+Fitness: 230
+
+
+para:
+Cromossomo:
+|BD2:20|PS1:14|PS1:09|TE2:13|BD2:11|
+|LP1:13|Emp:09|RC1:10|BD2:09|RC1:09|
+|LP1:09|Emp:11|RC1:09|TE2:13|Emp:15|
+|LP1:09|PS1:14|Emp:12|RC1:11|TE2:10|
+Fitness: 230
+
+Encontrou um clone apos PT14.311S tempo
+
+de:
+Cromossomo:
+|BD2:20|Emp:09|PS1:09|TE2:13|BD2:11|
+|BD2:14|LP1:10|BD2:11|PS1:11|RC1:09|
+|LP1:09|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|BD2:09|TE2:17|RC1:11|BD2:16|
+Fitness: 229
+
+
+para:
+Cromossomo:
+|BD2:20|Emp:09|PS1:09|TE2:13|BD2:11|
+|BD2:14|LP1:10|BD2:11|PS1:11|RC1:09|
+|LP1:09|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|BD2:09|TE2:17|RC1:11|BD2:16|
+Fitness: 229
+
+Encontrou um clone apos PT14.311S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|RC1:10|PS1:11|RC1:09|
+|PS1:13|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|BD2:09|Emp:12|RC1:11|BD2:16|
+Fitness: 217
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|RC1:10|PS1:11|RC1:09|
+|PS1:13|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|BD2:09|Emp:12|RC1:11|BD2:16|
+Fitness: 217
+
+Encontrou um clone apos PT14.377S tempo
+
+de:
+Cromossomo:
+|BD2:20|Emp:09|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|BD2:11|PS1:11|RC1:09|
+|RC1:11|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|BD2:09|Emp:12|RC1:11|BD2:16|
+Fitness: 225
+
+
+para:
+Cromossomo:
+|BD2:20|Emp:09|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|BD2:11|PS1:11|RC1:09|
+|RC1:11|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|BD2:09|Emp:12|RC1:11|BD2:16|
+Fitness: 225
+
+Encontrou um clone apos PT14.613S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|RC1:10|PS1:11|RC1:09|
+|RC1:11|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|BD2:09|Emp:12|RC1:11|PS1:09|
+Fitness: 208
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|RC1:10|PS1:11|RC1:09|
+|RC1:11|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|BD2:09|Emp:12|RC1:11|PS1:09|
+Fitness: 208
+
+Encontrou um clone apos PT14.613S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|Emp:09|PS1:11|RC1:09|
+|PS1:13|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|BD2:09|Emp:12|RC1:11|BD2:16|
+Fitness: 216
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|Emp:09|PS1:11|RC1:09|
+|PS1:13|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|BD2:09|Emp:12|RC1:11|BD2:16|
+Fitness: 216
+
+Encontrou um clone apos PT14.645S tempo
+
+de:
+Cromossomo:
+|Emp:11|PS1:14|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|BD2:11|PS1:11|RC1:09|
+|RC1:11|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|LP1:15|RC1:09|RC1:11|BD2:16|
+Fitness: 224
+
+
+para:
+Cromossomo:
+|Emp:11|PS1:14|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|BD2:11|PS1:11|RC1:09|
+|RC1:11|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|LP1:15|RC1:09|RC1:11|BD2:16|
+Fitness: 224
+
+Encontrou um clone apos PT14.645S tempo
+
+de:
+Cromossomo:
+|Emp:11|PS1:14|PS1:09|TE2:13|BD2:11|
+|TE2:09|LP1:10|BD2:11|PS1:11|RC1:09|
+|RC1:11|Emp:11|RC1:09|Emp:10|PS1:09|
+|LP1:09|LP1:15|Emp:12|RC1:11|BD2:16|
+Fitness: 221
+
+
+para:
+Cromossomo:
+|Emp:11|PS1:14|PS1:09|TE2:13|BD2:11|
+|TE2:09|LP1:10|BD2:11|PS1:11|RC1:09|
+|RC1:11|Emp:11|RC1:09|Emp:10|PS1:09|
+|LP1:09|LP1:15|Emp:12|RC1:11|BD2:16|
+Fitness: 221
+
+Encontrou um clone apos PT14.707S tempo
+
+de:
+Cromossomo:
+|Emp:11|PS1:14|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|BD2:11|PS1:11|RC1:09|
+|RC1:11|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|TE2:20|RC1:09|RC1:11|BD2:16|
+Fitness: 229
+
+
+para:
+Cromossomo:
+|Emp:11|PS1:14|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|BD2:11|PS1:11|RC1:09|
+|RC1:11|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|TE2:20|RC1:09|RC1:11|BD2:16|
+Fitness: 229
+
+Encontrou um clone apos PT14.708S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|Emp:09|PS1:11|RC1:09|
+|LP1:09|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 209
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|Emp:09|PS1:11|RC1:09|
+|LP1:09|Emp:11|RC1:09|Emp:10|PS1:09|
+|BD2:11|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 209
+
+Encontrou um clone apos PT14.808S tempo
+
+de:
+Cromossomo:
+|BD2:20|Emp:09|PS1:09|TE2:13|BD2:11|
+|BD2:14|LP1:10|PS1:09|LP1:09|RC1:09|
+|LP1:09|Emp:11|LP1:11|Emp:10|PS1:09|
+|BD2:11|BD2:09|PS1:15|RC1:11|BD2:16|
+Fitness: 225
+
+
+para:
+Cromossomo:
+|BD2:20|Emp:09|PS1:09|TE2:13|BD2:11|
+|BD2:14|LP1:10|PS1:09|LP1:09|RC1:09|
+|LP1:09|Emp:11|LP1:11|Emp:10|PS1:09|
+|BD2:11|BD2:09|PS1:15|RC1:11|BD2:16|
+Fitness: 225
+
+Encontrou um clone apos PT14.809S tempo
+
+de:
+Cromossomo:
+|BD2:20|Emp:09|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|PS1:09|PS1:11|RC1:09|
+|LP1:09|Emp:11|LP1:11|Emp:10|PS1:09|
+|BD2:11|BD2:09|PS1:15|RC1:11|BD2:16|
+Fitness: 226
+
+
+para:
+Cromossomo:
+|BD2:20|Emp:09|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|PS1:09|PS1:11|RC1:09|
+|LP1:09|Emp:11|LP1:11|Emp:10|PS1:09|
+|BD2:11|BD2:09|PS1:15|RC1:11|BD2:16|
+Fitness: 226
+
+Encontrou um clone apos PT14.893S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|BD2:14|LP1:10|Emp:09|PS1:11|RC1:09|
+|RC1:11|Emp:11|LP1:11|Emp:10|PS1:09|
+|BD2:11|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 214
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|BD2:14|LP1:10|Emp:09|PS1:11|RC1:09|
+|RC1:11|Emp:11|LP1:11|Emp:10|PS1:09|
+|BD2:11|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 214
+
+Encontrou um clone apos PT14.971S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|BD2:14|LP1:10|Emp:09|PS1:11|PS1:18|
+|RC1:11|Emp:11|LP1:11|Emp:10|PS1:09|
+|BD2:11|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 223
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|BD2:14|LP1:10|Emp:09|PS1:11|PS1:18|
+|RC1:11|Emp:11|LP1:11|Emp:10|PS1:09|
+|BD2:11|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 223
+
+Encontrou um clone apos PT15.014S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|BD2:14|LP1:10|Emp:09|PS1:11|PS1:18|
+|LP1:09|Emp:11|LP1:11|Emp:10|PS1:09|
+|LP1:09|BD2:09|TE2:17|RC1:11|PS1:09|
+Fitness: 220
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|BD2:14|LP1:10|Emp:09|PS1:11|PS1:18|
+|LP1:09|Emp:11|LP1:11|Emp:10|PS1:09|
+|LP1:09|BD2:09|TE2:17|RC1:11|PS1:09|
+Fitness: 220
+
+Encontrou um clone apos PT15.213S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|TE2:09|LP1:10|Emp:09|PS1:11|PS1:18|
+|LP1:09|Emp:11|LP1:11|RC1:16|PS1:09|
+|LP1:09|BD2:09|TE2:17|RC1:11|PS1:09|
+Fitness: 221
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|TE2:09|LP1:10|Emp:09|PS1:11|PS1:18|
+|LP1:09|Emp:11|LP1:11|RC1:16|PS1:09|
+|LP1:09|BD2:09|TE2:17|RC1:11|PS1:09|
+Fitness: 221
+
+Encontrou um clone apos PT15.213S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|BD2:14|LP1:10|Emp:09|PS1:11|PS1:18|
+|LP1:09|Emp:11|LP1:11|RC1:16|PS1:09|
+|LP1:09|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 225
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|BD2:14|LP1:10|Emp:09|PS1:11|PS1:18|
+|LP1:09|Emp:11|LP1:11|RC1:16|PS1:09|
+|LP1:09|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 225
+
+Encontrou um clone apos PT15.389S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|Emp:09|PS1:11|PS1:18|
+|RC1:11|Emp:11|LP1:11|RC1:16|PS1:09|
+|BD2:11|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 222
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|LP1:13|LP1:10|Emp:09|PS1:11|PS1:18|
+|RC1:11|Emp:11|LP1:11|RC1:16|PS1:09|
+|BD2:11|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 222
+
+Encontrou um clone apos PT15.39S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|BD2:14|LP1:10|Emp:09|PS1:11|PS1:18|
+|RC1:11|Emp:11|LP1:11|RC1:16|PS1:09|
+|LP1:09|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 221
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|BD2:14|LP1:10|Emp:09|PS1:11|PS1:18|
+|RC1:11|Emp:11|LP1:11|RC1:16|PS1:09|
+|LP1:09|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 221
+
+Encontrou um clone apos PT15.468S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|LP1:19|TE2:13|BD2:11|
+|TE2:09|LP1:10|TE2:16|PS1:11|PS1:18|
+|LP1:09|Emp:11|LP1:11|RC1:16|PS1:09|
+|BD2:11|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|LP1:19|TE2:13|BD2:11|
+|TE2:09|LP1:10|TE2:16|PS1:11|PS1:18|
+|LP1:09|Emp:11|LP1:11|RC1:16|PS1:09|
+|BD2:11|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 239
+
+Encontrou um clone apos PT15.468S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|TE2:09|LP1:10|PS1:09|PS1:11|PS1:18|
+|RC1:11|Emp:11|RC1:09|RC1:16|PS1:09|
+|BD2:11|BD2:09|BD2:10|RC1:11|BD2:16|
+Fitness: 223
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|TE2:09|LP1:10|PS1:09|PS1:11|PS1:18|
+|RC1:11|Emp:11|RC1:09|RC1:16|PS1:09|
+|BD2:11|BD2:09|BD2:10|RC1:11|BD2:16|
+Fitness: 223
+
+Encontrou um clone apos PT16.062S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|LP1:19|LP1:09|RC1:09|
+|TE2:09|LP1:10|BD2:11|RC1:10|RC1:09|
+|LP1:09|PS1:14|RC1:09|BD2:09|BD2:13|
+|LP1:09|TE2:20|BD2:10|TE2:15|PS1:09|
+Fitness: 223
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|LP1:19|LP1:09|RC1:09|
+|TE2:09|LP1:10|BD2:11|RC1:10|RC1:09|
+|LP1:09|PS1:14|RC1:09|BD2:09|BD2:13|
+|LP1:09|TE2:20|BD2:10|TE2:15|PS1:09|
+Fitness: 223
+
+Encontrou um clone apos PT16.063S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|LP1:19|LP1:09|RC1:09|
+|TE2:09|LP1:10|BD2:11|RC1:10|RC1:09|
+|LP1:09|PS1:14|RC1:09|PS1:18|BD2:13|
+|LP1:09|TE2:20|BD2:10|TE2:15|PS1:09|
+Fitness: 232
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|LP1:19|LP1:09|RC1:09|
+|TE2:09|LP1:10|BD2:11|RC1:10|RC1:09|
+|LP1:09|PS1:14|RC1:09|PS1:18|BD2:13|
+|LP1:09|TE2:20|BD2:10|TE2:15|PS1:09|
+Fitness: 232
+
+Encontrou um clone apos PT16.906S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|LP1:09|PS1:18|
+|BD2:14|LP1:10|Emp:09|BD2:09|BD2:12|
+|LP1:09|LP1:12|RC1:09|BD2:09|RC1:12|
+|RC1:13|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 218
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|LP1:09|PS1:18|
+|BD2:14|LP1:10|Emp:09|BD2:09|BD2:12|
+|LP1:09|LP1:12|RC1:09|BD2:09|RC1:12|
+|RC1:13|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 218
+
+Encontrou um clone apos PT16.906S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|LP1:09|PS1:18|
+|BD2:14|LP1:10|Emp:09|BD2:09|BD2:12|
+|LP1:09|LP1:12|RC1:09|BD2:09|RC1:12|
+|RC1:13|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 218
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|LP1:09|PS1:18|
+|BD2:14|LP1:10|Emp:09|BD2:09|BD2:12|
+|LP1:09|LP1:12|RC1:09|BD2:09|RC1:12|
+|RC1:13|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 218
+
+Encontrou um clone apos PT17.708S tempo
+
+de:
+Cromossomo:
+|Emp:11|PS1:14|PS1:09|Emp:15|RC1:09|
+|LP1:13|LP1:10|PS1:09|BD2:09|RC1:09|
+|BD2:13|RC1:15|TE2:15|Emp:10|PS1:09|
+|RC1:13|BD2:09|BD2:10|TE2:15|TE2:10|
+Fitness: 227
+
+
+para:
+Cromossomo:
+|Emp:11|PS1:14|PS1:09|Emp:15|RC1:09|
+|LP1:13|LP1:10|PS1:09|BD2:09|RC1:09|
+|BD2:13|RC1:15|TE2:15|Emp:10|PS1:09|
+|RC1:13|BD2:09|BD2:10|TE2:15|TE2:10|
+Fitness: 227
+
+Encontrou um clone apos PT17.709S tempo
+
+de:
+Cromossomo:
+|Emp:11|PS1:14|PS1:09|Emp:15|RC1:09|
+|LP1:13|LP1:10|PS1:09|BD2:09|RC1:09|
+|BD2:13|RC1:15|TE2:15|Emp:10|PS1:09|
+|RC1:13|BD2:09|BD2:10|TE2:15|TE2:10|
+Fitness: 227
+
+
+para:
+Cromossomo:
+|Emp:11|PS1:14|PS1:09|Emp:15|RC1:09|
+|LP1:13|LP1:10|PS1:09|BD2:09|RC1:09|
+|BD2:13|RC1:15|TE2:15|Emp:10|PS1:09|
+|RC1:13|BD2:09|BD2:10|TE2:15|TE2:10|
+Fitness: 227
+
+Encontrou um clone apos PT18.555S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|LP1:09|TE2:16|
+|BD2:14|BD2:16|Emp:09|BD2:09|RC1:09|
+|LP1:09|RC1:15|BD2:18|Emp:10|PS1:09|
+|PS1:14|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 226
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|LP1:09|TE2:16|
+|BD2:14|BD2:16|Emp:09|BD2:09|RC1:09|
+|LP1:09|RC1:15|BD2:18|Emp:10|PS1:09|
+|PS1:14|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 226
+
+Encontrou um clone apos PT18.561S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|LP1:09|PS1:18|
+|BD2:14|BD2:16|Emp:09|BD2:09|RC1:09|
+|RC1:11|Emp:11|BD2:18|PS1:18|PS1:09|
+|LP1:09|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 229
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|LP1:09|PS1:18|
+|BD2:14|BD2:16|Emp:09|BD2:09|RC1:09|
+|RC1:11|Emp:11|BD2:18|PS1:18|PS1:09|
+|LP1:09|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 229
+
+Encontrou um clone apos PT18.561S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|LP1:09|PS1:18|
+|BD2:14|BD2:16|Emp:09|BD2:09|RC1:09|
+|RC1:11|Emp:11|BD2:18|PS1:18|PS1:09|
+|LP1:09|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 229
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|LP1:09|PS1:18|
+|BD2:14|BD2:16|Emp:09|BD2:09|RC1:09|
+|RC1:11|Emp:11|BD2:18|PS1:18|PS1:09|
+|LP1:09|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 229
+
+Encontrou um clone apos PT18.666S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|LP1:09|TE2:16|
+|BD2:14|BD2:16|Emp:09|BD2:09|RC1:09|
+|LP1:09|RC1:15|BD2:18|LP1:15|PS1:09|
+|PS1:14|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 231
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|LP1:09|TE2:16|
+|BD2:14|BD2:16|Emp:09|BD2:09|RC1:09|
+|LP1:09|RC1:15|BD2:18|LP1:15|PS1:09|
+|PS1:14|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 231
+
+Encontrou um clone apos PT18.667S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|PS1:11|TE2:16|
+|PS1:17|BD2:16|PS1:09|BD2:09|RC1:09|
+|LP1:09|Emp:11|BD2:18|LP1:15|PS1:09|
+|LP1:09|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 227
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|PS1:11|TE2:16|
+|PS1:17|BD2:16|PS1:09|BD2:09|RC1:09|
+|LP1:09|Emp:11|BD2:18|LP1:15|PS1:09|
+|LP1:09|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 227
+
+Encontrou um clone apos PT18.729S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|LP1:09|TE2:16|
+|TE2:09|BD2:16|Emp:09|BD2:09|RC1:09|
+|LP1:09|Emp:11|BD2:18|LP1:15|PS1:09|
+|LP1:09|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 217
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|LP1:09|TE2:16|
+|TE2:09|BD2:16|Emp:09|BD2:09|RC1:09|
+|LP1:09|Emp:11|BD2:18|LP1:15|PS1:09|
+|LP1:09|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 217
+
+Encontrou um clone apos PT18.73S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|LP1:09|TE2:16|
+|TE2:09|BD2:16|Emp:09|BD2:09|RC1:09|
+|LP1:09|Emp:11|BD2:18|LP1:15|PS1:09|
+|LP1:09|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 217
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|LP1:09|TE2:16|
+|TE2:09|BD2:16|Emp:09|BD2:09|RC1:09|
+|LP1:09|Emp:11|BD2:18|LP1:15|PS1:09|
+|LP1:09|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 217
+
+Encontrou um clone apos PT18.735S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|LP1:09|TE2:16|
+|TE2:09|BD2:16|Emp:09|BD2:09|RC1:09|
+|LP1:09|RC1:15|BD2:18|LP1:15|PS1:09|
+|LP1:09|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 221
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|LP1:09|TE2:16|
+|TE2:09|BD2:16|Emp:09|BD2:09|RC1:09|
+|LP1:09|RC1:15|BD2:18|LP1:15|PS1:09|
+|LP1:09|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 221
+
+Encontrou um clone apos PT18.947S tempo
+
+de:
+Cromossomo:
+|RC1:19|Emp:09|Emp:09|TE2:13|LP1:16|
+|TE2:09|BD2:16|Emp:09|BD2:09|RC1:09|
+|LP1:09|Emp:11|Emp:10|BD2:09|PS1:09|
+|BD2:11|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 216
+
+
+para:
+Cromossomo:
+|RC1:19|Emp:09|Emp:09|TE2:13|LP1:16|
+|TE2:09|BD2:16|Emp:09|BD2:09|RC1:09|
+|LP1:09|Emp:11|Emp:10|BD2:09|PS1:09|
+|BD2:11|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 216
+
+Encontrou um clone apos PT18.947S tempo
+
+de:
+Cromossomo:
+|RC1:19|Emp:09|Emp:09|TE2:13|LP1:16|
+|TE2:09|BD2:16|Emp:09|BD2:09|RC1:09|
+|LP1:09|Emp:11|Emp:10|LP1:15|PS1:09|
+|BD2:11|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 222
+
+
+para:
+Cromossomo:
+|RC1:19|Emp:09|Emp:09|TE2:13|LP1:16|
+|TE2:09|BD2:16|Emp:09|BD2:09|RC1:09|
+|LP1:09|Emp:11|Emp:10|LP1:15|PS1:09|
+|BD2:11|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 222
+
+Encontrou um clone apos PT19.532S tempo
+
+de:
+Cromossomo:
+|BD2:20|Emp:09|Emp:09|TE2:13|TE2:16|
+|TE2:09|LP1:10|PS1:09|BD2:09|RC1:09|
+|LP1:09|RC1:15|BD2:18|LP1:15|PS1:09|
+|BD2:11|BD2:09|LP1:11|LP1:18|PS1:09|
+Fitness: 237
+
+
+para:
+Cromossomo:
+|BD2:20|Emp:09|Emp:09|TE2:13|TE2:16|
+|TE2:09|LP1:10|PS1:09|BD2:09|RC1:09|
+|LP1:09|RC1:15|BD2:18|LP1:15|PS1:09|
+|BD2:11|BD2:09|LP1:11|LP1:18|PS1:09|
+Fitness: 237
+
+Encontrou um clone apos PT19.533S tempo
+
+de:
+Cromossomo:
+|RC1:19|Emp:09|Emp:09|TE2:13|TE2:16|
+|TE2:09|LP1:10|PS1:09|BD2:09|RC1:09|
+|LP1:09|RC1:15|BD2:18|LP1:15|PS1:09|
+|LP1:09|BD2:09|BD2:10|LP1:18|PS1:09|
+Fitness: 233
+
+
+para:
+Cromossomo:
+|RC1:19|Emp:09|Emp:09|TE2:13|TE2:16|
+|TE2:09|LP1:10|PS1:09|BD2:09|RC1:09|
+|LP1:09|RC1:15|BD2:18|LP1:15|PS1:09|
+|LP1:09|BD2:09|BD2:10|LP1:18|PS1:09|
+Fitness: 233
+
+Encontrou um clone apos PT19.534S tempo
+
+de:
+Cromossomo:
+|RC1:19|Emp:09|Emp:09|TE2:13|TE2:16|
+|TE2:09|LP1:10|PS1:09|BD2:09|TE2:17|
+|LP1:09|PS1:14|PS1:15|LP1:15|PS1:09|
+|BD2:11|BD2:09|BD2:10|LP1:18|PS1:09|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|RC1:19|Emp:09|Emp:09|TE2:13|TE2:16|
+|TE2:09|LP1:10|PS1:09|BD2:09|TE2:17|
+|LP1:09|PS1:14|PS1:15|LP1:15|PS1:09|
+|BD2:11|BD2:09|BD2:10|LP1:18|PS1:09|
+Fitness: 239
+
+Encontrou um clone apos PT19.55S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|Emp:09|TE2:13|TE2:16|
+|TE2:09|LP1:10|PS1:09|BD2:09|RC1:09|
+|LP1:09|RC1:15|PS1:15|PS1:18|PS1:09|
+|LP1:09|BD2:09|BD2:10|LP1:18|PS1:09|
+Fitness: 223
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|Emp:09|TE2:13|TE2:16|
+|TE2:09|LP1:10|PS1:09|BD2:09|RC1:09|
+|LP1:09|RC1:15|PS1:15|PS1:18|PS1:09|
+|LP1:09|BD2:09|BD2:10|LP1:18|PS1:09|
+Fitness: 223
+
+Encontrou um clone apos PT19.551S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|Emp:09|TE2:13|TE2:16|
+|TE2:09|LP1:10|PS1:09|BD2:09|RC1:09|
+|LP1:09|RC1:15|PS1:15|PS1:18|PS1:09|
+|LP1:09|BD2:09|BD2:10|LP1:18|PS1:09|
+Fitness: 223
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|Emp:09|TE2:13|TE2:16|
+|TE2:09|LP1:10|PS1:09|BD2:09|RC1:09|
+|LP1:09|RC1:15|PS1:15|PS1:18|PS1:09|
+|LP1:09|BD2:09|BD2:10|LP1:18|PS1:09|
+Fitness: 223
+
+Encontrou um clone apos PT19.847S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|TE2:09|LP1:10|PS1:09|BD2:09|Emp:20|
+|LP1:09|Emp:11|BD2:18|LP1:15|RC1:12|
+|BD2:11|BD2:09|BD2:10|LP1:18|PS1:09|
+Fitness: 228
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|TE2:09|LP1:10|PS1:09|BD2:09|Emp:20|
+|LP1:09|Emp:11|BD2:18|LP1:15|RC1:12|
+|BD2:11|BD2:09|BD2:10|LP1:18|PS1:09|
+Fitness: 228
+
+Encontrou um clone apos PT19.848S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|TE2:09|LP1:10|PS1:09|BD2:09|Emp:20|
+|RC1:11|Emp:11|BD2:18|LP1:15|RC1:12|
+|BD2:11|BD2:09|BD2:10|LP1:18|PS1:09|
+Fitness: 230
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|TE2:09|LP1:10|PS1:09|BD2:09|Emp:20|
+|RC1:11|Emp:11|BD2:18|LP1:15|RC1:12|
+|BD2:11|BD2:09|BD2:10|LP1:18|PS1:09|
+Fitness: 230
+
+Encontrou um clone apos PT20.607S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|Emp:09|TE2:13|TE2:16|
+|RC1:13|TE2:20|BD2:11|BD2:09|RC1:09|
+|LP1:09|LP1:12|Emp:10|LP1:15|RC1:12|
+|LP1:09|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 225
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|Emp:09|TE2:13|TE2:16|
+|RC1:13|TE2:20|BD2:11|BD2:09|RC1:09|
+|LP1:09|LP1:12|Emp:10|LP1:15|RC1:12|
+|LP1:09|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 225
+
+Encontrou um clone apos PT20.607S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|Emp:09|TE2:13|TE2:16|
+|RC1:13|TE2:20|BD2:11|BD2:09|RC1:09|
+|LP1:09|LP1:12|Emp:10|LP1:15|RC1:12|
+|LP1:09|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 225
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|Emp:09|TE2:13|TE2:16|
+|RC1:13|TE2:20|BD2:11|BD2:09|RC1:09|
+|LP1:09|LP1:12|Emp:10|LP1:15|RC1:12|
+|LP1:09|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 225
+
+Encontrou um clone apos PT21.391S tempo
+
+de:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|TE2:13|TE2:16|
+|RC1:13|TE2:20|RC1:10|BD2:09|BD2:12|
+|LP1:09|Emp:11|Emp:10|LP1:15|Emp:15|
+|LP1:09|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 238
+
+
+para:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|TE2:13|TE2:16|
+|RC1:13|TE2:20|RC1:10|BD2:09|BD2:12|
+|LP1:09|Emp:11|Emp:10|LP1:15|Emp:15|
+|LP1:09|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 238
+
+Encontrou um clone apos PT21.391S tempo
+
+de:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|TE2:13|TE2:16|
+|RC1:13|TE2:20|RC1:10|BD2:09|BD2:12|
+|LP1:09|Emp:11|Emp:10|LP1:15|Emp:15|
+|LP1:09|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 238
+
+
+para:
+Cromossomo:
+|TE2:09|PS1:14|PS1:09|TE2:13|TE2:16|
+|RC1:13|TE2:20|RC1:10|BD2:09|BD2:12|
+|LP1:09|Emp:11|Emp:10|LP1:15|Emp:15|
+|LP1:09|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 238
+
+Encontrou um clone apos PT21.752S tempo
+
+de:
+Cromossomo:
+|TE2:09|LP1:17|PS1:09|LP1:09|RC1:09|
+|RC1:13|PS1:13|RC1:10|Emp:17|RC1:09|
+|LP1:09|RC1:15|Emp:10|LP1:15|Emp:15|
+|Emp:10|LP1:15|LP1:11|BD2:09|LP1:17|
+Fitness: 241
+
+
+para:
+Cromossomo:
+|TE2:09|LP1:17|PS1:09|LP1:09|RC1:09|
+|RC1:13|PS1:13|RC1:10|Emp:17|RC1:09|
+|LP1:09|RC1:15|Emp:10|LP1:15|Emp:15|
+|Emp:10|LP1:15|LP1:11|BD2:09|LP1:17|
+Fitness: 241
+
+Encontrou um clone apos PT21.754S tempo
+
+de:
+Cromossomo:
+|TE2:09|LP1:17|PS1:09|LP1:09|RC1:09|
+|RC1:13|PS1:13|RC1:10|LP1:09|RC1:09|
+|LP1:09|RC1:15|Emp:10|LP1:15|Emp:15|
+|Emp:10|LP1:15|LP1:11|BD2:09|LP1:17|
+Fitness: 233
+
+
+para:
+Cromossomo:
+|TE2:09|LP1:17|PS1:09|LP1:09|RC1:09|
+|RC1:13|PS1:13|RC1:10|LP1:09|RC1:09|
+|LP1:09|RC1:15|Emp:10|LP1:15|Emp:15|
+|Emp:10|LP1:15|LP1:11|BD2:09|LP1:17|
+Fitness: 233
+
+Encontrou um clone apos PT21.837S tempo
+
+de:
+Cromossomo:
+|PS1:11|LP1:17|PS1:09|TE2:13|RC1:09|
+|RC1:13|LP1:10|Emp:09|BD2:09|Emp:20|
+|LP1:09|PS1:14|Emp:10|BD2:09|Emp:15|
+|LP1:09|LP1:15|LP1:11|LP1:18|PS1:09|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|PS1:11|LP1:17|PS1:09|TE2:13|RC1:09|
+|RC1:13|LP1:10|Emp:09|BD2:09|Emp:20|
+|LP1:09|PS1:14|Emp:10|BD2:09|Emp:15|
+|LP1:09|LP1:15|LP1:11|LP1:18|PS1:09|
+Fitness: 239
+
+Encontrou um clone apos PT21.837S tempo
+
+de:
+Cromossomo:
+|RC1:19|LP1:17|PS1:09|TE2:13|BD2:11|
+|RC1:13|LP1:10|Emp:09|BD2:09|Emp:20|
+|LP1:09|PS1:14|Emp:10|LP1:15|Emp:15|
+|LP1:09|LP1:15|LP1:11|TE2:15|PS1:09|
+Fitness: 252
+
+
+para:
+Cromossomo:
+|RC1:19|LP1:17|PS1:09|TE2:13|BD2:11|
+|RC1:13|LP1:10|Emp:09|BD2:09|Emp:20|
+|LP1:09|PS1:14|Emp:10|LP1:15|Emp:15|
+|LP1:09|LP1:15|LP1:11|TE2:15|PS1:09|
+Fitness: 252
+
+Encontrou um clone apos PT21.879S tempo
+
+de:
+Cromossomo:
+|RC1:19|Emp:09|PS1:09|TE2:13|RC1:09|
+|RC1:13|LP1:10|Emp:09|BD2:09|Emp:20|
+|LP1:09|Emp:11|PS1:15|RC1:16|Emp:15|
+|LP1:09|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 235
+
+
+para:
+Cromossomo:
+|RC1:19|Emp:09|PS1:09|TE2:13|RC1:09|
+|RC1:13|LP1:10|Emp:09|BD2:09|Emp:20|
+|LP1:09|Emp:11|PS1:15|RC1:16|Emp:15|
+|LP1:09|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 235
+
+Encontrou um clone apos PT21.879S tempo
+
+de:
+Cromossomo:
+|RC1:19|Emp:09|PS1:09|TE2:13|RC1:09|
+|RC1:13|LP1:10|Emp:09|BD2:09|Emp:20|
+|LP1:09|Emp:11|PS1:15|RC1:16|Emp:15|
+|LP1:09|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 235
+
+
+para:
+Cromossomo:
+|RC1:19|Emp:09|PS1:09|TE2:13|RC1:09|
+|RC1:13|LP1:10|Emp:09|BD2:09|Emp:20|
+|LP1:09|Emp:11|PS1:15|RC1:16|Emp:15|
+|LP1:09|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 235
+
+Encontrou um clone apos PT22.103S tempo
+
+de:
+Cromossomo:
+|RC1:19|LP1:17|PS1:09|TE2:13|RC1:09|
+|RC1:13|RC1:17|Emp:09|BD2:09|RC1:09|
+|BD2:13|PS1:14|PS1:15|BD2:09|Emp:15|
+|LP1:09|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|RC1:19|LP1:17|PS1:09|TE2:13|RC1:09|
+|RC1:13|RC1:17|Emp:09|BD2:09|RC1:09|
+|BD2:13|PS1:14|PS1:15|BD2:09|Emp:15|
+|LP1:09|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 239
+
+Encontrou um clone apos PT22.104S tempo
+
+de:
+Cromossomo:
+|RC1:19|LP1:17|PS1:09|TE2:13|RC1:09|
+|RC1:13|RC1:17|Emp:09|BD2:09|RC1:09|
+|BD2:13|PS1:14|PS1:15|BD2:09|Emp:15|
+|LP1:09|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|RC1:19|LP1:17|PS1:09|TE2:13|RC1:09|
+|RC1:13|RC1:17|Emp:09|BD2:09|RC1:09|
+|BD2:13|PS1:14|PS1:15|BD2:09|Emp:15|
+|LP1:09|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 239
+
+Encontrou um clone apos PT22.276S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|PS1:09|TE2:13|TE2:16|
+|RC1:13|RC1:17|Emp:09|RC1:10|Emp:20|
+|Emp:13|PS1:14|Emp:10|BD2:09|BD2:13|
+|LP1:09|LP1:15|LP1:11|BD2:09|PS1:09|
+Fitness: 243
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|PS1:09|TE2:13|TE2:16|
+|RC1:13|RC1:17|Emp:09|RC1:10|Emp:20|
+|Emp:13|PS1:14|Emp:10|BD2:09|BD2:13|
+|LP1:09|LP1:15|LP1:11|BD2:09|PS1:09|
+Fitness: 243
+
+Encontrou um clone apos PT22.277S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|PS1:09|TE2:13|TE2:16|
+|RC1:13|RC1:17|RC1:10|RC1:10|Emp:20|
+|Emp:13|PS1:14|Emp:10|BD2:09|BD2:13|
+|LP1:09|LP1:15|LP1:11|BD2:09|PS1:09|
+Fitness: 244
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|PS1:09|TE2:13|TE2:16|
+|RC1:13|RC1:17|RC1:10|RC1:10|Emp:20|
+|Emp:13|PS1:14|Emp:10|BD2:09|BD2:13|
+|LP1:09|LP1:15|LP1:11|BD2:09|PS1:09|
+Fitness: 244
+
+Encontrou um clone apos PT22.905S tempo
+
+de:
+Cromossomo:
+|PS1:11|LP1:17|PS1:09|LP1:09|RC1:09|
+|RC1:13|PS1:13|Emp:09|TE2:11|RC1:09|
+|RC1:11|RC1:15|Emp:10|LP1:15|RC1:12|
+|LP1:09|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 220
+
+
+para:
+Cromossomo:
+|PS1:11|LP1:17|PS1:09|LP1:09|RC1:09|
+|RC1:13|PS1:13|Emp:09|TE2:11|RC1:09|
+|RC1:11|RC1:15|Emp:10|LP1:15|RC1:12|
+|LP1:09|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 220
+
+Encontrou um clone apos PT22.905S tempo
+
+de:
+Cromossomo:
+|PS1:11|LP1:17|PS1:09|LP1:09|RC1:09|
+|RC1:13|PS1:13|Emp:09|TE2:11|RC1:09|
+|RC1:11|RC1:15|Emp:10|LP1:15|RC1:12|
+|LP1:09|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 220
+
+
+para:
+Cromossomo:
+|PS1:11|LP1:17|PS1:09|LP1:09|RC1:09|
+|RC1:13|PS1:13|Emp:09|TE2:11|RC1:09|
+|RC1:11|RC1:15|Emp:10|LP1:15|RC1:12|
+|LP1:09|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 220
+
+Encontrou um clone apos PT22.988S tempo
+
+de:
+Cromossomo:
+|Emp:11|LP1:17|RC1:18|LP1:09|RC1:09|
+|RC1:13|Emp:09|PS1:09|BD2:09|RC1:09|
+|RC1:11|Emp:11|RC1:09|BD2:09|BD2:13|
+|LP1:09|BD2:09|LP1:11|TE2:15|BD2:16|
+Fitness: 226
+
+
+para:
+Cromossomo:
+|Emp:11|LP1:17|RC1:18|LP1:09|RC1:09|
+|RC1:13|Emp:09|PS1:09|BD2:09|RC1:09|
+|RC1:11|Emp:11|RC1:09|BD2:09|BD2:13|
+|LP1:09|BD2:09|LP1:11|TE2:15|BD2:16|
+Fitness: 226
+
+Encontrou um clone apos PT22.99S tempo
+
+de:
+Cromossomo:
+|Emp:11|LP1:17|RC1:18|LP1:09|RC1:09|
+|RC1:13|Emp:09|PS1:09|BD2:09|RC1:09|
+|RC1:11|Emp:11|RC1:09|BD2:09|BD2:13|
+|LP1:09|BD2:09|LP1:11|TE2:15|BD2:16|
+Fitness: 226
+
+
+para:
+Cromossomo:
+|Emp:11|LP1:17|RC1:18|LP1:09|RC1:09|
+|RC1:13|Emp:09|PS1:09|BD2:09|RC1:09|
+|RC1:11|Emp:11|RC1:09|BD2:09|BD2:13|
+|LP1:09|BD2:09|LP1:11|TE2:15|BD2:16|
+Fitness: 226
+
+Encontrou um clone apos PT23.807S tempo
+
+de:
+Cromossomo:
+|TE2:09|LP1:17|Emp:09|TE2:13|RC1:09|
+|RC1:13|LP1:10|Emp:09|LP1:09|RC1:09|
+|RC1:11|Emp:11|Emp:10|PS1:18|BD2:13|
+|BD2:11|BD2:09|BD2:10|TE2:15|PS1:09|
+Fitness: 224
+
+
+para:
+Cromossomo:
+|TE2:09|LP1:17|Emp:09|TE2:13|RC1:09|
+|RC1:13|LP1:10|Emp:09|LP1:09|RC1:09|
+|RC1:11|Emp:11|Emp:10|PS1:18|BD2:13|
+|BD2:11|BD2:09|BD2:10|TE2:15|PS1:09|
+Fitness: 224
+
+Encontrou um clone apos PT23.808S tempo
+
+de:
+Cromossomo:
+|TE2:09|LP1:17|Emp:09|TE2:13|RC1:09|
+|RC1:13|LP1:10|Emp:09|LP1:09|RC1:09|
+|RC1:11|Emp:11|Emp:10|PS1:18|BD2:13|
+|BD2:11|BD2:09|BD2:10|TE2:15|PS1:09|
+Fitness: 224
+
+
+para:
+Cromossomo:
+|TE2:09|LP1:17|Emp:09|TE2:13|RC1:09|
+|RC1:13|LP1:10|Emp:09|LP1:09|RC1:09|
+|RC1:11|Emp:11|Emp:10|PS1:18|BD2:13|
+|BD2:11|BD2:09|BD2:10|TE2:15|PS1:09|
+Fitness: 224
+
+Encontrou um clone apos PT23.894S tempo
+
+de:
+Cromossomo:
+|RC1:19|LP1:17|PS1:09|BD2:14|RC1:09|
+|RC1:13|Emp:09|Emp:09|LP1:09|BD2:12|
+|RC1:11|LP1:12|RC1:09|LP1:15|BD2:13|
+|BD2:11|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 235
+
+
+para:
+Cromossomo:
+|RC1:19|LP1:17|PS1:09|BD2:14|RC1:09|
+|RC1:13|Emp:09|Emp:09|LP1:09|BD2:12|
+|RC1:11|LP1:12|RC1:09|LP1:15|BD2:13|
+|BD2:11|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 235
+
+Encontrou um clone apos PT23.895S tempo
+
+de:
+Cromossomo:
+|RC1:19|LP1:17|PS1:09|BD2:14|RC1:09|
+|RC1:13|Emp:09|Emp:09|LP1:09|BD2:12|
+|RC1:11|LP1:12|RC1:09|LP1:15|BD2:13|
+|BD2:11|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 235
+
+
+para:
+Cromossomo:
+|RC1:19|LP1:17|PS1:09|BD2:14|RC1:09|
+|RC1:13|Emp:09|Emp:09|LP1:09|BD2:12|
+|RC1:11|LP1:12|RC1:09|LP1:15|BD2:13|
+|BD2:11|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 235
+
+Encontrou um clone apos PT24.2S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|PS1:09|LP1:09|RC1:09|
+|RC1:13|Emp:09|RC1:10|RC1:10|RC1:09|
+|RC1:11|PS1:14|Emp:10|BD2:09|BD2:13|
+|LP1:09|LP1:15|LP1:11|BD2:09|PS1:09|
+Fitness: 212
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|PS1:09|LP1:09|RC1:09|
+|RC1:13|Emp:09|RC1:10|RC1:10|RC1:09|
+|RC1:11|PS1:14|Emp:10|BD2:09|BD2:13|
+|LP1:09|LP1:15|LP1:11|BD2:09|PS1:09|
+Fitness: 212
+
+Encontrou um clone apos PT24.2S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|PS1:09|LP1:09|RC1:09|
+|RC1:13|Emp:09|RC1:10|RC1:10|RC1:09|
+|RC1:11|PS1:14|Emp:10|BD2:09|BD2:13|
+|LP1:09|LP1:15|LP1:11|BD2:09|PS1:09|
+Fitness: 212
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|PS1:09|LP1:09|RC1:09|
+|RC1:13|Emp:09|RC1:10|RC1:10|RC1:09|
+|RC1:11|PS1:14|Emp:10|BD2:09|BD2:13|
+|LP1:09|LP1:15|LP1:11|BD2:09|PS1:09|
+Fitness: 212
+
+Encontrou um clone apos PT24.719S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|PS1:09|LP1:09|BD2:11|
+|RC1:13|LP1:10|RC1:10|TE2:11|RC1:09|
+|RC1:11|LP1:12|Emp:10|RC1:16|BD2:13|
+|RC1:13|BD2:09|LP1:11|BD2:09|Emp:20|
+Fitness: 236
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|PS1:09|LP1:09|BD2:11|
+|RC1:13|LP1:10|RC1:10|TE2:11|RC1:09|
+|RC1:11|LP1:12|Emp:10|RC1:16|BD2:13|
+|RC1:13|BD2:09|LP1:11|BD2:09|Emp:20|
+Fitness: 236
+
+Encontrou um clone apos PT24.72S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|PS1:09|LP1:09|BD2:11|
+|RC1:13|LP1:10|RC1:10|TE2:11|RC1:09|
+|RC1:11|LP1:12|Emp:10|RC1:16|BD2:13|
+|RC1:13|BD2:09|LP1:11|BD2:09|Emp:20|
+Fitness: 236
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|PS1:09|LP1:09|BD2:11|
+|RC1:13|LP1:10|RC1:10|TE2:11|RC1:09|
+|RC1:11|LP1:12|Emp:10|RC1:16|BD2:13|
+|RC1:13|BD2:09|LP1:11|BD2:09|Emp:20|
+Fitness: 236
+
+Encontrou um clone apos PT25.117S tempo
+
+de:
+Cromossomo:
+|RC1:19|BD2:19|Emp:09|LP1:09|RC1:09|
+|RC1:13|RC1:17|BD2:11|RC1:10|RC1:09|
+|RC1:11|LP1:12|RC1:09|BD2:09|PS1:09|
+|LP1:09|LP1:15|LP1:11|LP1:18|PS1:09|
+Fitness: 237
+
+
+para:
+Cromossomo:
+|RC1:19|BD2:19|Emp:09|LP1:09|RC1:09|
+|RC1:13|RC1:17|BD2:11|RC1:10|RC1:09|
+|RC1:11|LP1:12|RC1:09|BD2:09|PS1:09|
+|LP1:09|LP1:15|LP1:11|LP1:18|PS1:09|
+Fitness: 237
+
+Encontrou um clone apos PT25.117S tempo
+
+de:
+Cromossomo:
+|RC1:19|BD2:19|Emp:09|LP1:09|RC1:09|
+|RC1:13|RC1:17|BD2:11|RC1:10|RC1:09|
+|RC1:11|LP1:12|RC1:09|BD2:09|PS1:09|
+|LP1:09|LP1:15|LP1:11|LP1:18|PS1:09|
+Fitness: 237
+
+
+para:
+Cromossomo:
+|RC1:19|BD2:19|Emp:09|LP1:09|RC1:09|
+|RC1:13|RC1:17|BD2:11|RC1:10|RC1:09|
+|RC1:11|LP1:12|RC1:09|BD2:09|PS1:09|
+|LP1:09|LP1:15|LP1:11|LP1:18|PS1:09|
+Fitness: 237
+
+Encontrou um clone apos PT25.279S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|PS1:09|LP1:09|RC1:09|
+|RC1:13|PS1:13|Emp:09|BD2:09|Emp:20|
+|RC1:11|Emp:11|Emp:10|BD2:09|BD2:13|
+|BD2:11|LP1:15|BD2:10|BD2:09|Emp:20|
+Fitness: 240
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|PS1:09|LP1:09|RC1:09|
+|RC1:13|PS1:13|Emp:09|BD2:09|Emp:20|
+|RC1:11|Emp:11|Emp:10|BD2:09|BD2:13|
+|BD2:11|LP1:15|BD2:10|BD2:09|Emp:20|
+Fitness: 240
+
+Encontrou um clone apos PT25.28S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|PS1:09|LP1:09|RC1:09|
+|RC1:13|RC1:17|Emp:09|RC1:10|RC1:09|
+|RC1:11|Emp:11|Emp:10|BD2:09|LP1:17|
+|LP1:09|Emp:19|LP1:11|BD2:09|Emp:20|
+Fitness: 241
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|PS1:09|LP1:09|RC1:09|
+|RC1:13|RC1:17|Emp:09|RC1:10|RC1:09|
+|RC1:11|Emp:11|Emp:10|BD2:09|LP1:17|
+|LP1:09|Emp:19|LP1:11|BD2:09|Emp:20|
+Fitness: 241
+
+Encontrou um clone apos PT26.181S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|Emp:09|LP1:09|RC1:09|
+|BD2:14|LP1:10|RC1:10|LP1:09|RC1:09|
+|RC1:11|LP1:12|Emp:10|BD2:09|BD2:13|
+|BD2:11|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 219
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|Emp:09|LP1:09|RC1:09|
+|BD2:14|LP1:10|RC1:10|LP1:09|RC1:09|
+|RC1:11|LP1:12|Emp:10|BD2:09|BD2:13|
+|BD2:11|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 219
+
+Encontrou um clone apos PT26.182S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|Emp:09|LP1:09|RC1:09|
+|BD2:14|LP1:10|RC1:10|LP1:09|RC1:09|
+|RC1:11|LP1:12|Emp:10|BD2:09|BD2:13|
+|BD2:11|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 219
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|Emp:09|LP1:09|RC1:09|
+|BD2:14|LP1:10|RC1:10|LP1:09|RC1:09|
+|RC1:11|LP1:12|Emp:10|BD2:09|BD2:13|
+|BD2:11|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 219
+
+Encontrou um clone apos PT27.103S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|Emp:14|
+|BD2:14|LP1:10|PS1:09|BD2:09|RC1:09|
+|RC1:11|LP1:12|PS1:15|BD2:09|Emp:15|
+|BD2:11|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 219
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|Emp:14|
+|BD2:14|LP1:10|PS1:09|BD2:09|RC1:09|
+|RC1:11|LP1:12|PS1:15|BD2:09|Emp:15|
+|BD2:11|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 219
+
+Encontrou um clone apos PT27.104S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|Emp:14|
+|BD2:14|LP1:10|PS1:09|BD2:09|RC1:09|
+|RC1:11|LP1:12|PS1:15|BD2:09|Emp:15|
+|BD2:11|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 219
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|Emp:14|
+|BD2:14|LP1:10|PS1:09|BD2:09|RC1:09|
+|RC1:11|LP1:12|PS1:15|BD2:09|Emp:15|
+|BD2:11|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 219
+
+Encontrou um clone apos PT27.649S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|TE2:13|RC1:09|
+|RC1:13|LP1:10|RC1:10|BD2:09|BD2:12|
+|RC1:11|LP1:12|Emp:10|Emp:10|Emp:15|
+|BD2:11|BD2:09|TE2:17|BD2:09|PS1:09|
+Fitness: 216
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|TE2:13|RC1:09|
+|RC1:13|LP1:10|RC1:10|BD2:09|BD2:12|
+|RC1:11|LP1:12|Emp:10|Emp:10|Emp:15|
+|BD2:11|BD2:09|TE2:17|BD2:09|PS1:09|
+Fitness: 216
+
+Encontrou um clone apos PT27.649S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|TE2:13|RC1:09|
+|RC1:13|LP1:10|RC1:10|BD2:09|BD2:12|
+|RC1:11|LP1:12|Emp:10|Emp:10|Emp:15|
+|BD2:11|BD2:09|TE2:17|BD2:09|PS1:09|
+Fitness: 216
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|PS1:09|TE2:13|RC1:09|
+|RC1:13|LP1:10|RC1:10|BD2:09|BD2:12|
+|RC1:11|LP1:12|Emp:10|Emp:10|Emp:15|
+|BD2:11|BD2:09|TE2:17|BD2:09|PS1:09|
+Fitness: 216
+
+Encontrou um clone apos PT28.687S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|Emp:09|TE2:13|LP1:16|
+|RC1:13|LP1:10|PS1:09|BD2:09|RC1:09|
+|RC1:11|PS1:14|LP1:11|Emp:10|LP1:17|
+|BD2:11|BD2:09|PS1:15|BD2:09|TE2:10|
+Fitness: 223
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|Emp:09|TE2:13|LP1:16|
+|RC1:13|LP1:10|PS1:09|BD2:09|RC1:09|
+|RC1:11|PS1:14|LP1:11|Emp:10|LP1:17|
+|BD2:11|BD2:09|PS1:15|BD2:09|TE2:10|
+Fitness: 223
+
+Encontrou um clone apos PT28.687S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|TE2:13|LP1:16|
+|RC1:13|LP1:10|PS1:09|RC1:10|LP1:11|
+|RC1:11|PS1:14|LP1:11|Emp:10|RC1:12|
+|BD2:11|BD2:09|PS1:15|BD2:09|TE2:10|
+Fitness: 223
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|TE2:13|LP1:16|
+|RC1:13|LP1:10|PS1:09|RC1:10|LP1:11|
+|RC1:11|PS1:14|LP1:11|Emp:10|RC1:12|
+|BD2:11|BD2:09|PS1:15|BD2:09|TE2:10|
+Fitness: 223
+
+Encontrou um clone apos PT28.777S tempo
+
+de:
+Cromossomo:
+|Emp:11|TE2:12|Emp:09|PS1:11|BD2:11|
+|LP1:13|LP1:10|PS1:09|BD2:09|RC1:09|
+|RC1:11|LP1:12|Emp:10|BD2:09|LP1:17|
+|BD2:11|BD2:09|LP1:11|PS1:12|TE2:10|
+Fitness: 216
+
+
+para:
+Cromossomo:
+|Emp:11|TE2:12|Emp:09|PS1:11|BD2:11|
+|LP1:13|LP1:10|PS1:09|BD2:09|RC1:09|
+|RC1:11|LP1:12|Emp:10|BD2:09|LP1:17|
+|BD2:11|BD2:09|LP1:11|PS1:12|TE2:10|
+Fitness: 216
+
+Encontrou um clone apos PT28.777S tempo
+
+de:
+Cromossomo:
+|Emp:11|TE2:12|Emp:09|PS1:11|BD2:11|
+|LP1:13|LP1:10|PS1:09|BD2:09|RC1:09|
+|RC1:11|LP1:12|Emp:10|BD2:09|LP1:17|
+|BD2:11|BD2:09|LP1:11|PS1:12|TE2:10|
+Fitness: 216
+
+
+para:
+Cromossomo:
+|Emp:11|TE2:12|Emp:09|PS1:11|BD2:11|
+|LP1:13|LP1:10|PS1:09|BD2:09|RC1:09|
+|RC1:11|LP1:12|Emp:10|BD2:09|LP1:17|
+|BD2:11|BD2:09|LP1:11|PS1:12|TE2:10|
+Fitness: 216
+
+Encontrou um clone apos PT28.94S tempo
+
+de:
+Cromossomo:
+|PS1:11|TE2:12|Emp:09|Emp:15|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|LP1:12|PS1:15|Emp:10|BD2:13|
+|BD2:11|BD2:09|BD2:10|BD2:09|RC1:18|
+Fitness: 222
+
+
+para:
+Cromossomo:
+|PS1:11|TE2:12|Emp:09|Emp:15|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|LP1:12|PS1:15|Emp:10|BD2:13|
+|BD2:11|BD2:09|BD2:10|BD2:09|RC1:18|
+Fitness: 222
+
+Encontrou um clone apos PT28.941S tempo
+
+de:
+Cromossomo:
+|PS1:11|TE2:12|Emp:09|Emp:15|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|LP1:12|PS1:15|Emp:10|BD2:13|
+|BD2:11|BD2:09|BD2:10|BD2:09|RC1:18|
+Fitness: 222
+
+
+para:
+Cromossomo:
+|PS1:11|TE2:12|Emp:09|Emp:15|BD2:11|
+|TE2:09|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|LP1:12|PS1:15|Emp:10|BD2:13|
+|BD2:11|BD2:09|BD2:10|BD2:09|RC1:18|
+Fitness: 222
+
+Encontrou um clone apos PT29.579S tempo
+
+de:
+Cromossomo:
+|PS1:11|PS1:14|Emp:09|TE2:13|RC1:09|
+|RC1:13|Emp:09|RC1:10|RC1:10|RC1:09|
+|TE2:16|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|BD2:09|RC1:09|BD2:09|Emp:20|
+Fitness: 221
+
+
+para:
+Cromossomo:
+|PS1:11|PS1:14|Emp:09|TE2:13|RC1:09|
+|RC1:13|Emp:09|RC1:10|RC1:10|RC1:09|
+|TE2:16|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|BD2:09|RC1:09|BD2:09|Emp:20|
+Fitness: 221
+
+Encontrou um clone apos PT29.58S tempo
+
+de:
+Cromossomo:
+|PS1:11|PS1:14|BD2:16|TE2:13|RC1:09|
+|RC1:13|Emp:09|RC1:10|RC1:10|RC1:09|
+|TE2:16|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|BD2:09|BD2:10|BD2:09|Emp:20|
+Fitness: 229
+
+
+para:
+Cromossomo:
+|PS1:11|PS1:14|BD2:16|TE2:13|RC1:09|
+|RC1:13|Emp:09|RC1:10|RC1:10|RC1:09|
+|TE2:16|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|BD2:09|BD2:10|BD2:09|Emp:20|
+Fitness: 229
+
+Encontrou um clone apos PT30.169S tempo
+
+de:
+Cromossomo:
+|PS1:11|PS1:14|Emp:09|TE2:13|RC1:09|
+|RC1:13|Emp:09|RC1:10|RC1:10|RC1:09|
+|TE2:16|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|RC1:20|RC1:09|BD2:09|Emp:20|
+Fitness: 232
+
+
+para:
+Cromossomo:
+|PS1:11|PS1:14|Emp:09|TE2:13|RC1:09|
+|RC1:13|Emp:09|RC1:10|RC1:10|RC1:09|
+|TE2:16|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|RC1:20|RC1:09|BD2:09|Emp:20|
+Fitness: 232
+
+Encontrou um clone apos PT30.17S tempo
+
+de:
+Cromossomo:
+|PS1:11|PS1:14|Emp:09|TE2:13|RC1:09|
+|RC1:13|Emp:09|RC1:10|RC1:10|RC1:09|
+|TE2:16|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|RC1:20|RC1:09|BD2:09|Emp:20|
+Fitness: 232
+
+
+para:
+Cromossomo:
+|PS1:11|PS1:14|Emp:09|TE2:13|RC1:09|
+|RC1:13|Emp:09|RC1:10|RC1:10|RC1:09|
+|TE2:16|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|RC1:20|RC1:09|BD2:09|Emp:20|
+Fitness: 232
+
+Encontrou um clone apos PT30.918S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|TE2:13|BD2:11|
+|TE2:09|LP1:10|RC1:10|Emp:17|RC1:09|
+|RC1:11|BD2:16|Emp:10|Emp:10|PS1:09|
+|BD2:11|RC1:20|LP1:11|BD2:09|LP1:17|
+Fitness: 232
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|TE2:13|BD2:11|
+|TE2:09|LP1:10|RC1:10|Emp:17|RC1:09|
+|RC1:11|BD2:16|Emp:10|Emp:10|PS1:09|
+|BD2:11|RC1:20|LP1:11|BD2:09|LP1:17|
+Fitness: 232
+
+Encontrou um clone apos PT30.918S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|TE2:13|BD2:11|
+|RC1:13|LP1:10|PS1:09|LP1:09|RC1:09|
+|RC1:11|BD2:16|Emp:10|Emp:10|PS1:09|
+|BD2:11|LP1:15|LP1:11|BD2:09|RC1:18|
+Fitness: 223
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|TE2:13|BD2:11|
+|RC1:13|LP1:10|PS1:09|LP1:09|RC1:09|
+|RC1:11|BD2:16|Emp:10|Emp:10|PS1:09|
+|BD2:11|LP1:15|LP1:11|BD2:09|RC1:18|
+Fitness: 223
+
+Encontrou um clone apos PT30.994S tempo
+
+de:
+Cromossomo:
+|PS1:11|TE2:12|LP1:19|PS1:11|RC1:09|
+|RC1:13|LP1:10|PS1:09|Emp:17|BD2:12|
+|RC1:11|Emp:11|PS1:15|Emp:10|PS1:09|
+|BD2:11|PS1:14|LP1:11|BD2:09|Emp:20|
+Fitness: 244
+
+
+para:
+Cromossomo:
+|PS1:11|TE2:12|LP1:19|PS1:11|RC1:09|
+|RC1:13|LP1:10|PS1:09|Emp:17|BD2:12|
+|RC1:11|Emp:11|PS1:15|Emp:10|PS1:09|
+|BD2:11|PS1:14|LP1:11|BD2:09|Emp:20|
+Fitness: 244
+
+Encontrou um clone apos PT30.996S tempo
+
+de:
+Cromossomo:
+|PS1:11|TE2:12|LP1:19|LP1:09|RC1:09|
+|RC1:13|LP1:10|RC1:10|Emp:17|BD2:12|
+|RC1:11|Emp:11|Emp:10|Emp:10|PS1:09|
+|Emp:10|RC1:20|PS1:15|BD2:09|Emp:20|
+Fitness: 247
+
+
+para:
+Cromossomo:
+|PS1:11|TE2:12|LP1:19|LP1:09|RC1:09|
+|RC1:13|LP1:10|RC1:10|Emp:17|BD2:12|
+|RC1:11|Emp:11|Emp:10|Emp:10|PS1:09|
+|Emp:10|RC1:20|PS1:15|BD2:09|Emp:20|
+Fitness: 247
+
+Encontrou um clone apos PT31.192S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|TE2:13|RC1:09|
+|TE2:09|LP1:10|PS1:09|RC1:10|BD2:12|
+|RC1:11|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|PS1:14|LP1:11|BD2:09|RC1:18|
+Fitness: 215
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|TE2:13|RC1:09|
+|TE2:09|LP1:10|PS1:09|RC1:10|BD2:12|
+|RC1:11|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|PS1:14|LP1:11|BD2:09|RC1:18|
+Fitness: 215
+
+Encontrou um clone apos PT31.193S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|TE2:13|RC1:09|
+|TE2:09|LP1:10|PS1:09|RC1:10|BD2:12|
+|RC1:11|Emp:11|Emp:10|Emp:10|BD2:13|
+|BD2:11|PS1:14|LP1:11|BD2:09|RC1:18|
+Fitness: 219
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|TE2:13|RC1:09|
+|TE2:09|LP1:10|PS1:09|RC1:10|BD2:12|
+|RC1:11|Emp:11|Emp:10|Emp:10|BD2:13|
+|BD2:11|PS1:14|LP1:11|BD2:09|RC1:18|
+Fitness: 219
+
+Encontrou um clone apos PT31.782S tempo
+
+de:
+Cromossomo:
+|PS1:11|LP1:17|Emp:09|PS1:11|LP1:16|
+|RC1:13|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|Emp:11|LP1:11|Emp:10|PS1:09|
+|Emp:10|BD2:09|BD2:10|BD2:09|Emp:20|
+Fitness: 224
+
+
+para:
+Cromossomo:
+|PS1:11|LP1:17|Emp:09|PS1:11|LP1:16|
+|RC1:13|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|Emp:11|LP1:11|Emp:10|PS1:09|
+|Emp:10|BD2:09|BD2:10|BD2:09|Emp:20|
+Fitness: 224
+
+Encontrou um clone apos PT31.783S tempo
+
+de:
+Cromossomo:
+|PS1:11|LP1:17|Emp:09|PS1:11|LP1:16|
+|RC1:13|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|Emp:11|LP1:11|Emp:10|PS1:09|
+|Emp:10|BD2:09|BD2:10|BD2:09|Emp:20|
+Fitness: 224
+
+
+para:
+Cromossomo:
+|PS1:11|LP1:17|Emp:09|PS1:11|LP1:16|
+|RC1:13|Emp:09|RC1:10|BD2:09|RC1:09|
+|RC1:11|Emp:11|LP1:11|Emp:10|PS1:09|
+|Emp:10|BD2:09|BD2:10|BD2:09|Emp:20|
+Fitness: 224
+
+Encontrou um clone apos PT34.608S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|LP1:13|TE2:20|RC1:10|RC1:10|LP1:11|
+|Emp:13|Emp:11|Emp:10|Emp:10|RC1:12|
+|LP1:09|LP1:15|LP1:11|BD2:09|TE2:10|
+Fitness: 223
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|LP1:13|TE2:20|RC1:10|RC1:10|LP1:11|
+|Emp:13|Emp:11|Emp:10|Emp:10|RC1:12|
+|LP1:09|LP1:15|LP1:11|BD2:09|TE2:10|
+Fitness: 223
+
+Encontrou um clone apos PT36.481S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|LP1:09|RC1:09|
+|TE2:09|Emp:09|RC1:10|RC1:10|LP1:11|
+|Emp:13|BD2:16|BD2:18|BD2:09|RC1:12|
+|Emp:10|LP1:15|Emp:12|BD2:09|TE2:10|
+Fitness: 220
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|LP1:09|RC1:09|
+|TE2:09|Emp:09|RC1:10|RC1:10|LP1:11|
+|Emp:13|BD2:16|BD2:18|BD2:09|RC1:12|
+|Emp:10|LP1:15|Emp:12|BD2:09|TE2:10|
+Fitness: 220
+
+Encontrou um clone apos PT36.482S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|LP1:09|RC1:09|
+|TE2:09|Emp:09|RC1:10|RC1:10|LP1:11|
+|Emp:13|Emp:11|LP1:11|BD2:09|RC1:12|
+|Emp:10|LP1:15|LP1:11|BD2:09|TE2:10|
+Fitness: 207
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|LP1:09|RC1:09|
+|TE2:09|Emp:09|RC1:10|RC1:10|LP1:11|
+|Emp:13|Emp:11|LP1:11|BD2:09|RC1:12|
+|Emp:10|LP1:15|LP1:11|BD2:09|TE2:10|
+Fitness: 207
+
+Encontrou um clone apos PT36.751S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|TE2:13|RC1:09|
+|TE2:09|Emp:09|RC1:10|RC1:10|LP1:11|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|Emp:10|LP1:15|LP1:11|Emp:20|PS1:09|
+Fitness: 225
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|TE2:13|RC1:09|
+|TE2:09|Emp:09|RC1:10|RC1:10|LP1:11|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|Emp:10|LP1:15|LP1:11|Emp:20|PS1:09|
+Fitness: 225
+
+Encontrou um clone apos PT36.751S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|LP1:09|RC1:09|
+|TE2:09|Emp:09|RC1:10|RC1:10|LP1:11|
+|Emp:13|Emp:11|LP1:11|BD2:09|RC1:12|
+|Emp:10|LP1:15|LP1:11|BD2:09|TE2:10|
+Fitness: 207
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|LP1:09|RC1:09|
+|TE2:09|Emp:09|RC1:10|RC1:10|LP1:11|
+|Emp:13|Emp:11|LP1:11|BD2:09|RC1:12|
+|Emp:10|LP1:15|LP1:11|BD2:09|TE2:10|
+Fitness: 207
+
+Encontrou um clone apos PT36.887S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|TE2:13|RC1:09|
+|RC1:13|BD2:16|PS1:09|RC1:10|LP1:11|
+|Emp:13|Emp:11|TE2:15|TE2:13|RC1:12|
+|BD2:11|LP1:15|LP1:11|BD2:09|PS1:09|
+Fitness: 229
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|TE2:13|RC1:09|
+|RC1:13|BD2:16|PS1:09|RC1:10|LP1:11|
+|Emp:13|Emp:11|TE2:15|TE2:13|RC1:12|
+|BD2:11|LP1:15|LP1:11|BD2:09|PS1:09|
+Fitness: 229
+
+Encontrou um clone apos PT36.888S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|TE2:13|RC1:09|
+|RC1:13|BD2:16|PS1:09|RC1:10|LP1:11|
+|Emp:13|Emp:11|TE2:15|TE2:13|Emp:15|
+|BD2:11|LP1:15|LP1:11|BD2:09|PS1:09|
+Fitness: 232
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|TE2:13|RC1:09|
+|RC1:13|BD2:16|PS1:09|RC1:10|LP1:11|
+|Emp:13|Emp:11|TE2:15|TE2:13|Emp:15|
+|BD2:11|LP1:15|LP1:11|BD2:09|PS1:09|
+Fitness: 232
+
+Encontrou um clone apos PT37.226S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|TE2:13|LP1:16|
+|RC1:13|LP1:10|Emp:09|RC1:10|BD2:12|
+|Emp:13|Emp:11|TE2:15|LP1:15|RC1:12|
+|LP1:09|LP1:15|TE2:17|PS1:12|PS1:09|
+Fitness: 240
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|TE2:13|LP1:16|
+|RC1:13|LP1:10|Emp:09|RC1:10|BD2:12|
+|Emp:13|Emp:11|TE2:15|LP1:15|RC1:12|
+|LP1:09|LP1:15|TE2:17|PS1:12|PS1:09|
+Fitness: 240
+
+Encontrou um clone apos PT37.227S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|TE2:13|LP1:16|
+|RC1:13|LP1:10|Emp:09|RC1:10|BD2:12|
+|Emp:13|Emp:11|TE2:15|LP1:15|RC1:12|
+|LP1:09|LP1:15|TE2:17|PS1:12|PS1:09|
+Fitness: 240
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|TE2:13|LP1:16|
+|RC1:13|LP1:10|Emp:09|RC1:10|BD2:12|
+|Emp:13|Emp:11|TE2:15|LP1:15|RC1:12|
+|LP1:09|LP1:15|TE2:17|PS1:12|PS1:09|
+Fitness: 240
+
+Encontrou um clone apos PT38.566S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|PS1:11|RC1:09|
+|TE2:09|LP1:10|PS1:09|BD2:09|LP1:11|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|LP1:09|LP1:15|LP1:11|BD2:09|TE2:10|
+Fitness: 211
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|PS1:11|RC1:09|
+|TE2:09|LP1:10|PS1:09|BD2:09|LP1:11|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|LP1:09|LP1:15|LP1:11|BD2:09|TE2:10|
+Fitness: 211
+
+Encontrou um clone apos PT38.566S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|PS1:11|RC1:09|
+|TE2:09|Emp:09|RC1:10|RC1:10|PS1:18|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|LP1:09|LP1:15|LP1:11|BD2:09|TE2:10|
+Fitness: 219
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|PS1:11|RC1:09|
+|TE2:09|Emp:09|RC1:10|RC1:10|PS1:18|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|LP1:09|LP1:15|LP1:11|BD2:09|TE2:10|
+Fitness: 219
+
+Encontrou um clone apos PT39.789S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|LP1:09|RC1:09|
+|RC1:13|Emp:09|Emp:09|RC1:10|LP1:11|
+|Emp:13|Emp:11|RC1:09|TE2:13|RC1:12|
+|Emp:10|LP1:15|TE2:17|TE2:15|TE2:10|
+Fitness: 224
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|LP1:09|RC1:09|
+|RC1:13|Emp:09|Emp:09|RC1:10|LP1:11|
+|Emp:13|Emp:11|RC1:09|TE2:13|RC1:12|
+|Emp:10|LP1:15|TE2:17|TE2:15|TE2:10|
+Fitness: 224
+
+Encontrou um clone apos PT39.79S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|BD2:14|RC1:09|
+|RC1:13|Emp:09|PS1:09|BD2:09|PS1:18|
+|PS1:13|Emp:11|RC1:09|TE2:13|RC1:12|
+|RC1:13|LP1:15|TE2:17|BD2:09|TE2:10|
+Fitness: 232
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|BD2:14|RC1:09|
+|RC1:13|Emp:09|PS1:09|BD2:09|PS1:18|
+|PS1:13|Emp:11|RC1:09|TE2:13|RC1:12|
+|RC1:13|LP1:15|TE2:17|BD2:09|TE2:10|
+Fitness: 232
+
+Encontrou um clone apos PT39.857S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|RC1:09|
+|BD2:14|Emp:09|PS1:09|BD2:09|LP1:11|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|Emp:10|LP1:15|PS1:15|BD2:09|PS1:09|
+Fitness: 222
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|RC1:09|
+|BD2:14|Emp:09|PS1:09|BD2:09|LP1:11|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|Emp:10|LP1:15|PS1:15|BD2:09|PS1:09|
+Fitness: 222
+
+Encontrou um clone apos PT40.016S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|RC1:09|
+|BD2:14|Emp:09|PS1:09|LP1:09|LP1:11|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|Emp:10|LP1:15|PS1:15|BD2:09|PS1:09|
+Fitness: 222
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|RC1:09|
+|BD2:14|Emp:09|PS1:09|LP1:09|LP1:11|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|Emp:10|LP1:15|PS1:15|BD2:09|PS1:09|
+Fitness: 222
+
+Encontrou um clone apos PT40.016S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|RC1:09|
+|BD2:14|Emp:09|RC1:10|BD2:09|LP1:11|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|Emp:10|LP1:15|PS1:15|BD2:09|PS1:09|
+Fitness: 223
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|RC1:09|
+|BD2:14|Emp:09|RC1:10|BD2:09|LP1:11|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|Emp:10|LP1:15|PS1:15|BD2:09|PS1:09|
+Fitness: 223
+
+Encontrou um clone apos PT40.3S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|BD2:14|PS1:18|
+|RC1:13|Emp:09|Emp:09|RC1:10|PS1:18|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|Emp:10|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 228
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|BD2:14|PS1:18|
+|RC1:13|Emp:09|Emp:09|RC1:10|PS1:18|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|Emp:10|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 228
+
+Encontrou um clone apos PT40.321S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|BD2:14|PS1:18|
+|BD2:14|Emp:09|Emp:09|LP1:09|PS1:18|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|Emp:10|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 228
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|BD2:14|PS1:18|
+|BD2:14|Emp:09|Emp:09|LP1:09|PS1:18|
+|Emp:13|Emp:11|LP1:11|TE2:13|RC1:12|
+|Emp:10|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 228
+
+Encontrou um clone apos PT40.538S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|RC1:09|
+|BD2:14|Emp:09|PS1:09|BD2:09|RC1:09|
+|Emp:13|PS1:14|LP1:11|TE2:13|RC1:12|
+|Emp:10|BD2:09|BD2:10|PS1:12|Emp:20|
+Fitness: 226
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|RC1:09|
+|BD2:14|Emp:09|PS1:09|BD2:09|RC1:09|
+|Emp:13|PS1:14|LP1:11|TE2:13|RC1:12|
+|Emp:10|BD2:09|BD2:10|PS1:12|Emp:20|
+Fitness: 226
+
+Encontrou um clone apos PT40.538S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|RC1:09|
+|BD2:14|Emp:09|RC1:10|LP1:09|LP1:11|
+|Emp:13|PS1:14|LP1:11|TE2:13|RC1:12|
+|Emp:10|BD2:09|PS1:15|BD2:09|PS1:09|
+Fitness: 220
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|RC1:09|
+|BD2:14|Emp:09|RC1:10|LP1:09|LP1:11|
+|Emp:13|PS1:14|LP1:11|TE2:13|RC1:12|
+|Emp:10|BD2:09|PS1:15|BD2:09|PS1:09|
+Fitness: 220
+
+Encontrou um clone apos PT41.001S tempo
+
+de:
+Cromossomo:
+|Emp:11|TE2:12|Emp:09|BD2:14|RC1:09|
+|RC1:13|Emp:09|Emp:09|RC1:10|PS1:18|
+|Emp:13|PS1:14|PS1:15|LP1:15|RC1:12|
+|PS1:14|BD2:09|PS1:15|TE2:15|LP1:17|
+Fitness: 253
+
+
+para:
+Cromossomo:
+|Emp:11|TE2:12|Emp:09|BD2:14|RC1:09|
+|RC1:13|Emp:09|Emp:09|RC1:10|PS1:18|
+|Emp:13|PS1:14|PS1:15|LP1:15|RC1:12|
+|PS1:14|BD2:09|PS1:15|TE2:15|LP1:17|
+Fitness: 253
+
+Encontrou um clone apos PT41.002S tempo
+
+de:
+Cromossomo:
+|Emp:11|TE2:12|Emp:09|BD2:14|RC1:09|
+|BD2:14|Emp:09|Emp:09|RC1:10|PS1:18|
+|Emp:13|PS1:14|Emp:10|TE2:13|RC1:12|
+|PS1:14|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 235
+
+
+para:
+Cromossomo:
+|Emp:11|TE2:12|Emp:09|BD2:14|RC1:09|
+|BD2:14|Emp:09|Emp:09|RC1:10|PS1:18|
+|Emp:13|PS1:14|Emp:10|TE2:13|RC1:12|
+|PS1:14|BD2:09|LP1:11|TE2:15|PS1:09|
+Fitness: 235
+
+Encontrou um clone apos PT41.245S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|Emp:09|TE2:13|RC1:09|
+|BD2:14|Emp:09|RC1:10|LP1:09|BD2:12|
+|PS1:13|PS1:14|LP1:11|LP1:15|BD2:13|
+|BD2:11|BD2:09|PS1:15|BD2:09|LP1:17|
+Fitness: 242
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|Emp:09|TE2:13|RC1:09|
+|BD2:14|Emp:09|RC1:10|LP1:09|BD2:12|
+|PS1:13|PS1:14|LP1:11|LP1:15|BD2:13|
+|BD2:11|BD2:09|PS1:15|BD2:09|LP1:17|
+Fitness: 242
+
+Encontrou um clone apos PT41.247S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|Emp:09|TE2:13|RC1:09|
+|BD2:14|Emp:09|RC1:10|LP1:09|BD2:12|
+|PS1:13|PS1:14|LP1:11|LP1:15|BD2:13|
+|BD2:11|BD2:09|PS1:15|BD2:09|LP1:17|
+Fitness: 242
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|Emp:09|TE2:13|RC1:09|
+|BD2:14|Emp:09|RC1:10|LP1:09|BD2:12|
+|PS1:13|PS1:14|LP1:11|LP1:15|BD2:13|
+|BD2:11|BD2:09|PS1:15|BD2:09|LP1:17|
+Fitness: 242
+
+Encontrou um clone apos PT41.377S tempo
+
+de:
+Cromossomo:
+|PS1:11|BD2:19|Emp:09|TE2:13|RC1:09|
+|TE2:09|Emp:09|RC1:10|BD2:09|BD2:12|
+|PS1:13|LP1:12|Emp:10|Emp:10|BD2:13|
+|BD2:11|BD2:09|PS1:15|BD2:09|LP1:17|
+Fitness: 229
+
+
+para:
+Cromossomo:
+|PS1:11|BD2:19|Emp:09|TE2:13|RC1:09|
+|TE2:09|Emp:09|RC1:10|BD2:09|BD2:12|
+|PS1:13|LP1:12|Emp:10|Emp:10|BD2:13|
+|BD2:11|BD2:09|PS1:15|BD2:09|LP1:17|
+Fitness: 229
+
+Encontrou um clone apos PT41.378S tempo
+
+de:
+Cromossomo:
+|PS1:11|BD2:19|Emp:09|TE2:13|RC1:09|
+|TE2:09|Emp:09|RC1:10|BD2:09|BD2:12|
+|PS1:13|LP1:12|Emp:10|Emp:10|BD2:13|
+|BD2:11|BD2:09|PS1:15|BD2:09|LP1:17|
+Fitness: 229
+
+
+para:
+Cromossomo:
+|PS1:11|BD2:19|Emp:09|TE2:13|RC1:09|
+|TE2:09|Emp:09|RC1:10|BD2:09|BD2:12|
+|PS1:13|LP1:12|Emp:10|Emp:10|BD2:13|
+|BD2:11|BD2:09|PS1:15|BD2:09|LP1:17|
+Fitness: 229
+
+Encontrou um clone apos PT43.711S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|Emp:09|TE2:13|Emp:14|
+|BD2:14|Emp:09|PS1:09|BD2:09|RC1:09|
+|Emp:13|LP1:12|LP1:11|PS1:18|BD2:13|
+|BD2:11|Emp:19|LP1:11|PS1:12|PS1:09|
+Fitness: 245
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|Emp:09|TE2:13|Emp:14|
+|BD2:14|Emp:09|PS1:09|BD2:09|RC1:09|
+|Emp:13|LP1:12|LP1:11|PS1:18|BD2:13|
+|BD2:11|Emp:19|LP1:11|PS1:12|PS1:09|
+Fitness: 245
+
+Encontrou um clone apos PT43.712S tempo
+
+de:
+Cromossomo:
+|PS1:11|PS1:14|Emp:09|TE2:13|Emp:14|
+|BD2:14|LP1:10|RC1:10|BD2:09|RC1:09|
+|Emp:13|LP1:12|LP1:11|PS1:18|BD2:13|
+|BD2:11|Emp:19|LP1:11|PS1:12|PS1:09|
+Fitness: 242
+
+
+para:
+Cromossomo:
+|PS1:11|PS1:14|Emp:09|TE2:13|Emp:14|
+|BD2:14|LP1:10|RC1:10|BD2:09|RC1:09|
+|Emp:13|LP1:12|LP1:11|PS1:18|BD2:13|
+|BD2:11|Emp:19|LP1:11|PS1:12|PS1:09|
+Fitness: 242
+
+Encontrou um clone apos PT45.757S tempo
+
+de:
+Cromossomo:
+|Emp:11|LP1:17|Emp:09|LP1:09|LP1:16|
+|BD2:14|LP1:10|Emp:09|BD2:09|RC1:09|
+|PS1:13|Emp:11|Emp:10|PS1:18|LP1:17|
+|BD2:11|LP1:15|BD2:10|PS1:12|PS1:09|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|Emp:11|LP1:17|Emp:09|LP1:09|LP1:16|
+|BD2:14|LP1:10|Emp:09|BD2:09|RC1:09|
+|PS1:13|Emp:11|Emp:10|PS1:18|LP1:17|
+|BD2:11|LP1:15|BD2:10|PS1:12|PS1:09|
+Fitness: 239
+
+Encontrou um clone apos PT45.758S tempo
+
+de:
+Cromossomo:
+|Emp:11|LP1:17|Emp:09|TE2:13|RC1:09|
+|BD2:14|LP1:10|Emp:09|BD2:09|RC1:09|
+|BD2:13|Emp:11|LP1:11|PS1:18|Emp:15|
+|BD2:11|PS1:14|BD2:10|PS1:12|PS1:09|
+Fitness: 234
+
+
+para:
+Cromossomo:
+|Emp:11|LP1:17|Emp:09|TE2:13|RC1:09|
+|BD2:14|LP1:10|Emp:09|BD2:09|RC1:09|
+|BD2:13|Emp:11|LP1:11|PS1:18|Emp:15|
+|BD2:11|PS1:14|BD2:10|PS1:12|PS1:09|
+Fitness: 234
+
+Encontrou um clone apos PT47.279S tempo
+
+de:
+Cromossomo:
+|TE2:09|BD2:19|Emp:09|PS1:11|RC1:09|
+|BD2:14|Emp:09|PS1:09|BD2:09|BD2:12|
+|BD2:13|Emp:11|LP1:11|BD2:09|LP1:17|
+|RC1:13|Emp:19|Emp:12|RC1:11|PS1:09|
+Fitness: 235
+
+
+para:
+Cromossomo:
+|TE2:09|BD2:19|Emp:09|PS1:11|RC1:09|
+|BD2:14|Emp:09|PS1:09|BD2:09|BD2:12|
+|BD2:13|Emp:11|LP1:11|BD2:09|LP1:17|
+|RC1:13|Emp:19|Emp:12|RC1:11|PS1:09|
+Fitness: 235
+
+Encontrou um clone apos PT47.28S tempo
+
+de:
+Cromossomo:
+|PS1:11|BD2:19|PS1:09|TE2:13|LP1:16|
+|BD2:14|Emp:09|RC1:10|Emp:17|RC1:09|
+|BD2:13|LP1:12|BD2:18|PS1:18|LP1:17|
+|RC1:13|Emp:19|LP1:11|TE2:15|PS1:09|
+Fitness: 272
+
+
+para:
+Cromossomo:
+|PS1:11|BD2:19|PS1:09|TE2:13|LP1:16|
+|BD2:14|Emp:09|RC1:10|Emp:17|RC1:09|
+|BD2:13|LP1:12|BD2:18|PS1:18|LP1:17|
+|RC1:13|Emp:19|LP1:11|TE2:15|PS1:09|
+Fitness: 272
+
+Encontrou um clone apos PT49.211S tempo
+
+de:
+Cromossomo:
+|TE2:09|BD2:19|BD2:16|PS1:11|RC1:09|
+|BD2:14|Emp:09|TE2:16|PS1:11|RC1:09|
+|LP1:09|RC1:15|Emp:10|BD2:09|Emp:15|
+|RC1:13|Emp:19|LP1:11|RC1:11|PS1:09|
+Fitness: 244
+
+
+para:
+Cromossomo:
+|TE2:09|BD2:19|BD2:16|PS1:11|RC1:09|
+|BD2:14|Emp:09|TE2:16|PS1:11|RC1:09|
+|LP1:09|RC1:15|Emp:10|BD2:09|Emp:15|
+|RC1:13|Emp:19|LP1:11|RC1:11|PS1:09|
+Fitness: 244
+
+Encontrou um clone apos PT49.212S tempo
+
+de:
+Cromossomo:
+|TE2:09|BD2:19|BD2:16|PS1:11|RC1:09|
+|BD2:14|Emp:09|TE2:16|PS1:11|RC1:09|
+|LP1:09|RC1:15|Emp:10|BD2:09|Emp:15|
+|RC1:13|Emp:19|LP1:11|RC1:11|PS1:09|
+Fitness: 244
+
+
+para:
+Cromossomo:
+|TE2:09|BD2:19|BD2:16|PS1:11|RC1:09|
+|BD2:14|Emp:09|TE2:16|PS1:11|RC1:09|
+|LP1:09|RC1:15|Emp:10|BD2:09|Emp:15|
+|RC1:13|Emp:19|LP1:11|RC1:11|PS1:09|
+Fitness: 244
+
+Encontrou um clone apos PT50.577S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|BD2:16|PS1:11|RC1:09|
+|TE2:09|Emp:09|TE2:16|BD2:09|RC1:09|
+|BD2:13|Emp:11|BD2:18|RC1:16|PS1:09|
+|LP1:09|BD2:09|LP1:11|RC1:11|Emp:20|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|BD2:16|PS1:11|RC1:09|
+|TE2:09|Emp:09|TE2:16|BD2:09|RC1:09|
+|BD2:13|Emp:11|BD2:18|RC1:16|PS1:09|
+|LP1:09|BD2:09|LP1:11|RC1:11|Emp:20|
+Fitness: 239
+
+Encontrou um clone apos PT50.578S tempo
+
+de:
+Cromossomo:
+|Emp:11|PS1:14|BD2:16|PS1:11|LP1:16|
+|TE2:09|Emp:09|TE2:16|BD2:09|RC1:09|
+|RC1:11|BD2:16|Emp:10|BD2:09|PS1:09|
+|Emp:10|Emp:19|RC1:09|RC1:11|Emp:20|
+Fitness: 244
+
+
+para:
+Cromossomo:
+|Emp:11|PS1:14|BD2:16|PS1:11|LP1:16|
+|TE2:09|Emp:09|TE2:16|BD2:09|RC1:09|
+|RC1:11|BD2:16|Emp:10|BD2:09|PS1:09|
+|Emp:10|Emp:19|RC1:09|RC1:11|Emp:20|
+Fitness: 244
+
+Encontrou um clone apos PT51.516S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|BD2:16|PS1:11|Emp:14|
+|TE2:09|LP1:10|PS1:09|TE2:11|PS1:18|
+|BD2:13|Emp:11|Emp:10|RC1:16|RC1:12|
+|LP1:09|LP1:15|BD2:10|RC1:11|PS1:09|
+Fitness: 238
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|BD2:16|PS1:11|Emp:14|
+|TE2:09|LP1:10|PS1:09|TE2:11|PS1:18|
+|BD2:13|Emp:11|Emp:10|RC1:16|RC1:12|
+|LP1:09|LP1:15|BD2:10|RC1:11|PS1:09|
+Fitness: 238
+
+Encontrou um clone apos PT51.517S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|BD2:16|PS1:11|Emp:14|
+|Emp:20|LP1:10|RC1:10|TE2:11|PS1:18|
+|LP1:09|Emp:11|Emp:10|RC1:16|RC1:12|
+|LP1:09|LP1:15|BD2:10|RC1:11|PS1:09|
+Fitness: 246
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|BD2:16|PS1:11|Emp:14|
+|Emp:20|LP1:10|RC1:10|TE2:11|PS1:18|
+|LP1:09|Emp:11|Emp:10|RC1:16|RC1:12|
+|LP1:09|LP1:15|BD2:10|RC1:11|PS1:09|
+Fitness: 246
+
+Encontrou um clone apos PT53.683S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|PS1:09|PS1:11|LP1:16|
+|Emp:20|Emp:09|Emp:09|TE2:11|LP1:11|
+|TE2:16|LP1:12|BD2:18|LP1:15|RC1:12|
+|RC1:13|PS1:14|RC1:09|RC1:11|LP1:17|
+Fitness: 257
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|PS1:09|PS1:11|LP1:16|
+|Emp:20|Emp:09|Emp:09|TE2:11|LP1:11|
+|TE2:16|LP1:12|BD2:18|LP1:15|RC1:12|
+|RC1:13|PS1:14|RC1:09|RC1:11|LP1:17|
+Fitness: 257
+
+Encontrou um clone apos PT53.685S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|PS1:09|PS1:11|LP1:16|
+|Emp:20|Emp:09|Emp:09|TE2:11|LP1:11|
+|TE2:16|LP1:12|BD2:18|LP1:15|RC1:12|
+|RC1:13|PS1:14|RC1:09|RC1:11|LP1:17|
+Fitness: 257
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|PS1:09|PS1:11|LP1:16|
+|Emp:20|Emp:09|Emp:09|TE2:11|LP1:11|
+|TE2:16|LP1:12|BD2:18|LP1:15|RC1:12|
+|RC1:13|PS1:14|RC1:09|RC1:11|LP1:17|
+Fitness: 257
+
+Encontrou um clone apos PT57.532S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|LP1:19|PS1:11|Emp:14|
+|LP1:13|Emp:09|PS1:09|RC1:10|RC1:09|
+|RC1:11|Emp:11|PS1:15|RC1:16|PS1:09|
+|BD2:11|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 236
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|LP1:19|PS1:11|Emp:14|
+|LP1:13|Emp:09|PS1:09|RC1:10|RC1:09|
+|RC1:11|Emp:11|PS1:15|RC1:16|PS1:09|
+|BD2:11|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 236
+
+Encontrou um clone apos PT57.533S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|LP1:19|BD2:14|Emp:14|
+|LP1:13|Emp:09|PS1:09|TE2:11|RC1:09|
+|RC1:11|Emp:11|Emp:10|BD2:09|PS1:09|
+|BD2:11|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 228
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|LP1:19|BD2:14|Emp:14|
+|LP1:13|Emp:09|PS1:09|TE2:11|RC1:09|
+|RC1:11|Emp:11|Emp:10|BD2:09|PS1:09|
+|BD2:11|BD2:09|RC1:09|RC1:11|BD2:16|
+Fitness: 228
+
+Encontrou um clone apos PT57.569S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|Emp:09|PS1:11|Emp:14|
+|LP1:13|Emp:09|Emp:09|BD2:09|LP1:11|
+|RC1:11|LP1:12|PS1:15|BD2:09|PS1:09|
+|BD2:11|BD2:09|Emp:12|RC1:11|TE2:10|
+Fitness: 218
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|Emp:09|PS1:11|Emp:14|
+|LP1:13|Emp:09|Emp:09|BD2:09|LP1:11|
+|RC1:11|LP1:12|PS1:15|BD2:09|PS1:09|
+|BD2:11|BD2:09|Emp:12|RC1:11|TE2:10|
+Fitness: 218
+
+Encontrou um clone apos PT57.57S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|LP1:19|PS1:11|LP1:16|
+|LP1:13|Emp:09|Emp:09|RC1:10|LP1:11|
+|RC1:11|PS1:14|Emp:10|BD2:09|PS1:09|
+|BD2:11|Emp:19|Emp:12|PS1:12|TE2:10|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|LP1:19|PS1:11|LP1:16|
+|LP1:13|Emp:09|Emp:09|RC1:10|LP1:11|
+|RC1:11|PS1:14|Emp:10|BD2:09|PS1:09|
+|BD2:11|Emp:19|Emp:12|PS1:12|TE2:10|
+Fitness: 239
+
+Encontrou um clone apos PT58.277S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|LP1:19|BD2:14|BD2:11|
+|Emp:20|Emp:09|BD2:11|PS1:11|LP1:11|
+|RC1:11|PS1:14|Emp:10|BD2:09|BD2:13|
+|RC1:13|BD2:09|RC1:09|PS1:12|TE2:10|
+Fitness: 236
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|LP1:19|BD2:14|BD2:11|
+|Emp:20|Emp:09|BD2:11|PS1:11|LP1:11|
+|RC1:11|PS1:14|Emp:10|BD2:09|BD2:13|
+|RC1:13|BD2:09|RC1:09|PS1:12|TE2:10|
+Fitness: 236
+
+Encontrou um clone apos PT58.279S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|LP1:19|BD2:14|BD2:11|
+|Emp:20|Emp:09|BD2:11|BD2:09|LP1:11|
+|LP1:09|PS1:14|PS1:15|BD2:09|BD2:13|
+|BD2:11|BD2:09|RC1:09|PS1:12|TE2:10|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|LP1:19|BD2:14|BD2:11|
+|Emp:20|Emp:09|BD2:11|BD2:09|LP1:11|
+|LP1:09|PS1:14|PS1:15|BD2:09|BD2:13|
+|BD2:11|BD2:09|RC1:09|PS1:12|TE2:10|
+Fitness: 239
+
+Encontrou um clone apos PT58.922S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|PS1:09|LP1:09|BD2:11|
+|TE2:09|RC1:17|Emp:09|TE2:11|PS1:18|
+|RC1:11|BD2:16|BD2:18|BD2:09|BD2:13|
+|Emp:10|LP1:15|BD2:10|PS1:12|TE2:10|
+Fitness: 241
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|PS1:09|LP1:09|BD2:11|
+|TE2:09|RC1:17|Emp:09|TE2:11|PS1:18|
+|RC1:11|BD2:16|BD2:18|BD2:09|BD2:13|
+|Emp:10|LP1:15|BD2:10|PS1:12|TE2:10|
+Fitness: 241
+
+Encontrou um clone apos PT58.924S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|PS1:09|LP1:09|BD2:11|
+|TE2:09|RC1:17|Emp:09|TE2:11|PS1:18|
+|RC1:11|BD2:16|BD2:18|BD2:09|BD2:13|
+|Emp:10|LP1:15|BD2:10|PS1:12|TE2:10|
+Fitness: 241
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|PS1:09|LP1:09|BD2:11|
+|TE2:09|RC1:17|Emp:09|TE2:11|PS1:18|
+|RC1:11|BD2:16|BD2:18|BD2:09|BD2:13|
+|Emp:10|LP1:15|BD2:10|PS1:12|TE2:10|
+Fitness: 241
+
+Encontrou um clone apos PT59.319S tempo
+
+de:
+Cromossomo:
+|Emp:11|LP1:17|LP1:19|PS1:11|Emp:14|
+|Emp:20|PS1:13|Emp:09|PS1:11|LP1:11|
+|RC1:11|PS1:14|LP1:11|Emp:10|BD2:13|
+|RC1:13|BD2:09|BD2:10|RC1:11|TE2:10|
+Fitness: 248
+
+
+para:
+Cromossomo:
+|Emp:11|LP1:17|LP1:19|PS1:11|Emp:14|
+|Emp:20|PS1:13|Emp:09|PS1:11|LP1:11|
+|RC1:11|PS1:14|LP1:11|Emp:10|BD2:13|
+|RC1:13|BD2:09|BD2:10|RC1:11|TE2:10|
+Fitness: 248
+
+Encontrou um clone apos PT59.32S tempo
+
+de:
+Cromossomo:
+|Emp:11|TE2:12|LP1:19|PS1:11|Emp:14|
+|Emp:20|PS1:13|Emp:09|PS1:11|LP1:11|
+|RC1:11|PS1:14|LP1:11|Emp:10|BD2:13|
+|BD2:11|BD2:09|BD2:10|RC1:11|TE2:10|
+Fitness: 241
+
+
+para:
+Cromossomo:
+|Emp:11|TE2:12|LP1:19|PS1:11|Emp:14|
+|Emp:20|PS1:13|Emp:09|PS1:11|LP1:11|
+|RC1:11|PS1:14|LP1:11|Emp:10|BD2:13|
+|BD2:11|BD2:09|BD2:10|RC1:11|TE2:10|
+Fitness: 241
+
+Encontrou um clone apos PT59.398S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|BD2:16|PS1:11|RC1:09|
+|Emp:20|LP1:10|BD2:11|TE2:11|LP1:11|
+|LP1:09|LP1:12|Emp:10|BD2:09|BD2:13|
+|BD2:11|BD2:09|RC1:09|PS1:12|TE2:10|
+Fitness: 227
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|BD2:16|PS1:11|RC1:09|
+|Emp:20|LP1:10|BD2:11|TE2:11|LP1:11|
+|LP1:09|LP1:12|Emp:10|BD2:09|BD2:13|
+|BD2:11|BD2:09|RC1:09|PS1:12|TE2:10|
+Fitness: 227
+
+Encontrou um clone apos PT59.399S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|BD2:16|PS1:11|RC1:09|
+|Emp:20|LP1:10|BD2:11|TE2:11|LP1:11|
+|LP1:09|LP1:12|Emp:10|BD2:09|BD2:13|
+|BD2:11|BD2:09|RC1:09|PS1:12|TE2:10|
+Fitness: 227
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|BD2:16|PS1:11|RC1:09|
+|Emp:20|LP1:10|BD2:11|TE2:11|LP1:11|
+|LP1:09|LP1:12|Emp:10|BD2:09|BD2:13|
+|BD2:11|BD2:09|RC1:09|PS1:12|TE2:10|
+Fitness: 227
+
+Encontrou um clone apos PT59.555S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|BD2:16|BD2:14|BD2:11|
+|BD2:14|LP1:10|BD2:11|LP1:09|LP1:11|
+|RC1:11|PS1:14|TE2:15|BD2:09|BD2:13|
+|BD2:11|BD2:09|BD2:10|RC1:11|TE2:10|
+Fitness: 233
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|BD2:16|BD2:14|BD2:11|
+|BD2:14|LP1:10|BD2:11|LP1:09|LP1:11|
+|RC1:11|PS1:14|TE2:15|BD2:09|BD2:13|
+|BD2:11|BD2:09|BD2:10|RC1:11|TE2:10|
+Fitness: 233
+
+Encontrou um clone apos PT59.556S tempo
+
+de:
+Cromossomo:
+|Emp:11|LP1:17|LP1:19|BD2:14|Emp:14|
+|Emp:20|LP1:10|Emp:09|TE2:11|LP1:11|
+|RC1:11|PS1:14|LP1:11|BD2:09|BD2:13|
+|BD2:11|BD2:09|BD2:10|PS1:12|TE2:10|
+Fitness: 246
+
+
+para:
+Cromossomo:
+|Emp:11|LP1:17|LP1:19|BD2:14|Emp:14|
+|Emp:20|LP1:10|Emp:09|TE2:11|LP1:11|
+|RC1:11|PS1:14|LP1:11|BD2:09|BD2:13|
+|BD2:11|BD2:09|BD2:10|PS1:12|TE2:10|
+Fitness: 246
+
+Encontrou um clone apos PT1M0.222S tempo
+
+de:
+Cromossomo:
+|BD2:20|RC1:13|BD2:16|LP1:09|Emp:14|
+|Emp:20|Emp:09|PS1:09|RC1:10|LP1:11|
+|RC1:11|Emp:11|TE2:15|RC1:16|BD2:13|
+|TE2:18|BD2:09|BD2:10|PS1:12|TE2:10|
+Fitness: 256
+
+
+para:
+Cromossomo:
+|BD2:20|RC1:13|BD2:16|LP1:09|Emp:14|
+|Emp:20|Emp:09|PS1:09|RC1:10|LP1:11|
+|RC1:11|Emp:11|TE2:15|RC1:16|BD2:13|
+|TE2:18|BD2:09|BD2:10|PS1:12|TE2:10|
+Fitness: 256
+
+Encontrou um clone apos PT1M0.224S tempo
+
+de:
+Cromossomo:
+|BD2:20|RC1:13|BD2:16|LP1:09|Emp:14|
+|Emp:20|Emp:09|PS1:09|RC1:10|LP1:11|
+|RC1:11|Emp:11|TE2:15|RC1:16|BD2:13|
+|TE2:18|BD2:09|BD2:10|PS1:12|TE2:10|
+Fitness: 256
+
+
+para:
+Cromossomo:
+|BD2:20|RC1:13|BD2:16|LP1:09|Emp:14|
+|Emp:20|Emp:09|PS1:09|RC1:10|LP1:11|
+|RC1:11|Emp:11|TE2:15|RC1:16|BD2:13|
+|TE2:18|BD2:09|BD2:10|PS1:12|TE2:10|
+Fitness: 256
+
+Encontrou um clone apos PT1M4.553S tempo
+
+de:
+Cromossomo:
+|BD2:20|Emp:09|PS1:09|BD2:14|Emp:14|
+|BD2:14|LP1:10|PS1:09|Emp:17|PS1:18|
+|RC1:11|PS1:14|TE2:15|BD2:09|RC1:12|
+|RC1:13|PS1:14|Emp:12|RC1:11|TE2:10|
+Fitness: 255
+
+
+para:
+Cromossomo:
+|BD2:20|Emp:09|PS1:09|BD2:14|Emp:14|
+|BD2:14|LP1:10|PS1:09|Emp:17|PS1:18|
+|RC1:11|PS1:14|TE2:15|BD2:09|RC1:12|
+|RC1:13|PS1:14|Emp:12|RC1:11|TE2:10|
+Fitness: 255
+
+Encontrou um clone apos PT1M4.555S tempo
+
+de:
+Cromossomo:
+|BD2:20|Emp:09|PS1:09|BD2:14|Emp:14|
+|BD2:14|LP1:10|PS1:09|Emp:17|PS1:18|
+|RC1:11|PS1:14|TE2:15|BD2:09|RC1:12|
+|RC1:13|PS1:14|Emp:12|RC1:11|TE2:10|
+Fitness: 255
+
+
+para:
+Cromossomo:
+|BD2:20|Emp:09|PS1:09|BD2:14|Emp:14|
+|BD2:14|LP1:10|PS1:09|Emp:17|PS1:18|
+|RC1:11|PS1:14|TE2:15|BD2:09|RC1:12|
+|RC1:13|PS1:14|Emp:12|RC1:11|TE2:10|
+Fitness: 255
+
+Encontrou um clone apos PT1M6.311S tempo
+
+de:
+Cromossomo:
+|RC1:19|LP1:17|LP1:19|PS1:11|Emp:14|
+|Emp:20|LP1:10|PS1:09|BD2:09|PS1:18|
+|BD2:13|Emp:11|LP1:11|BD2:09|RC1:12|
+|Emp:10|PS1:14|BD2:10|Emp:20|BD2:16|
+Fitness: 272
+
+
+para:
+Cromossomo:
+|RC1:19|LP1:17|LP1:19|PS1:11|Emp:14|
+|Emp:20|LP1:10|PS1:09|BD2:09|PS1:18|
+|BD2:13|Emp:11|LP1:11|BD2:09|RC1:12|
+|Emp:10|PS1:14|BD2:10|Emp:20|BD2:16|
+Fitness: 272
+
+Encontrou um clone apos PT1M6.313S tempo
+
+de:
+Cromossomo:
+|RC1:19|LP1:17|LP1:19|PS1:11|Emp:14|
+|Emp:20|LP1:10|PS1:09|BD2:09|PS1:18|
+|BD2:13|Emp:11|LP1:11|BD2:09|RC1:12|
+|Emp:10|PS1:14|BD2:10|Emp:20|BD2:16|
+Fitness: 272
+
+
+para:
+Cromossomo:
+|RC1:19|LP1:17|LP1:19|PS1:11|Emp:14|
+|Emp:20|LP1:10|PS1:09|BD2:09|PS1:18|
+|BD2:13|Emp:11|LP1:11|BD2:09|RC1:12|
+|Emp:10|PS1:14|BD2:10|Emp:20|BD2:16|
+Fitness: 272
+
+Encontrou um clone apos PT1M6.333S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|BD2:16|PS1:11|RC1:09|
+|BD2:14|LP1:10|PS1:09|RC1:10|RC1:09|
+|BD2:13|LP1:12|LP1:11|BD2:09|RC1:12|
+|RC1:13|LP1:15|Emp:12|Emp:20|PS1:09|
+Fitness: 234
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|BD2:16|PS1:11|RC1:09|
+|BD2:14|LP1:10|PS1:09|RC1:10|RC1:09|
+|BD2:13|LP1:12|LP1:11|BD2:09|RC1:12|
+|RC1:13|LP1:15|Emp:12|Emp:20|PS1:09|
+Fitness: 234
+
+Encontrou um clone apos PT1M6.334S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|BD2:16|PS1:11|RC1:09|
+|BD2:14|LP1:10|PS1:09|RC1:10|RC1:09|
+|BD2:13|LP1:12|LP1:11|BD2:09|RC1:12|
+|RC1:13|LP1:15|Emp:12|Emp:20|PS1:09|
+Fitness: 234
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|BD2:16|PS1:11|RC1:09|
+|BD2:14|LP1:10|PS1:09|RC1:10|RC1:09|
+|BD2:13|LP1:12|LP1:11|BD2:09|RC1:12|
+|RC1:13|LP1:15|Emp:12|Emp:20|PS1:09|
+Fitness: 234
+
+Encontrou um clone apos PT1M7.915S tempo
+
+de:
+Cromossomo:
+|LP1:17|Emp:09|Emp:09|PS1:11|RC1:09|
+|BD2:14|Emp:09|Emp:09|TE2:11|RC1:09|
+|Emp:13|Emp:11|LP1:11|BD2:09|Emp:15|
+|Emp:10|LP1:15|RC1:09|RC1:11|LP1:17|
+Fitness: 228
+
+
+para:
+Cromossomo:
+|LP1:17|Emp:09|Emp:09|PS1:11|RC1:09|
+|BD2:14|Emp:09|Emp:09|TE2:11|RC1:09|
+|Emp:13|Emp:11|LP1:11|BD2:09|Emp:15|
+|Emp:10|LP1:15|RC1:09|RC1:11|LP1:17|
+Fitness: 228
+
+Encontrou um clone apos PT1M7.916S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|BD2:14|LP1:10|PS1:09|TE2:11|RC1:09|
+|Emp:13|Emp:11|LP1:11|BD2:09|LP1:17|
+|Emp:10|TE2:20|RC1:09|BD2:09|LP1:17|
+Fitness: 228
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|BD2:14|LP1:10|PS1:09|TE2:11|RC1:09|
+|Emp:13|Emp:11|LP1:11|BD2:09|LP1:17|
+|Emp:10|TE2:20|RC1:09|BD2:09|LP1:17|
+Fitness: 228
+
+Encontrou um clone apos PT1M7.917S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|BD2:16|PS1:11|RC1:09|
+|BD2:14|LP1:10|LP1:15|TE2:11|RC1:09|
+|LP1:09|Emp:11|TE2:15|BD2:09|Emp:15|
+|Emp:10|TE2:20|RC1:09|BD2:09|LP1:17|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|BD2:16|PS1:11|RC1:09|
+|BD2:14|LP1:10|LP1:15|TE2:11|RC1:09|
+|LP1:09|Emp:11|TE2:15|BD2:09|Emp:15|
+|Emp:10|TE2:20|RC1:09|BD2:09|LP1:17|
+Fitness: 239
+
+Encontrou um clone apos PT1M7.919S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|RC1:09|
+|BD2:14|LP1:10|Emp:09|TE2:11|RC1:09|
+|LP1:09|Emp:11|TE2:15|BD2:09|Emp:15|
+|Emp:10|BD2:09|RC1:09|BD2:09|LP1:17|
+Fitness: 218
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|BD2:14|RC1:09|
+|BD2:14|LP1:10|Emp:09|TE2:11|RC1:09|
+|LP1:09|Emp:11|TE2:15|BD2:09|Emp:15|
+|Emp:10|BD2:09|RC1:09|BD2:09|LP1:17|
+Fitness: 218
+
+Encontrou um clone apos PT1M7.92S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|BD2:14|LP1:10|Emp:09|TE2:11|PS1:18|
+|Emp:13|Emp:11|LP1:11|BD2:09|Emp:15|
+|Emp:10|LP1:15|RC1:09|RC1:11|BD2:16|
+Fitness: 231
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|BD2:14|LP1:10|Emp:09|TE2:11|PS1:18|
+|Emp:13|Emp:11|LP1:11|BD2:09|Emp:15|
+|Emp:10|LP1:15|RC1:09|RC1:11|BD2:16|
+Fitness: 231
+
+Encontrou um clone apos PT1M7.921S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|BD2:14|LP1:10|Emp:09|TE2:11|PS1:18|
+|Emp:13|Emp:11|LP1:11|BD2:09|Emp:15|
+|Emp:10|LP1:15|RC1:09|RC1:11|BD2:16|
+Fitness: 231
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|BD2:14|LP1:10|Emp:09|TE2:11|PS1:18|
+|Emp:13|Emp:11|LP1:11|BD2:09|Emp:15|
+|Emp:10|LP1:15|RC1:09|RC1:11|BD2:16|
+Fitness: 231
+
+Encontrou um clone apos PT1M8.261S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|BD2:16|Emp:15|RC1:09|
+|BD2:14|LP1:10|PS1:09|RC1:10|RC1:09|
+|Emp:13|LP1:12|LP1:11|LP1:15|Emp:15|
+|RC1:13|LP1:15|Emp:12|Emp:20|LP1:17|
+Fitness: 255
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|BD2:16|Emp:15|RC1:09|
+|BD2:14|LP1:10|PS1:09|RC1:10|RC1:09|
+|Emp:13|LP1:12|LP1:11|LP1:15|Emp:15|
+|RC1:13|LP1:15|Emp:12|Emp:20|LP1:17|
+Fitness: 255
+
+Encontrou um clone apos PT1M8.262S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|BD2:16|Emp:15|RC1:09|
+|BD2:14|LP1:10|PS1:09|RC1:10|RC1:09|
+|Emp:13|LP1:12|LP1:11|LP1:15|Emp:15|
+|RC1:13|LP1:15|Emp:12|Emp:20|LP1:17|
+Fitness: 255
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|BD2:16|Emp:15|RC1:09|
+|BD2:14|LP1:10|PS1:09|RC1:10|RC1:09|
+|Emp:13|LP1:12|LP1:11|LP1:15|Emp:15|
+|RC1:13|LP1:15|Emp:12|Emp:20|LP1:17|
+Fitness: 255
+
+Encontrou um clone apos PT1M9.907S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|Emp:15|BD2:11|
+|BD2:14|LP1:10|PS1:09|BD2:09|BD2:12|
+|LP1:09|LP1:12|LP1:11|LP1:15|Emp:15|
+|Emp:10|LP1:15|RC1:09|RC1:11|TE2:10|
+Fitness: 226
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|Emp:15|BD2:11|
+|BD2:14|LP1:10|PS1:09|BD2:09|BD2:12|
+|LP1:09|LP1:12|LP1:11|LP1:15|Emp:15|
+|Emp:10|LP1:15|RC1:09|RC1:11|TE2:10|
+Fitness: 226
+
+Encontrou um clone apos PT1M9.908S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|Emp:15|RC1:09|
+|BD2:14|LP1:10|BD2:11|BD2:09|PS1:18|
+|LP1:09|LP1:12|LP1:11|LP1:15|Emp:15|
+|Emp:10|LP1:15|RC1:09|RC1:11|TE2:10|
+Fitness: 232
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|Emp:15|RC1:09|
+|BD2:14|LP1:10|BD2:11|BD2:09|PS1:18|
+|LP1:09|LP1:12|LP1:11|LP1:15|Emp:15|
+|Emp:10|LP1:15|RC1:09|RC1:11|TE2:10|
+Fitness: 232
+
+Encontrou um clone apos PT1M11.219S tempo
+
+de:
+Cromossomo:
+|PS1:11|PS1:14|PS1:09|Emp:15|RC1:09|
+|BD2:14|PS1:13|PS1:09|RC1:10|RC1:09|
+|Emp:13|LP1:12|Emp:10|LP1:15|PS1:09|
+|Emp:10|TE2:20|TE2:17|TE2:15|PS1:09|
+Fitness: 243
+
+
+para:
+Cromossomo:
+|PS1:11|PS1:14|PS1:09|Emp:15|RC1:09|
+|BD2:14|PS1:13|PS1:09|RC1:10|RC1:09|
+|Emp:13|LP1:12|Emp:10|LP1:15|PS1:09|
+|Emp:10|TE2:20|TE2:17|TE2:15|PS1:09|
+Fitness: 243
+
+Encontrou um clone apos PT1M11.22S tempo
+
+de:
+Cromossomo:
+|PS1:11|PS1:14|PS1:09|Emp:15|RC1:09|
+|BD2:14|PS1:13|PS1:09|RC1:10|RC1:09|
+|Emp:13|LP1:12|Emp:10|LP1:15|PS1:09|
+|Emp:10|TE2:20|TE2:17|TE2:15|PS1:09|
+Fitness: 243
+
+
+para:
+Cromossomo:
+|PS1:11|PS1:14|PS1:09|Emp:15|RC1:09|
+|BD2:14|PS1:13|PS1:09|RC1:10|RC1:09|
+|Emp:13|LP1:12|Emp:10|LP1:15|PS1:09|
+|Emp:10|TE2:20|TE2:17|TE2:15|PS1:09|
+Fitness: 243
+
+Encontrou um clone apos PT1M11.361S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|Emp:15|RC1:09|
+|BD2:14|PS1:13|PS1:09|BD2:09|PS1:18|
+|Emp:13|LP1:12|LP1:11|LP1:15|Emp:15|
+|Emp:10|LP1:15|PS1:15|BD2:09|BD2:16|
+Fitness: 247
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|Emp:15|RC1:09|
+|BD2:14|PS1:13|PS1:09|BD2:09|PS1:18|
+|Emp:13|LP1:12|LP1:11|LP1:15|Emp:15|
+|Emp:10|LP1:15|PS1:15|BD2:09|BD2:16|
+Fitness: 247
+
+Encontrou um clone apos PT1M11.362S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|Emp:15|RC1:09|
+|BD2:14|PS1:13|PS1:09|BD2:09|PS1:18|
+|Emp:13|LP1:12|LP1:11|LP1:15|Emp:15|
+|Emp:10|LP1:15|PS1:15|BD2:09|BD2:16|
+Fitness: 247
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|Emp:15|RC1:09|
+|BD2:14|PS1:13|PS1:09|BD2:09|PS1:18|
+|Emp:13|LP1:12|LP1:11|LP1:15|Emp:15|
+|Emp:10|LP1:15|PS1:15|BD2:09|BD2:16|
+Fitness: 247
+
+Encontrou um clone apos PT1M14.054S tempo
+
+de:
+Cromossomo:
+|LP1:17|PS1:14|PS1:09|Emp:15|LP1:16|
+|Emp:20|RC1:17|BD2:11|PS1:11|RC1:09|
+|Emp:13|PS1:14|TE2:15|BD2:09|PS1:09|
+|PS1:14|TE2:20|PS1:15|BD2:09|PS1:09|
+Fitness: 266
+
+
+para:
+Cromossomo:
+|LP1:17|PS1:14|PS1:09|Emp:15|LP1:16|
+|Emp:20|RC1:17|BD2:11|PS1:11|RC1:09|
+|Emp:13|PS1:14|TE2:15|BD2:09|PS1:09|
+|PS1:14|TE2:20|PS1:15|BD2:09|PS1:09|
+Fitness: 266
+
+Encontrou um clone apos PT1M15.303S tempo
+
+de:
+Cromossomo:
+|LP1:17|Emp:09|PS1:09|Emp:15|PS1:18|
+|Emp:20|Emp:09|Emp:09|RC1:10|PS1:18|
+|Emp:13|LP1:12|LP1:11|LP1:15|Emp:15|
+|Emp:10|BD2:09|TE2:17|RC1:11|PS1:09|
+Fitness: 256
+
+
+para:
+Cromossomo:
+|LP1:17|Emp:09|PS1:09|Emp:15|PS1:18|
+|Emp:20|Emp:09|Emp:09|RC1:10|PS1:18|
+|Emp:13|LP1:12|LP1:11|LP1:15|Emp:15|
+|Emp:10|BD2:09|TE2:17|RC1:11|PS1:09|
+Fitness: 256
+
+Encontrou um clone apos PT1M15.304S tempo
+
+de:
+Cromossomo:
+|LP1:17|Emp:09|PS1:09|Emp:15|PS1:18|
+|Emp:20|Emp:09|Emp:09|RC1:10|PS1:18|
+|Emp:13|LP1:12|LP1:11|LP1:15|Emp:15|
+|Emp:10|BD2:09|TE2:17|RC1:11|PS1:09|
+Fitness: 256
+
+
+para:
+Cromossomo:
+|LP1:17|Emp:09|PS1:09|Emp:15|PS1:18|
+|Emp:20|Emp:09|Emp:09|RC1:10|PS1:18|
+|Emp:13|LP1:12|LP1:11|LP1:15|Emp:15|
+|Emp:10|BD2:09|TE2:17|RC1:11|PS1:09|
+Fitness: 256
+
+Encontrou um clone apos PT1M20.757S tempo
+
+de:
+Cromossomo:
+|LP1:17|BD2:19|Emp:09|BD2:14|RC1:09|
+|LP1:13|Emp:09|BD2:11|LP1:09|BD2:12|
+|RC1:11|LP1:12|LP1:11|Emp:10|PS1:09|
+|Emp:10|RC1:20|BD2:10|RC1:11|RC1:18|
+Fitness: 244
+
+
+para:
+Cromossomo:
+|LP1:17|BD2:19|Emp:09|BD2:14|RC1:09|
+|LP1:13|Emp:09|BD2:11|LP1:09|BD2:12|
+|RC1:11|LP1:12|LP1:11|Emp:10|PS1:09|
+|Emp:10|RC1:20|BD2:10|RC1:11|RC1:18|
+Fitness: 244
+
+Encontrou um clone apos PT1M20.758S tempo
+
+de:
+Cromossomo:
+|LP1:17|BD2:19|Emp:09|BD2:14|RC1:09|
+|LP1:13|Emp:09|BD2:11|LP1:09|BD2:12|
+|RC1:11|LP1:12|LP1:11|Emp:10|PS1:09|
+|Emp:10|RC1:20|BD2:10|RC1:11|RC1:18|
+Fitness: 244
+
+
+para:
+Cromossomo:
+|LP1:17|BD2:19|Emp:09|BD2:14|RC1:09|
+|LP1:13|Emp:09|BD2:11|LP1:09|BD2:12|
+|RC1:11|LP1:12|LP1:11|Emp:10|PS1:09|
+|Emp:10|RC1:20|BD2:10|RC1:11|RC1:18|
+Fitness: 244
+
+Encontrou um clone apos PT1M20.759S tempo
+
+de:
+Cromossomo:
+|LP1:17|Emp:09|Emp:09|TE2:13|RC1:09|
+|LP1:13|Emp:09|BD2:11|BD2:09|BD2:12|
+|Emp:13|RC1:15|Emp:10|LP1:15|BD2:13|
+|PS1:14|RC1:20|RC1:09|BD2:09|RC1:18|
+Fitness: 247
+
+
+para:
+Cromossomo:
+|LP1:17|Emp:09|Emp:09|TE2:13|RC1:09|
+|LP1:13|Emp:09|BD2:11|BD2:09|BD2:12|
+|Emp:13|RC1:15|Emp:10|LP1:15|BD2:13|
+|PS1:14|RC1:20|RC1:09|BD2:09|RC1:18|
+Fitness: 247
+
+Encontrou um clone apos PT1M20.76S tempo
+
+de:
+Cromossomo:
+|LP1:17|Emp:09|Emp:09|RC1:15|Emp:14|
+|LP1:13|Emp:09|BD2:11|Emp:17|BD2:12|
+|LP1:09|RC1:15|Emp:10|RC1:16|PS1:09|
+|BD2:11|RC1:20|RC1:09|RC1:11|TE2:10|
+Fitness: 246
+
+
+para:
+Cromossomo:
+|LP1:17|Emp:09|Emp:09|RC1:15|Emp:14|
+|LP1:13|Emp:09|BD2:11|Emp:17|BD2:12|
+|LP1:09|RC1:15|Emp:10|RC1:16|PS1:09|
+|BD2:11|RC1:20|RC1:09|RC1:11|TE2:10|
+Fitness: 246
+
+Encontrou um clone apos PT1M25.304S tempo
+
+de:
+Cromossomo:
+|PS1:11|TE2:12|PS1:09|BD2:14|Emp:14|
+|TE2:09|Emp:09|PS1:09|RC1:10|TE2:17|
+|LP1:09|RC1:15|RC1:09|BD2:09|RC1:12|
+|Emp:10|TE2:20|RC1:09|RC1:11|TE2:10|
+Fitness: 228
+
+
+para:
+Cromossomo:
+|PS1:11|TE2:12|PS1:09|BD2:14|Emp:14|
+|TE2:09|Emp:09|PS1:09|RC1:10|TE2:17|
+|LP1:09|RC1:15|RC1:09|BD2:09|RC1:12|
+|Emp:10|TE2:20|RC1:09|RC1:11|TE2:10|
+Fitness: 228
+
+Encontrou um clone apos PT1M25.305S tempo
+
+de:
+Cromossomo:
+|PS1:11|TE2:12|PS1:09|BD2:14|Emp:14|
+|TE2:09|Emp:09|PS1:09|RC1:10|TE2:17|
+|LP1:09|RC1:15|RC1:09|BD2:09|RC1:12|
+|Emp:10|TE2:20|RC1:09|RC1:11|TE2:10|
+Fitness: 228
+
+
+para:
+Cromossomo:
+|PS1:11|TE2:12|PS1:09|BD2:14|Emp:14|
+|TE2:09|Emp:09|PS1:09|RC1:10|TE2:17|
+|LP1:09|RC1:15|RC1:09|BD2:09|RC1:12|
+|Emp:10|TE2:20|RC1:09|RC1:11|TE2:10|
+Fitness: 228
+
+Encontrou um clone apos PT1M29.707S tempo
+
+de:
+Cromossomo:
+|LP1:17|PS1:14|RC1:18|Emp:15|RC1:09|
+|TE2:09|TE2:20|PS1:09|RC1:10|LP1:11|
+|LP1:09|LP1:12|LP1:11|Emp:10|RC1:12|
+|LP1:09|BD2:09|LP1:11|PS1:12|TE2:10|
+Fitness: 237
+
+
+para:
+Cromossomo:
+|LP1:17|PS1:14|RC1:18|Emp:15|RC1:09|
+|TE2:09|TE2:20|PS1:09|RC1:10|LP1:11|
+|LP1:09|LP1:12|LP1:11|Emp:10|RC1:12|
+|LP1:09|BD2:09|LP1:11|PS1:12|TE2:10|
+Fitness: 237
+
+Encontrou um clone apos PT1M29.708S tempo
+
+de:
+Cromossomo:
+|LP1:17|PS1:14|RC1:18|Emp:15|RC1:09|
+|TE2:09|TE2:20|PS1:09|RC1:10|LP1:11|
+|LP1:09|LP1:12|LP1:11|Emp:10|RC1:12|
+|LP1:09|BD2:09|LP1:11|PS1:12|TE2:10|
+Fitness: 237
+
+
+para:
+Cromossomo:
+|LP1:17|PS1:14|RC1:18|Emp:15|RC1:09|
+|TE2:09|TE2:20|PS1:09|RC1:10|LP1:11|
+|LP1:09|LP1:12|LP1:11|Emp:10|RC1:12|
+|LP1:09|BD2:09|LP1:11|PS1:12|TE2:10|
+Fitness: 237
+
+Encontrou um clone apos PT1M33.304S tempo
+
+de:
+Cromossomo:
+|PS1:11|TE2:12|RC1:18|RC1:15|Emp:14|
+|PS1:17|PS1:13|RC1:10|BD2:09|LP1:11|
+|LP1:09|BD2:16|LP1:11|Emp:10|LP1:17|
+|Emp:10|TE2:20|LP1:11|RC1:11|TE2:10|
+Fitness: 255
+
+
+para:
+Cromossomo:
+|PS1:11|TE2:12|RC1:18|RC1:15|Emp:14|
+|PS1:17|PS1:13|RC1:10|BD2:09|LP1:11|
+|LP1:09|BD2:16|LP1:11|Emp:10|LP1:17|
+|Emp:10|TE2:20|LP1:11|RC1:11|TE2:10|
+Fitness: 255
+
+Encontrou um clone apos PT1M33.305S tempo
+
+de:
+Cromossomo:
+|PS1:11|TE2:12|RC1:18|PS1:11|Emp:14|
+|PS1:17|PS1:13|RC1:10|BD2:09|LP1:11|
+|RC1:11|LP1:12|Emp:10|Emp:10|LP1:17|
+|LP1:09|TE2:20|LP1:11|RC1:11|TE2:10|
+Fitness: 247
+
+
+para:
+Cromossomo:
+|PS1:11|TE2:12|RC1:18|PS1:11|Emp:14|
+|PS1:17|PS1:13|RC1:10|BD2:09|LP1:11|
+|RC1:11|LP1:12|Emp:10|Emp:10|LP1:17|
+|LP1:09|TE2:20|LP1:11|RC1:11|TE2:10|
+Fitness: 247
+
+Encontrou um clone apos PT1M33.807S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|LP1:19|LP1:09|BD2:11|
+|TE2:09|PS1:13|Emp:09|RC1:10|TE2:17|
+|LP1:09|PS1:14|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|LP1:11|RC1:11|TE2:10|
+Fitness: 232
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|LP1:19|LP1:09|BD2:11|
+|TE2:09|PS1:13|Emp:09|RC1:10|TE2:17|
+|LP1:09|PS1:14|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|LP1:11|RC1:11|TE2:10|
+Fitness: 232
+
+Encontrou um clone apos PT1M33.808S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|LP1:19|LP1:09|BD2:11|
+|TE2:09|PS1:13|Emp:09|RC1:10|TE2:17|
+|LP1:09|PS1:14|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|LP1:11|RC1:11|TE2:10|
+Fitness: 232
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|LP1:19|LP1:09|BD2:11|
+|TE2:09|PS1:13|Emp:09|RC1:10|TE2:17|
+|LP1:09|PS1:14|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|LP1:11|RC1:11|TE2:10|
+Fitness: 232
+
+Encontrou um clone apos PT1M34.39S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|RC1:15|BD2:11|
+|TE2:09|PS1:13|RC1:10|PS1:11|LP1:11|
+|LP1:09|LP1:12|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 229
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|RC1:15|BD2:11|
+|TE2:09|PS1:13|RC1:10|PS1:11|LP1:11|
+|LP1:09|LP1:12|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 229
+
+Encontrou um clone apos PT1M34.391S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|LP1:09|BD2:11|
+|PS1:17|PS1:13|BD2:11|LP1:09|LP1:11|
+|BD2:13|RC1:15|LP1:11|Emp:10|LP1:17|
+|Emp:10|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 238
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|LP1:09|BD2:11|
+|PS1:17|PS1:13|BD2:11|LP1:09|LP1:11|
+|BD2:13|RC1:15|LP1:11|Emp:10|LP1:17|
+|Emp:10|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 238
+
+Encontrou um clone apos PT1M35.54S tempo
+
+de:
+Cromossomo:
+|PS1:11|LP1:17|RC1:18|RC1:15|BD2:11|
+|TE2:09|PS1:13|PS1:09|PS1:11|LP1:11|
+|BD2:13|LP1:12|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 237
+
+
+para:
+Cromossomo:
+|PS1:11|LP1:17|RC1:18|RC1:15|BD2:11|
+|TE2:09|PS1:13|PS1:09|PS1:11|LP1:11|
+|BD2:13|LP1:12|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 237
+
+Encontrou um clone apos PT1M35.541S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|LP1:09|BD2:11|
+|TE2:09|PS1:13|PS1:09|PS1:11|LP1:11|
+|BD2:13|LP1:12|LP1:11|Emp:10|LP1:17|
+|Emp:10|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 228
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|LP1:09|BD2:11|
+|TE2:09|PS1:13|PS1:09|PS1:11|LP1:11|
+|BD2:13|LP1:12|LP1:11|Emp:10|LP1:17|
+|Emp:10|BD2:09|LP1:11|RC1:11|PS1:09|
+Fitness: 228
+
+Encontrou um clone apos PT1M35.686S tempo
+
+de:
+Cromossomo:
+|PS1:11|TE2:12|RC1:18|LP1:09|LP1:16|
+|TE2:09|PS1:13|PS1:09|BD2:09|TE2:17|
+|LP1:09|RC1:15|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|BD2:10|PS1:12|TE2:10|
+Fitness: 235
+
+
+para:
+Cromossomo:
+|PS1:11|TE2:12|RC1:18|LP1:09|LP1:16|
+|TE2:09|PS1:13|PS1:09|BD2:09|TE2:17|
+|LP1:09|RC1:15|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|BD2:10|PS1:12|TE2:10|
+Fitness: 235
+
+Encontrou um clone apos PT1M35.687S tempo
+
+de:
+Cromossomo:
+|PS1:11|TE2:12|RC1:18|LP1:09|LP1:16|
+|TE2:09|PS1:13|PS1:09|BD2:09|TE2:17|
+|LP1:09|RC1:15|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 234
+
+
+para:
+Cromossomo:
+|PS1:11|TE2:12|RC1:18|LP1:09|LP1:16|
+|TE2:09|PS1:13|PS1:09|BD2:09|TE2:17|
+|LP1:09|RC1:15|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 234
+
+Encontrou um clone apos PT1M35.785S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|LP1:09|Emp:14|
+|TE2:09|PS1:13|PS1:09|BD2:09|LP1:11|
+|LP1:09|LP1:12|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|LP1:11|LP1:18|TE2:10|
+Fitness: 232
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|LP1:09|Emp:14|
+|TE2:09|PS1:13|PS1:09|BD2:09|LP1:11|
+|LP1:09|LP1:12|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|LP1:11|LP1:18|TE2:10|
+Fitness: 232
+
+Encontrou um clone apos PT1M35.786S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|RC1:15|BD2:11|
+|TE2:09|PS1:13|LP1:15|PS1:11|LP1:11|
+|LP1:09|LP1:12|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|BD2:10|LP1:18|PS1:09|
+Fitness: 241
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|RC1:15|BD2:11|
+|TE2:09|PS1:13|LP1:15|PS1:11|LP1:11|
+|LP1:09|LP1:12|LP1:11|BD2:09|LP1:17|
+|Emp:10|BD2:09|BD2:10|LP1:18|PS1:09|
+Fitness: 241
+
+Encontrou um clone apos PT1M36.533S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|RC1:15|BD2:11|
+|TE2:09|PS1:13|RC1:10|TE2:11|LP1:11|
+|RC1:11|LP1:12|LP1:11|Emp:10|LP1:17|
+|Emp:10|BD2:09|LP1:11|LP1:18|TE2:10|
+Fitness: 241
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|RC1:15|BD2:11|
+|TE2:09|PS1:13|RC1:10|TE2:11|LP1:11|
+|RC1:11|LP1:12|LP1:11|Emp:10|LP1:17|
+|Emp:10|BD2:09|LP1:11|LP1:18|TE2:10|
+Fitness: 241
+
+Encontrou um clone apos PT1M36.534S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|RC1:15|BD2:11|
+|TE2:09|PS1:13|RC1:10|TE2:11|LP1:11|
+|RC1:11|LP1:12|LP1:11|Emp:10|LP1:17|
+|Emp:10|BD2:09|LP1:11|LP1:18|TE2:10|
+Fitness: 241
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|RC1:15|BD2:11|
+|TE2:09|PS1:13|RC1:10|TE2:11|LP1:11|
+|RC1:11|LP1:12|LP1:11|Emp:10|LP1:17|
+|Emp:10|BD2:09|LP1:11|LP1:18|TE2:10|
+Fitness: 241
+
+Encontrou um clone apos PT1M38.016S tempo
+
+de:
+Cromossomo:
+|PS1:11|TE2:12|RC1:18|PS1:11|Emp:14|
+|TE2:09|BD2:16|LP1:15|TE2:11|LP1:11|
+|LP1:09|Emp:11|LP1:11|Emp:10|BD2:13|
+|Emp:10|BD2:09|LP1:11|LP1:18|TE2:10|
+Fitness: 240
+
+
+para:
+Cromossomo:
+|PS1:11|TE2:12|RC1:18|PS1:11|Emp:14|
+|TE2:09|BD2:16|LP1:15|TE2:11|LP1:11|
+|LP1:09|Emp:11|LP1:11|Emp:10|BD2:13|
+|Emp:10|BD2:09|LP1:11|LP1:18|TE2:10|
+Fitness: 240
+
+Encontrou um clone apos PT1M38.017S tempo
+
+de:
+Cromossomo:
+|PS1:11|LP1:17|RC1:18|TE2:13|BD2:11|
+|TE2:09|TE2:20|LP1:15|TE2:11|LP1:11|
+|RC1:11|Emp:11|LP1:11|Emp:10|BD2:13|
+|TE2:18|BD2:09|LP1:11|LP1:18|TE2:10|
+Fitness: 258
+
+
+para:
+Cromossomo:
+|PS1:11|LP1:17|RC1:18|TE2:13|BD2:11|
+|TE2:09|TE2:20|LP1:15|TE2:11|LP1:11|
+|RC1:11|Emp:11|LP1:11|Emp:10|BD2:13|
+|TE2:18|BD2:09|LP1:11|LP1:18|TE2:10|
+Fitness: 258
+
+Encontrou um clone apos PT1M38.94S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|BD2:14|Emp:14|
+|PS1:17|BD2:16|LP1:15|TE2:11|LP1:11|
+|RC1:11|Emp:11|LP1:11|BD2:09|BD2:13|
+|TE2:18|BD2:09|LP1:11|LP1:18|TE2:10|
+Fitness: 261
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|BD2:14|Emp:14|
+|PS1:17|BD2:16|LP1:15|TE2:11|LP1:11|
+|RC1:11|Emp:11|LP1:11|BD2:09|BD2:13|
+|TE2:18|BD2:09|LP1:11|LP1:18|TE2:10|
+Fitness: 261
+
+Encontrou um clone apos PT1M38.941S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|LP1:09|Emp:14|
+|TE2:09|BD2:16|PS1:09|TE2:11|LP1:11|
+|RC1:11|Emp:11|LP1:11|BD2:09|BD2:13|
+|Emp:10|BD2:09|LP1:11|LP1:18|PS1:09|
+Fitness: 220
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|PS1:09|LP1:09|Emp:14|
+|TE2:09|BD2:16|PS1:09|TE2:11|LP1:11|
+|RC1:11|Emp:11|LP1:11|BD2:09|BD2:13|
+|Emp:10|BD2:09|LP1:11|LP1:18|PS1:09|
+Fitness: 220
+
+Encontrou um clone apos PT1M42.19S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|LP1:09|Emp:14|
+|RC1:13|PS1:13|LP1:15|LP1:09|LP1:11|
+|LP1:09|Emp:11|Emp:10|LP1:15|BD2:13|
+|LP1:09|BD2:09|Emp:12|PS1:12|PS1:09|
+Fitness: 222
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|LP1:09|Emp:14|
+|RC1:13|PS1:13|LP1:15|LP1:09|LP1:11|
+|LP1:09|Emp:11|Emp:10|LP1:15|BD2:13|
+|LP1:09|BD2:09|Emp:12|PS1:12|PS1:09|
+Fitness: 222
+
+Encontrou um clone apos PT1M42.191S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|LP1:09|Emp:14|
+|PS1:17|PS1:13|LP1:15|LP1:09|LP1:11|
+|LP1:09|Emp:11|Emp:10|LP1:15|BD2:13|
+|LP1:09|BD2:09|Emp:12|PS1:12|PS1:09|
+Fitness: 226
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|LP1:09|Emp:14|
+|PS1:17|PS1:13|LP1:15|LP1:09|LP1:11|
+|LP1:09|Emp:11|Emp:10|LP1:15|BD2:13|
+|LP1:09|BD2:09|Emp:12|PS1:12|PS1:09|
+Fitness: 226
+
+Encontrou um clone apos PT1M42.467S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|LP1:09|Emp:14|
+|RC1:13|PS1:13|LP1:15|LP1:09|LP1:11|
+|LP1:09|Emp:11|Emp:10|LP1:15|BD2:13|
+|LP1:09|BD2:09|Emp:12|PS1:12|PS1:09|
+Fitness: 222
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|LP1:09|Emp:14|
+|RC1:13|PS1:13|LP1:15|LP1:09|LP1:11|
+|LP1:09|Emp:11|Emp:10|LP1:15|BD2:13|
+|LP1:09|BD2:09|Emp:12|PS1:12|PS1:09|
+Fitness: 222
+
+Encontrou um clone apos PT1M43.397S tempo
+
+de:
+Cromossomo:
+|Emp:11|TE2:12|PS1:09|LP1:09|Emp:14|
+|RC1:13|PS1:13|LP1:15|LP1:09|Emp:20|
+|LP1:09|Emp:11|Emp:10|LP1:15|BD2:13|
+|BD2:11|LP1:15|BD2:10|PS1:12|PS1:09|
+Fitness: 240
+
+
+para:
+Cromossomo:
+|Emp:11|TE2:12|PS1:09|LP1:09|Emp:14|
+|RC1:13|PS1:13|LP1:15|LP1:09|Emp:20|
+|LP1:09|Emp:11|Emp:10|LP1:15|BD2:13|
+|BD2:11|LP1:15|BD2:10|PS1:12|PS1:09|
+Fitness: 240
+
+Encontrou um clone apos PT1M43.398S tempo
+
+de:
+Cromossomo:
+|Emp:11|TE2:12|PS1:09|LP1:09|Emp:14|
+|RC1:13|PS1:13|LP1:15|LP1:09|Emp:20|
+|LP1:09|Emp:11|Emp:10|LP1:15|BD2:13|
+|BD2:11|LP1:15|BD2:10|PS1:12|PS1:09|
+Fitness: 240
+
+
+para:
+Cromossomo:
+|Emp:11|TE2:12|PS1:09|LP1:09|Emp:14|
+|RC1:13|PS1:13|LP1:15|LP1:09|Emp:20|
+|LP1:09|Emp:11|Emp:10|LP1:15|BD2:13|
+|BD2:11|LP1:15|BD2:10|PS1:12|PS1:09|
+Fitness: 240
+
+Encontrou um clone apos PT1M44.33S tempo
+
+de:
+Cromossomo:
+|BD2:20|RC1:13|LP1:19|PS1:11|Emp:14|
+|RC1:13|PS1:13|PS1:09|LP1:09|LP1:11|
+|LP1:09|Emp:11|Emp:10|LP1:15|BD2:13|
+|PS1:14|LP1:15|BD2:10|LP1:18|Emp:20|
+Fitness: 267
+
+
+para:
+Cromossomo:
+|BD2:20|RC1:13|LP1:19|PS1:11|Emp:14|
+|RC1:13|PS1:13|PS1:09|LP1:09|LP1:11|
+|LP1:09|Emp:11|Emp:10|LP1:15|BD2:13|
+|PS1:14|LP1:15|BD2:10|LP1:18|Emp:20|
+Fitness: 267
+
+Encontrou um clone apos PT1M44.332S tempo
+
+de:
+Cromossomo:
+|BD2:20|Emp:09|PS1:09|PS1:11|TE2:16|
+|RC1:13|PS1:13|PS1:09|LP1:09|LP1:11|
+|LP1:09|Emp:11|Emp:10|BD2:09|BD2:13|
+|PS1:14|LP1:15|BD2:10|LP1:18|Emp:20|
+Fitness: 249
+
+
+para:
+Cromossomo:
+|BD2:20|Emp:09|PS1:09|PS1:11|TE2:16|
+|RC1:13|PS1:13|PS1:09|LP1:09|LP1:11|
+|LP1:09|Emp:11|Emp:10|BD2:09|BD2:13|
+|PS1:14|LP1:15|BD2:10|LP1:18|Emp:20|
+Fitness: 249
+
+Encontrou um clone apos PT1M46.644S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|TE2:09|Emp:09|RC1:10|LP1:09|Emp:20|
+|RC1:11|RC1:15|TE2:15|LP1:15|PS1:09|
+|Emp:10|LP1:15|BD2:10|PS1:12|PS1:09|
+Fitness: 231
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|BD2:11|
+|TE2:09|Emp:09|RC1:10|LP1:09|Emp:20|
+|RC1:11|RC1:15|TE2:15|LP1:15|PS1:09|
+|Emp:10|LP1:15|BD2:10|PS1:12|PS1:09|
+Fitness: 231
+
+Encontrou um clone apos PT1M46.646S tempo
+
+de:
+Cromossomo:
+|Emp:11|TE2:12|PS1:09|TE2:13|Emp:14|
+|TE2:09|Emp:09|RC1:10|LP1:09|Emp:20|
+|Emp:13|RC1:15|TE2:15|LP1:15|PS1:09|
+|LP1:09|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 232
+
+
+para:
+Cromossomo:
+|Emp:11|TE2:12|PS1:09|TE2:13|Emp:14|
+|TE2:09|Emp:09|RC1:10|LP1:09|Emp:20|
+|Emp:13|RC1:15|TE2:15|LP1:15|PS1:09|
+|LP1:09|BD2:09|BD2:10|PS1:12|PS1:09|
+Fitness: 232
+
+Encontrou um clone apos PT1M46.797S tempo
+
+de:
+Cromossomo:
+|Emp:11|TE2:12|Emp:09|TE2:13|LP1:16|
+|PS1:17|Emp:09|LP1:15|LP1:09|LP1:11|
+|Emp:13|RC1:15|Emp:10|LP1:15|PS1:09|
+|LP1:09|LP1:15|BD2:10|PS1:12|PS1:09|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|Emp:11|TE2:12|Emp:09|TE2:13|LP1:16|
+|PS1:17|Emp:09|LP1:15|LP1:09|LP1:11|
+|Emp:13|RC1:15|Emp:10|LP1:15|PS1:09|
+|LP1:09|LP1:15|BD2:10|PS1:12|PS1:09|
+Fitness: 239
+
+Encontrou um clone apos PT1M46.798S tempo
+
+de:
+Cromossomo:
+|Emp:11|TE2:12|Emp:09|TE2:13|LP1:16|
+|PS1:17|Emp:09|LP1:15|LP1:09|LP1:11|
+|Emp:13|RC1:15|Emp:10|LP1:15|PS1:09|
+|LP1:09|LP1:15|BD2:10|PS1:12|PS1:09|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|Emp:11|TE2:12|Emp:09|TE2:13|LP1:16|
+|PS1:17|Emp:09|LP1:15|LP1:09|LP1:11|
+|Emp:13|RC1:15|Emp:10|LP1:15|PS1:09|
+|LP1:09|LP1:15|BD2:10|PS1:12|PS1:09|
+Fitness: 239
+
+Encontrou um clone apos PT1M49.552S tempo
+
+de:
+Cromossomo:
+|LP1:17|TE2:12|PS1:09|BD2:14|BD2:11|
+|BD2:14|Emp:09|LP1:15|LP1:09|LP1:11|
+|BD2:13|RC1:15|PS1:15|Emp:10|BD2:13|
+|LP1:09|RC1:20|BD2:10|RC1:11|PS1:09|
+Fitness: 246
+
+
+para:
+Cromossomo:
+|LP1:17|TE2:12|PS1:09|BD2:14|BD2:11|
+|BD2:14|Emp:09|LP1:15|LP1:09|LP1:11|
+|BD2:13|RC1:15|PS1:15|Emp:10|BD2:13|
+|LP1:09|RC1:20|BD2:10|RC1:11|PS1:09|
+Fitness: 246
+
+Encontrou um clone apos PT1M49.554S tempo
+
+de:
+Cromossomo:
+|LP1:17|TE2:12|PS1:09|BD2:14|BD2:11|
+|BD2:14|Emp:09|LP1:15|LP1:09|LP1:11|
+|BD2:13|RC1:15|PS1:15|Emp:10|BD2:13|
+|LP1:09|RC1:20|BD2:10|RC1:11|PS1:09|
+Fitness: 246
+
+
+para:
+Cromossomo:
+|LP1:17|TE2:12|PS1:09|BD2:14|BD2:11|
+|BD2:14|Emp:09|LP1:15|LP1:09|LP1:11|
+|BD2:13|RC1:15|PS1:15|Emp:10|BD2:13|
+|LP1:09|RC1:20|BD2:10|RC1:11|PS1:09|
+Fitness: 246
+
+Encontrou um clone apos PT1M50.585S tempo
+
+de:
+Cromossomo:
+|LP1:17|TE2:12|PS1:09|LP1:09|PS1:18|
+|PS1:17|Emp:09|BD2:11|LP1:09|LP1:11|
+|BD2:13|RC1:15|Emp:10|BD2:09|LP1:17|
+|LP1:09|RC1:20|BD2:10|RC1:11|PS1:09|
+Fitness: 245
+
+
+para:
+Cromossomo:
+|LP1:17|TE2:12|PS1:09|LP1:09|PS1:18|
+|PS1:17|Emp:09|BD2:11|LP1:09|LP1:11|
+|BD2:13|RC1:15|Emp:10|BD2:09|LP1:17|
+|LP1:09|RC1:20|BD2:10|RC1:11|PS1:09|
+Fitness: 245
+
+Encontrou um clone apos PT1M50.586S tempo
+
+de:
+Cromossomo:
+|LP1:17|TE2:12|PS1:09|LP1:09|PS1:18|
+|PS1:17|Emp:09|BD2:11|LP1:09|LP1:11|
+|BD2:13|RC1:15|Emp:10|BD2:09|LP1:17|
+|LP1:09|RC1:20|BD2:10|RC1:11|PS1:09|
+Fitness: 245
+
+
+para:
+Cromossomo:
+|LP1:17|TE2:12|PS1:09|LP1:09|PS1:18|
+|PS1:17|Emp:09|BD2:11|LP1:09|LP1:11|
+|BD2:13|RC1:15|Emp:10|BD2:09|LP1:17|
+|LP1:09|RC1:20|BD2:10|RC1:11|PS1:09|
+Fitness: 245
+
+Encontrou um clone apos PT1M50.898S tempo
+
+de:
+Cromossomo:
+|LP1:17|RC1:13|PS1:09|LP1:09|PS1:18|
+|BD2:14|Emp:09|PS1:09|LP1:09|RC1:09|
+|RC1:11|RC1:15|PS1:15|TE2:13|PS1:09|
+|RC1:13|PS1:14|BD2:10|PS1:12|TE2:10|
+Fitness: 238
+
+
+para:
+Cromossomo:
+|LP1:17|RC1:13|PS1:09|LP1:09|PS1:18|
+|BD2:14|Emp:09|PS1:09|LP1:09|RC1:09|
+|RC1:11|RC1:15|PS1:15|TE2:13|PS1:09|
+|RC1:13|PS1:14|BD2:10|PS1:12|TE2:10|
+Fitness: 238
+
+Encontrou um clone apos PT1M50.9S tempo
+
+de:
+Cromossomo:
+|LP1:17|RC1:13|PS1:09|LP1:09|PS1:18|
+|BD2:14|Emp:09|PS1:09|LP1:09|RC1:09|
+|RC1:11|RC1:15|PS1:15|TE2:13|PS1:09|
+|RC1:13|PS1:14|BD2:10|PS1:12|TE2:10|
+Fitness: 238
+
+
+para:
+Cromossomo:
+|LP1:17|RC1:13|PS1:09|LP1:09|PS1:18|
+|BD2:14|Emp:09|PS1:09|LP1:09|RC1:09|
+|RC1:11|RC1:15|PS1:15|TE2:13|PS1:09|
+|RC1:13|PS1:14|BD2:10|PS1:12|TE2:10|
+Fitness: 238
+
+Encontrou um clone apos PT1M53.438S tempo
+
+de:
+Cromossomo:
+|LP1:17|RC1:13|PS1:09|LP1:09|RC1:09|
+|Emp:20|Emp:09|BD2:11|BD2:09|LP1:11|
+|RC1:11|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|RC1:20|BD2:10|LP1:18|TE2:10|
+Fitness: 237
+
+
+para:
+Cromossomo:
+|LP1:17|RC1:13|PS1:09|LP1:09|RC1:09|
+|Emp:20|Emp:09|BD2:11|BD2:09|LP1:11|
+|RC1:11|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|RC1:20|BD2:10|LP1:18|TE2:10|
+Fitness: 237
+
+Encontrou um clone apos PT1M53.439S tempo
+
+de:
+Cromossomo:
+|LP1:17|RC1:13|PS1:09|LP1:09|RC1:09|
+|Emp:20|Emp:09|BD2:11|BD2:09|LP1:11|
+|RC1:11|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|RC1:20|BD2:10|LP1:18|TE2:10|
+Fitness: 237
+
+
+para:
+Cromossomo:
+|LP1:17|RC1:13|PS1:09|LP1:09|RC1:09|
+|Emp:20|Emp:09|BD2:11|BD2:09|LP1:11|
+|RC1:11|Emp:11|Emp:10|Emp:10|PS1:09|
+|BD2:11|RC1:20|BD2:10|LP1:18|TE2:10|
+Fitness: 237
+
+Encontrou um clone apos PT1M53.644S tempo
+
+de:
+Cromossomo:
+|BD2:20|TE2:12|PS1:09|Emp:15|LP1:16|
+|BD2:14|Emp:09|BD2:11|BD2:09|LP1:11|
+|PS1:13|Emp:11|TE2:15|RC1:16|PS1:09|
+|BD2:11|TE2:20|BD2:10|TE2:15|PS1:09|
+Fitness: 255
+
+
+para:
+Cromossomo:
+|BD2:20|TE2:12|PS1:09|Emp:15|LP1:16|
+|BD2:14|Emp:09|BD2:11|BD2:09|LP1:11|
+|PS1:13|Emp:11|TE2:15|RC1:16|PS1:09|
+|BD2:11|TE2:20|BD2:10|TE2:15|PS1:09|
+Fitness: 255
+
+Encontrou um clone apos PT1M53.646S tempo
+
+de:
+Cromossomo:
+|BD2:20|TE2:12|PS1:09|Emp:15|LP1:16|
+|BD2:14|Emp:09|BD2:11|BD2:09|LP1:11|
+|PS1:13|Emp:11|TE2:15|RC1:16|PS1:09|
+|BD2:11|TE2:20|BD2:10|TE2:15|PS1:09|
+Fitness: 255
+
+
+para:
+Cromossomo:
+|BD2:20|TE2:12|PS1:09|Emp:15|LP1:16|
+|BD2:14|Emp:09|BD2:11|BD2:09|LP1:11|
+|PS1:13|Emp:11|TE2:15|RC1:16|PS1:09|
+|BD2:11|TE2:20|BD2:10|TE2:15|PS1:09|
+Fitness: 255
+
+Encontrou um clone apos PT1M58.268S tempo
+
+de:
+Cromossomo:
+|LP1:17|RC1:13|PS1:09|BD2:14|RC1:09|
+|Emp:20|Emp:09|LP1:15|BD2:09|LP1:11|
+|RC1:11|BD2:16|Emp:10|LP1:15|PS1:09|
+|BD2:11|BD2:09|TE2:17|RC1:11|PS1:09|
+Fitness: 244
+
+
+para:
+Cromossomo:
+|LP1:17|RC1:13|PS1:09|BD2:14|RC1:09|
+|Emp:20|Emp:09|LP1:15|BD2:09|LP1:11|
+|RC1:11|BD2:16|Emp:10|LP1:15|PS1:09|
+|BD2:11|BD2:09|TE2:17|RC1:11|PS1:09|
+Fitness: 244
+
+Encontrou um clone apos PT1M58.27S tempo
+
+de:
+Cromossomo:
+|LP1:17|RC1:13|PS1:09|BD2:14|RC1:09|
+|Emp:20|Emp:09|LP1:15|BD2:09|LP1:11|
+|RC1:11|BD2:16|Emp:10|LP1:15|PS1:09|
+|BD2:11|TE2:20|TE2:17|RC1:11|TE2:10|
+Fitness: 256
+
+
+para:
+Cromossomo:
+|LP1:17|RC1:13|PS1:09|BD2:14|RC1:09|
+|Emp:20|Emp:09|LP1:15|BD2:09|LP1:11|
+|RC1:11|BD2:16|Emp:10|LP1:15|PS1:09|
+|BD2:11|TE2:20|TE2:17|RC1:11|TE2:10|
+Fitness: 256
+
+Encontrou um clone apos PT1M59.571S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|TE2:20|LP1:09|LP1:16|
+|Emp:20|TE2:20|LP1:15|BD2:09|Emp:20|
+|BD2:13|LP1:12|Emp:10|Emp:10|PS1:09|
+|BD2:11|Emp:19|BD2:10|TE2:15|PS1:09|
+Fitness: 271
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|TE2:20|LP1:09|LP1:16|
+|Emp:20|TE2:20|LP1:15|BD2:09|Emp:20|
+|BD2:13|LP1:12|Emp:10|Emp:10|PS1:09|
+|BD2:11|Emp:19|BD2:10|TE2:15|PS1:09|
+Fitness: 271
+
+Encontrou um clone apos PT1M59.573S tempo
+
+de:
+Cromossomo:
+|LP1:17|PS1:14|TE2:20|Emp:15|RC1:09|
+|Emp:20|Emp:09|LP1:15|BD2:09|LP1:11|
+|LP1:09|LP1:12|PS1:15|Emp:10|TE2:16|
+|BD2:11|PS1:14|BD2:10|TE2:15|TE2:10|
+Fitness: 261
+
+
+para:
+Cromossomo:
+|LP1:17|PS1:14|TE2:20|Emp:15|RC1:09|
+|Emp:20|Emp:09|LP1:15|BD2:09|LP1:11|
+|LP1:09|LP1:12|PS1:15|Emp:10|TE2:16|
+|BD2:11|PS1:14|BD2:10|TE2:15|TE2:10|
+Fitness: 261
+
+Encontrou um clone apos PT1M59.856S tempo
+
+de:
+Cromossomo:
+|LP1:17|PS1:14|PS1:09|BD2:14|RC1:09|
+|TE2:09|TE2:20|RC1:10|BD2:09|RC1:09|
+|RC1:11|LP1:12|Emp:10|Emp:10|PS1:09|
+|PS1:14|BD2:09|BD2:10|Emp:20|PS1:09|
+Fitness: 234
+
+
+para:
+Cromossomo:
+|LP1:17|PS1:14|PS1:09|BD2:14|RC1:09|
+|TE2:09|TE2:20|RC1:10|BD2:09|RC1:09|
+|RC1:11|LP1:12|Emp:10|Emp:10|PS1:09|
+|PS1:14|BD2:09|BD2:10|Emp:20|PS1:09|
+Fitness: 234
+
+Encontrou um clone apos PT1M59.857S tempo
+
+de:
+Cromossomo:
+|LP1:17|PS1:14|TE2:20|LP1:09|RC1:09|
+|Emp:20|TE2:20|BD2:11|TE2:11|RC1:09|
+|RC1:11|LP1:12|Emp:10|BD2:09|PS1:09|
+|BD2:11|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 241
+
+
+para:
+Cromossomo:
+|LP1:17|PS1:14|TE2:20|LP1:09|RC1:09|
+|Emp:20|TE2:20|BD2:11|TE2:11|RC1:09|
+|RC1:11|LP1:12|Emp:10|BD2:09|PS1:09|
+|BD2:11|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 241
+
+Encontrou um clone apos PT2M1.737S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|BD2:14|LP1:16|
+|RC1:13|PS1:13|RC1:10|BD2:09|LP1:11|
+|RC1:11|LP1:12|Emp:10|Emp:10|PS1:09|
+|BD2:11|TE2:20|BD2:10|Emp:20|PS1:09|
+Fitness: 237
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|BD2:14|LP1:16|
+|RC1:13|PS1:13|RC1:10|BD2:09|LP1:11|
+|RC1:11|LP1:12|Emp:10|Emp:10|PS1:09|
+|BD2:11|TE2:20|BD2:10|Emp:20|PS1:09|
+Fitness: 237
+
+Encontrou um clone apos PT2M1.738S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|BD2:14|LP1:16|
+|RC1:13|PS1:13|RC1:10|BD2:09|RC1:09|
+|PS1:13|LP1:12|Emp:10|Emp:10|PS1:09|
+|BD2:11|TE2:20|BD2:10|Emp:20|PS1:09|
+Fitness: 237
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|BD2:14|LP1:16|
+|RC1:13|PS1:13|RC1:10|BD2:09|RC1:09|
+|PS1:13|LP1:12|Emp:10|Emp:10|PS1:09|
+|BD2:11|TE2:20|BD2:10|Emp:20|PS1:09|
+Fitness: 237
+
+Encontrou um clone apos PT2M7.628S tempo
+
+de:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|RC1:09|
+|PS1:17|PS1:13|LP1:15|PS1:11|RC1:09|
+|LP1:09|Emp:11|Emp:10|BD2:09|PS1:09|
+|Emp:10|TE2:20|BD2:10|RC1:11|RC1:18|
+Fitness: 233
+
+
+para:
+Cromossomo:
+|Emp:11|Emp:09|PS1:09|TE2:13|RC1:09|
+|PS1:17|PS1:13|LP1:15|PS1:11|RC1:09|
+|LP1:09|Emp:11|Emp:10|BD2:09|PS1:09|
+|Emp:10|TE2:20|BD2:10|RC1:11|RC1:18|
+Fitness: 233
+
+Encontrou um clone apos PT2M12.527S tempo
+
+de:
+Cromossomo:
+|PS1:11|BD2:19|RC1:18|PS1:11|RC1:09|
+|RC1:13|RC1:17|BD2:11|BD2:09|BD2:12|
+|LP1:09|PS1:14|Emp:10|RC1:16|PS1:09|
+|LP1:09|PS1:14|LP1:11|BD2:09|Emp:20|
+Fitness: 251
+
+
+para:
+Cromossomo:
+|PS1:11|BD2:19|RC1:18|PS1:11|RC1:09|
+|RC1:13|RC1:17|BD2:11|BD2:09|BD2:12|
+|LP1:09|PS1:14|Emp:10|RC1:16|PS1:09|
+|LP1:09|PS1:14|LP1:11|BD2:09|Emp:20|
+Fitness: 251
+
+Encontrou um clone apos PT2M12.528S tempo
+
+de:
+Cromossomo:
+|PS1:11|BD2:19|RC1:18|PS1:11|RC1:09|
+|RC1:13|RC1:17|BD2:11|BD2:09|BD2:12|
+|LP1:09|PS1:14|Emp:10|RC1:16|PS1:09|
+|LP1:09|PS1:14|LP1:11|BD2:09|Emp:20|
+Fitness: 251
+
+
+para:
+Cromossomo:
+|PS1:11|BD2:19|RC1:18|PS1:11|RC1:09|
+|RC1:13|RC1:17|BD2:11|BD2:09|BD2:12|
+|LP1:09|PS1:14|Emp:10|RC1:16|PS1:09|
+|LP1:09|PS1:14|LP1:11|BD2:09|Emp:20|
+Fitness: 251
+
+Encontrou um clone apos PT2M12.595S tempo
+
+de:
+Cromossomo:
+|BD2:20|BD2:19|BD2:16|BD2:14|RC1:09|
+|RC1:13|RC1:17|Emp:09|PS1:11|RC1:09|
+|RC1:11|PS1:14|Emp:10|Emp:10|PS1:09|
+|LP1:09|Emp:19|Emp:12|BD2:09|PS1:09|
+Fitness: 249
+
+
+para:
+Cromossomo:
+|BD2:20|BD2:19|BD2:16|BD2:14|RC1:09|
+|RC1:13|RC1:17|Emp:09|PS1:11|RC1:09|
+|RC1:11|PS1:14|Emp:10|Emp:10|PS1:09|
+|LP1:09|Emp:19|Emp:12|BD2:09|PS1:09|
+Fitness: 249
+
+Encontrou um clone apos PT2M12.729S tempo
+
+de:
+Cromossomo:
+|BD2:20|BD2:19|RC1:18|BD2:14|RC1:09|
+|RC1:13|RC1:17|BD2:11|PS1:11|PS1:18|
+|RC1:11|BD2:16|Emp:10|TE2:13|RC1:12|
+|LP1:09|Emp:19|Emp:12|BD2:09|PS1:09|
+Fitness: 270
+
+
+para:
+Cromossomo:
+|BD2:20|BD2:19|RC1:18|BD2:14|RC1:09|
+|RC1:13|RC1:17|BD2:11|PS1:11|PS1:18|
+|RC1:11|BD2:16|Emp:10|TE2:13|RC1:12|
+|LP1:09|Emp:19|Emp:12|BD2:09|PS1:09|
+Fitness: 270
+
+Encontrou um clone apos PT2M12.732S tempo
+
+de:
+Cromossomo:
+|BD2:20|BD2:19|RC1:18|BD2:14|RC1:09|
+|RC1:13|RC1:17|BD2:11|PS1:11|PS1:18|
+|RC1:11|BD2:16|Emp:10|TE2:13|RC1:12|
+|LP1:09|Emp:19|Emp:12|BD2:09|PS1:09|
+Fitness: 270
+
+
+para:
+Cromossomo:
+|BD2:20|BD2:19|RC1:18|BD2:14|RC1:09|
+|RC1:13|RC1:17|BD2:11|PS1:11|PS1:18|
+|RC1:11|BD2:16|Emp:10|TE2:13|RC1:12|
+|LP1:09|Emp:19|Emp:12|BD2:09|PS1:09|
+Fitness: 270
+
+Encontrou um clone apos PT2M13.922S tempo
+
+de:
+Cromossomo:
+|PS1:11|PS1:14|Emp:09|LP1:09|RC1:09|
+|RC1:13|RC1:17|Emp:09|BD2:09|LP1:11|
+|LP1:09|TE2:16|TE2:15|Emp:10|PS1:09|
+|LP1:09|Emp:19|Emp:12|BD2:09|PS1:09|
+Fitness: 228
+
+
+para:
+Cromossomo:
+|PS1:11|PS1:14|Emp:09|LP1:09|RC1:09|
+|RC1:13|RC1:17|Emp:09|BD2:09|LP1:11|
+|LP1:09|TE2:16|TE2:15|Emp:10|PS1:09|
+|LP1:09|Emp:19|Emp:12|BD2:09|PS1:09|
+Fitness: 228
+
+Encontrou um clone apos PT2M13.924S tempo
+
+de:
+Cromossomo:
+|LP1:17|PS1:14|Emp:09|LP1:09|RC1:09|
+|Emp:20|RC1:17|Emp:09|LP1:09|LP1:11|
+|LP1:09|TE2:16|TE2:15|Emp:10|PS1:09|
+|LP1:09|Emp:19|BD2:10|BD2:09|PS1:09|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|LP1:17|PS1:14|Emp:09|LP1:09|RC1:09|
+|Emp:20|RC1:17|Emp:09|LP1:09|LP1:11|
+|LP1:09|TE2:16|TE2:15|Emp:10|PS1:09|
+|LP1:09|Emp:19|BD2:10|BD2:09|PS1:09|
+Fitness: 239
+
+Encontrou um clone apos PT2M15.398S tempo
+
+de:
+Cromossomo:
+|LP1:17|TE2:12|Emp:09|BD2:14|BD2:11|
+|TE2:09|Emp:09|Emp:09|PS1:11|LP1:11|
+|LP1:09|TE2:16|TE2:15|Emp:10|PS1:09|
+|LP1:09|BD2:09|RC1:09|BD2:09|PS1:09|
+Fitness: 216
+
+
+para:
+Cromossomo:
+|LP1:17|TE2:12|Emp:09|BD2:14|BD2:11|
+|TE2:09|Emp:09|Emp:09|PS1:11|LP1:11|
+|LP1:09|TE2:16|TE2:15|Emp:10|PS1:09|
+|LP1:09|BD2:09|RC1:09|BD2:09|PS1:09|
+Fitness: 216
+
+Encontrou um clone apos PT2M15.4S tempo
+
+de:
+Cromossomo:
+|LP1:17|TE2:12|Emp:09|BD2:14|BD2:11|
+|TE2:09|Emp:09|Emp:09|PS1:11|LP1:11|
+|LP1:09|Emp:11|TE2:15|Emp:10|PS1:09|
+|LP1:09|BD2:09|RC1:09|BD2:09|PS1:09|
+Fitness: 211
+
+
+para:
+Cromossomo:
+|LP1:17|TE2:12|Emp:09|BD2:14|BD2:11|
+|TE2:09|Emp:09|Emp:09|PS1:11|LP1:11|
+|LP1:09|Emp:11|TE2:15|Emp:10|PS1:09|
+|LP1:09|BD2:09|RC1:09|BD2:09|PS1:09|
+Fitness: 211
+
+Encontrou um clone apos PT2M19.832S tempo
+
+de:
+Cromossomo:
+|TE2:09|PS1:14|LP1:19|LP1:09|BD2:11|
+|TE2:09|Emp:09|BD2:11|LP1:09|RC1:09|
+|LP1:09|Emp:11|PS1:15|TE2:13|PS1:09|
+|TE2:18|Emp:19|RC1:09|PS1:12|TE2:10|
+Fitness: 234
+
+
+para:
+Cromossomo:
+|TE2:09|PS1:14|LP1:19|LP1:09|BD2:11|
+|TE2:09|Emp:09|BD2:11|LP1:09|RC1:09|
+|LP1:09|Emp:11|PS1:15|TE2:13|PS1:09|
+|TE2:18|Emp:19|RC1:09|PS1:12|TE2:10|
+Fitness: 234
+
+Encontrou um clone apos PT2M19.833S tempo
+
+de:
+Cromossomo:
+|TE2:09|PS1:14|LP1:19|LP1:09|BD2:11|
+|TE2:09|Emp:09|BD2:11|LP1:09|RC1:09|
+|LP1:09|Emp:11|PS1:15|TE2:13|PS1:09|
+|TE2:18|Emp:19|RC1:09|PS1:12|TE2:10|
+Fitness: 234
+
+
+para:
+Cromossomo:
+|TE2:09|PS1:14|LP1:19|LP1:09|BD2:11|
+|TE2:09|Emp:09|BD2:11|LP1:09|RC1:09|
+|LP1:09|Emp:11|PS1:15|TE2:13|PS1:09|
+|TE2:18|Emp:19|RC1:09|PS1:12|TE2:10|
+Fitness: 234
+
+Encontrou um clone apos PT2M21.263S tempo
+
+de:
+Cromossomo:
+|BD2:20|PS1:14|PS1:09|PS1:11|BD2:11|
+|TE2:09|Emp:09|Emp:09|BD2:09|RC1:09|
+|LP1:09|LP1:12|Emp:10|TE2:13|BD2:13|
+|TE2:18|BD2:09|RC1:09|BD2:09|TE2:10|
+Fitness: 222
+
+
+para:
+Cromossomo:
+|BD2:20|PS1:14|PS1:09|PS1:11|BD2:11|
+|TE2:09|Emp:09|Emp:09|BD2:09|RC1:09|
+|LP1:09|LP1:12|Emp:10|TE2:13|BD2:13|
+|TE2:18|BD2:09|RC1:09|BD2:09|TE2:10|
+Fitness: 222
+
+Encontrou um clone apos PT2M21.265S tempo
+
+de:
+Cromossomo:
+|BD2:20|PS1:14|LP1:19|PS1:11|BD2:11|
+|TE2:09|Emp:09|Emp:09|Emp:17|RC1:09|
+|LP1:09|Emp:11|TE2:15|TE2:13|BD2:13|
+|TE2:18|TE2:20|BD2:10|BD2:09|TE2:10|
+Fitness: 256
+
+
+para:
+Cromossomo:
+|BD2:20|PS1:14|LP1:19|PS1:11|BD2:11|
+|TE2:09|Emp:09|Emp:09|Emp:17|RC1:09|
+|LP1:09|Emp:11|TE2:15|TE2:13|BD2:13|
+|TE2:18|TE2:20|BD2:10|BD2:09|TE2:10|
+Fitness: 256
+
+Encontrou um clone apos PT2M22.244S tempo
+
+de:
+Cromossomo:
+|BD2:20|Emp:09|LP1:19|LP1:09|BD2:11|
+|TE2:09|Emp:09|Emp:09|LP1:09|RC1:09|
+|BD2:13|LP1:12|RC1:09|TE2:13|RC1:12|
+|RC1:13|Emp:19|RC1:09|PS1:12|TE2:10|
+Fitness: 235
+
+
+para:
+Cromossomo:
+|BD2:20|Emp:09|LP1:19|LP1:09|BD2:11|
+|TE2:09|Emp:09|Emp:09|LP1:09|RC1:09|
+|BD2:13|LP1:12|RC1:09|TE2:13|RC1:12|
+|RC1:13|Emp:19|RC1:09|PS1:12|TE2:10|
+Fitness: 235
+
+Encontrou um clone apos PT2M22.245S tempo
+
+de:
+Cromossomo:
+|TE2:09|Emp:09|RC1:18|PS1:11|BD2:11|
+|TE2:09|Emp:09|BD2:11|Emp:17|RC1:09|
+|LP1:09|LP1:12|LP1:11|TE2:13|RC1:12|
+|RC1:13|TE2:20|RC1:09|BD2:09|TE2:10|
+Fitness: 231
+
+
+para:
+Cromossomo:
+|TE2:09|Emp:09|RC1:18|PS1:11|BD2:11|
+|TE2:09|Emp:09|BD2:11|Emp:17|RC1:09|
+|LP1:09|LP1:12|LP1:11|TE2:13|RC1:12|
+|RC1:13|TE2:20|RC1:09|BD2:09|TE2:10|
+Fitness: 231
+
+Encontrou um clone apos PT2M22.365S tempo
+
+de:
+Cromossomo:
+|BD2:20|Emp:09|RC1:18|LP1:09|BD2:11|
+|TE2:09|Emp:09|LP1:15|TE2:11|RC1:09|
+|LP1:09|LP1:12|TE2:15|TE2:13|PS1:09|
+|PS1:14|Emp:19|RC1:09|BD2:09|TE2:10|
+Fitness: 239
+
+
+para:
+Cromossomo:
+|BD2:20|Emp:09|RC1:18|LP1:09|BD2:11|
+|TE2:09|Emp:09|LP1:15|TE2:11|RC1:09|
+|LP1:09|LP1:12|TE2:15|TE2:13|PS1:09|
+|PS1:14|Emp:19|RC1:09|BD2:09|TE2:10|
+Fitness: 239
+
+Encontrou um clone apos PT2M22.366S tempo
+
+de:
+Cromossomo:
+|BD2:20|Emp:09|RC1:18|TE2:13|BD2:11|
+|TE2:09|Emp:09|Emp:09|Emp:17|RC1:09|
+|LP1:09|LP1:12|RC1:09|TE2:13|PS1:09|
+|RC1:13|TE2:20|RC1:09|BD2:09|PS1:09|
+Fitness: 236
+
+
+para:
+Cromossomo:
+|BD2:20|Emp:09|RC1:18|TE2:13|BD2:11|
+|TE2:09|Emp:09|Emp:09|Emp:17|RC1:09|
+|LP1:09|LP1:12|RC1:09|TE2:13|PS1:09|
+|RC1:13|TE2:20|RC1:09|BD2:09|PS1:09|
+Fitness: 236
+
+Encontrou um clone apos PT2M22.847S tempo
+
+de:
+Cromossomo:
+|LP1:17|Emp:09|Emp:09|RC1:15|TE2:16|
+|TE2:09|Emp:09|LP1:15|TE2:11|Emp:20|
+|TE2:16|BD2:16|RC1:09|RC1:16|BD2:13|
+|RC1:13|Emp:19|BD2:10|RC1:11|PS1:09|
+Fitness: 262
+
+
+para:
+Cromossomo:
+|LP1:17|Emp:09|Emp:09|RC1:15|TE2:16|
+|TE2:09|Emp:09|LP1:15|TE2:11|Emp:20|
+|TE2:16|BD2:16|RC1:09|RC1:16|BD2:13|
+|RC1:13|Emp:19|BD2:10|RC1:11|PS1:09|
+Fitness: 262
+
+Encontrou um clone apos PT2M22.849S tempo
+
+de:
+Cromossomo:
+|LP1:17|Emp:09|Emp:09|RC1:15|TE2:16|
+|TE2:09|Emp:09|LP1:15|TE2:11|Emp:20|
+|TE2:16|BD2:16|RC1:09|RC1:16|BD2:13|
+|RC1:13|Emp:19|BD2:10|RC1:11|PS1:09|
+Fitness: 262
+
+
+para:
+Cromossomo:
+|LP1:17|Emp:09|Emp:09|RC1:15|TE2:16|
+|TE2:09|Emp:09|LP1:15|TE2:11|Emp:20|
+|TE2:16|BD2:16|RC1:09|RC1:16|BD2:13|
+|RC1:13|Emp:19|BD2:10|RC1:11|PS1:09|
+Fitness: 262
+
+Encontrou um clone apos PT2M23.003S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|TE2:09|Emp:09|Emp:09|BD2:09|TE2:17|
+|LP1:09|LP1:12|TE2:15|TE2:13|RC1:12|
+|RC1:13|TE2:20|RC1:09|BD2:09|RC1:18|
+Fitness: 232
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|TE2:09|Emp:09|Emp:09|BD2:09|TE2:17|
+|LP1:09|LP1:12|TE2:15|TE2:13|RC1:12|
+|RC1:13|TE2:20|RC1:09|BD2:09|RC1:18|
+Fitness: 232
+
+Encontrou um clone apos PT2M23.005S tempo
+
+de:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|TE2:09|Emp:09|Emp:09|BD2:09|TE2:17|
+|LP1:09|LP1:12|TE2:15|TE2:13|RC1:12|
+|RC1:13|TE2:20|RC1:09|BD2:09|RC1:18|
+Fitness: 232
+
+
+para:
+Cromossomo:
+|PS1:11|Emp:09|Emp:09|PS1:11|RC1:09|
+|TE2:09|Emp:09|Emp:09|BD2:09|TE2:17|
+|LP1:09|LP1:12|TE2:15|TE2:13|RC1:12|
+|RC1:13|TE2:20|RC1:09|BD2:09|RC1:18|
+Fitness: 232
+
+Encontrou um clone apos PT2M25.882S tempo
+
+de:
+Cromossomo:
+|BD2:20|RC1:13|Emp:09|TE2:13|RC1:09|
+|TE2:09|RC1:17|Emp:09|LP1:09|BD2:12|
+|Emp:13|LP1:12|RC1:09|LP1:15|Emp:15|
+|RC1:13|BD2:09|TE2:17|RC1:11|PS1:09|
+Fitness: 243
+
+
+para:
+Cromossomo:
+|BD2:20|RC1:13|Emp:09|TE2:13|RC1:09|
+|TE2:09|RC1:17|Emp:09|LP1:09|BD2:12|
+|Emp:13|LP1:12|RC1:09|LP1:15|Emp:15|
+|RC1:13|BD2:09|TE2:17|RC1:11|PS1:09|
+Fitness: 243
+
+Encontrou um clone apos PT2M25.884S tempo
+
+de:
+Cromossomo:
+|BD2:20|RC1:13|Emp:09|TE2:13|RC1:09|
+|TE2:09|RC1:17|Emp:09|LP1:09|BD2:12|
+|Emp:13|LP1:12|RC1:09|LP1:15|Emp:15|
+|RC1:13|BD2:09|TE2:17|RC1:11|PS1:09|
+Fitness: 243
+
+
+para:
+Cromossomo:
+|BD2:20|RC1:13|Emp:09|TE2:13|RC1:09|
+|TE2:09|RC1:17|Emp:09|LP1:09|BD2:12|
+|Emp:13|LP1:12|RC1:09|LP1:15|Emp:15|
+|RC1:13|BD2:09|TE2:17|RC1:11|PS1:09|
+Fitness: 243
+
+Encontrou um clone apos PT2M26.076S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|LP1:19|TE2:13|RC1:09|
+|TE2:09|Emp:09|Emp:09|BD2:09|Emp:20|
+|PS1:13|BD2:16|Emp:10|RC1:16|Emp:15|
+|Emp:10|TE2:20|Emp:12|RC1:11|PS1:09|
+Fitness: 253
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|LP1:19|TE2:13|RC1:09|
+|TE2:09|Emp:09|Emp:09|BD2:09|Emp:20|
+|PS1:13|BD2:16|Emp:10|RC1:16|Emp:15|
+|Emp:10|TE2:20|Emp:12|RC1:11|PS1:09|
+Fitness: 253
+
+Encontrou um clone apos PT2M26.078S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|LP1:19|TE2:13|RC1:09|
+|TE2:09|Emp:09|Emp:09|BD2:09|Emp:20|
+|PS1:13|BD2:16|Emp:10|RC1:16|Emp:15|
+|Emp:10|TE2:20|Emp:12|RC1:11|PS1:09|
+Fitness: 253
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|LP1:19|TE2:13|RC1:09|
+|TE2:09|Emp:09|Emp:09|BD2:09|Emp:20|
+|PS1:13|BD2:16|Emp:10|RC1:16|Emp:15|
+|Emp:10|TE2:20|Emp:12|RC1:11|PS1:09|
+Fitness: 253
+
+Encontrou um clone apos PT2M27.225S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|Emp:15|LP1:16|
+|TE2:09|Emp:09|Emp:09|BD2:09|BD2:12|
+|LP1:09|Emp:11|Emp:10|BD2:09|RC1:12|
+|Emp:10|BD2:09|Emp:12|BD2:09|PS1:09|
+Fitness: 212
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|Emp:15|LP1:16|
+|TE2:09|Emp:09|Emp:09|BD2:09|BD2:12|
+|LP1:09|Emp:11|Emp:10|BD2:09|RC1:12|
+|Emp:10|BD2:09|Emp:12|BD2:09|PS1:09|
+Fitness: 212
+
+Encontrou um clone apos PT2M27.227S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|Emp:15|LP1:16|
+|TE2:09|Emp:09|Emp:09|BD2:09|TE2:17|
+|LP1:09|Emp:11|Emp:10|BD2:09|RC1:12|
+|Emp:10|BD2:09|Emp:12|BD2:09|RC1:18|
+Fitness: 226
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|Emp:15|LP1:16|
+|TE2:09|Emp:09|Emp:09|BD2:09|TE2:17|
+|LP1:09|Emp:11|Emp:10|BD2:09|RC1:12|
+|Emp:10|BD2:09|Emp:12|BD2:09|RC1:18|
+Fitness: 226
+
+Encontrou um clone apos PT2M28.049S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|Emp:15|LP1:16|
+|BD2:14|PS1:13|Emp:09|LP1:09|RC1:09|
+|BD2:13|Emp:11|Emp:10|BD2:09|LP1:17|
+|Emp:10|BD2:09|RC1:09|RC1:11|PS1:09|
+Fitness: 226
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|Emp:15|LP1:16|
+|BD2:14|PS1:13|Emp:09|LP1:09|RC1:09|
+|BD2:13|Emp:11|Emp:10|BD2:09|LP1:17|
+|Emp:10|BD2:09|RC1:09|RC1:11|PS1:09|
+Fitness: 226
+
+Encontrou um clone apos PT2M28.05S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|Emp:15|LP1:16|
+|BD2:14|PS1:13|Emp:09|BD2:09|RC1:09|
+|PS1:13|Emp:11|Emp:10|TE2:13|RC1:12|
+|Emp:10|BD2:09|Emp:12|RC1:11|PS1:09|
+Fitness: 228
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|Emp:15|LP1:16|
+|BD2:14|PS1:13|Emp:09|BD2:09|RC1:09|
+|PS1:13|Emp:11|Emp:10|TE2:13|RC1:12|
+|Emp:10|BD2:09|Emp:12|RC1:11|PS1:09|
+Fitness: 228
+
+Encontrou um clone apos PT2M28.148S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|Emp:15|LP1:16|
+|RC1:13|PS1:13|Emp:09|BD2:09|RC1:09|
+|PS1:13|Emp:11|Emp:10|BD2:09|RC1:12|
+|Emp:10|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 230
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|RC1:18|Emp:15|LP1:16|
+|RC1:13|PS1:13|Emp:09|BD2:09|RC1:09|
+|PS1:13|Emp:11|Emp:10|BD2:09|RC1:12|
+|Emp:10|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 230
+
+Encontrou um clone apos PT2M28.149S tempo
+
+de:
+Cromossomo:
+|TE2:09|RC1:13|Emp:09|Emp:15|LP1:16|
+|RC1:13|PS1:13|Emp:09|BD2:09|BD2:12|
+|PS1:13|Emp:11|Emp:10|TE2:13|LP1:17|
+|Emp:10|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 231
+
+
+para:
+Cromossomo:
+|TE2:09|RC1:13|Emp:09|Emp:15|LP1:16|
+|RC1:13|PS1:13|Emp:09|BD2:09|BD2:12|
+|PS1:13|Emp:11|Emp:10|TE2:13|LP1:17|
+|Emp:10|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 231
+
+Encontrou um clone apos PT2M28.151S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|TE2:13|LP1:16|
+|BD2:14|PS1:13|Emp:09|BD2:09|RC1:09|
+|LP1:09|Emp:11|Emp:10|BD2:09|LP1:17|
+|Emp:10|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 221
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|TE2:13|LP1:16|
+|BD2:14|PS1:13|Emp:09|BD2:09|RC1:09|
+|LP1:09|Emp:11|Emp:10|BD2:09|LP1:17|
+|Emp:10|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 221
+
+Encontrou um clone apos PT2M28.152S tempo
+
+de:
+Cromossomo:
+|TE2:09|RC1:13|Emp:09|Emp:15|LP1:16|
+|BD2:14|PS1:13|BD2:11|BD2:09|BD2:12|
+|LP1:09|Emp:11|Emp:10|BD2:09|Emp:15|
+|Emp:10|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 224
+
+
+para:
+Cromossomo:
+|TE2:09|RC1:13|Emp:09|Emp:15|LP1:16|
+|BD2:14|PS1:13|BD2:11|BD2:09|BD2:12|
+|LP1:09|Emp:11|Emp:10|BD2:09|Emp:15|
+|Emp:10|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 224
+
+Encontrou um clone apos PT2M28.352S tempo
+
+de:
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|Emp:15|Emp:14|
+|BD2:14|PS1:13|Emp:09|BD2:09|BD2:12|
+|LP1:09|Emp:11|Emp:10|BD2:09|RC1:12|
+|Emp:10|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 219
+
+
+para:
+Cromossomo:
+|PS1:11|RC1:13|Emp:09|Emp:15|Emp:14|
+|BD2:14|PS1:13|Emp:09|BD2:09|BD2:12|
+|LP1:09|Emp:11|Emp:10|BD2:09|RC1:12|
+|Emp:10|BD2:09|BD2:10|RC1:11|PS1:09|
+Fitness: 219
+
+Encontrou um clone apos PT2M29.582S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|Emp:09|Emp:15|Emp:14|
+|BD2:14|PS1:13|Emp:09|BD2:09|BD2:12|
+|LP1:09|RC1:15|Emp:10|TE2:13|LP1:17|
+|Emp:10|RC1:20|BD2:10|LP1:18|TE2:10|
+Fitness: 251
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|Emp:09|Emp:15|Emp:14|
+|BD2:14|PS1:13|Emp:09|BD2:09|BD2:12|
+|LP1:09|RC1:15|Emp:10|TE2:13|LP1:17|
+|Emp:10|RC1:20|BD2:10|LP1:18|TE2:10|
+Fitness: 251
+
+Encontrou um clone apos PT2M29.584S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|Emp:09|RC1:15|Emp:14|
+|BD2:14|PS1:13|Emp:09|LP1:09|BD2:12|
+|PS1:13|TE2:16|Emp:10|TE2:13|RC1:12|
+|Emp:10|RC1:20|LP1:11|LP1:18|TE2:10|
+Fitness: 252
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|Emp:09|RC1:15|Emp:14|
+|BD2:14|PS1:13|Emp:09|LP1:09|BD2:12|
+|PS1:13|TE2:16|Emp:10|TE2:13|RC1:12|
+|Emp:10|RC1:20|LP1:11|LP1:18|TE2:10|
+Fitness: 252
+
+Encontrou um clone apos PT2M30.477S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|RC1:18|Emp:15|Emp:14|
+|RC1:13|PS1:13|Emp:09|BD2:09|Emp:20|
+|PS1:13|RC1:15|Emp:10|BD2:09|RC1:12|
+|Emp:10|BD2:09|BD2:10|BD2:09|TE2:10|
+Fitness: 242
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|RC1:18|Emp:15|Emp:14|
+|RC1:13|PS1:13|Emp:09|BD2:09|Emp:20|
+|PS1:13|RC1:15|Emp:10|BD2:09|RC1:12|
+|Emp:10|BD2:09|BD2:10|BD2:09|TE2:10|
+Fitness: 242
+
+Encontrou um clone apos PT2M30.478S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|RC1:18|Emp:15|Emp:14|
+|RC1:13|PS1:13|Emp:09|BD2:09|Emp:20|
+|PS1:13|RC1:15|Emp:10|BD2:09|RC1:12|
+|Emp:10|BD2:09|BD2:10|BD2:09|TE2:10|
+Fitness: 242
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|RC1:18|Emp:15|Emp:14|
+|RC1:13|PS1:13|Emp:09|BD2:09|Emp:20|
+|PS1:13|RC1:15|Emp:10|BD2:09|RC1:12|
+|Emp:10|BD2:09|BD2:10|BD2:09|TE2:10|
+Fitness: 242
+
+Encontrou um clone apos PT2M30.704S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|Emp:09|BD2:14|Emp:14|
+|BD2:14|PS1:13|Emp:09|BD2:09|BD2:12|
+|Emp:13|TE2:16|Emp:10|TE2:13|RC1:12|
+|Emp:10|BD2:09|BD2:10|BD2:09|TE2:10|
+Fitness: 230
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|Emp:09|BD2:14|Emp:14|
+|BD2:14|PS1:13|Emp:09|BD2:09|BD2:12|
+|Emp:13|TE2:16|Emp:10|TE2:13|RC1:12|
+|Emp:10|BD2:09|BD2:10|BD2:09|TE2:10|
+Fitness: 230
+
+Encontrou um clone apos PT2M30.705S tempo
+
+de:
+Cromossomo:
+|Emp:11|RC1:13|Emp:09|Emp:15|Emp:14|
+|BD2:14|PS1:13|Emp:09|BD2:09|BD2:12|
+|BD2:13|RC1:15|Emp:10|TE2:13|RC1:12|
+|Emp:10|BD2:09|BD2:10|BD2:09|TE2:10|
+Fitness: 230
+
+
+para:
+Cromossomo:
+|Emp:11|RC1:13|Emp:09|Emp:15|Emp:14|
+|BD2:14|PS1:13|Emp:09|BD2:09|BD2:12|
+|BD2:13|RC1:15|Emp:10|TE2:13|RC1:12|
+|Emp:10|BD2:09|BD2:10|BD2:09|TE2:10|
+Fitness: 230
+
+Encontrou um clone apos PT2M30.946S tempo
+
+de:
+Cromossomo:
+|TE2:09|PS1:14|Emp:09|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|BD2:09|BD2:12|
+|LP1:09|RC1:15|RC1:09|TE2:13|LP1:17|
+|Emp:10|RC1:20|BD2:10|BD2:09|PS1:09|
+Fitness: 246
+
+
+para:
+Cromossomo:
+|TE2:09|PS1:14|Emp:09|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|BD2:09|BD2:12|
+|LP1:09|RC1:15|RC1:09|TE2:13|LP1:17|
+|Emp:10|RC1:20|BD2:10|BD2:09|PS1:09|
+Fitness: 246
+
+Encontrou um clone apos PT2M30.948S tempo
+
+de:
+Cromossomo:
+|TE2:09|PS1:14|LP1:19|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|BD2:09|BD2:12|
+|PS1:13|RC1:15|Emp:10|TE2:13|RC1:12|
+|Emp:10|Emp:19|PS1:15|BD2:09|TE2:10|
+Fitness: 261
+
+
+para:
+Cromossomo:
+|TE2:09|PS1:14|LP1:19|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|BD2:09|BD2:12|
+|PS1:13|RC1:15|Emp:10|TE2:13|RC1:12|
+|Emp:10|Emp:19|PS1:15|BD2:09|TE2:10|
+Fitness: 261
+
+Encontrou um clone apos PT2M31.27S tempo
+
+de:
+Cromossomo:
+|Emp:11|PS1:14|LP1:19|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|BD2:09|Emp:20|
+|LP1:09|PS1:14|Emp:10|TE2:13|Emp:15|
+|Emp:10|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 260
+
+
+para:
+Cromossomo:
+|Emp:11|PS1:14|LP1:19|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|BD2:09|Emp:20|
+|LP1:09|PS1:14|Emp:10|TE2:13|Emp:15|
+|Emp:10|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 260
+
+Encontrou um clone apos PT2M31.433S tempo
+
+de:
+Cromossomo:
+|Emp:11|PS1:14|LP1:19|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|BD2:09|Emp:20|
+|LP1:09|LP1:12|RC1:09|TE2:13|Emp:15|
+|Emp:10|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 257
+
+
+para:
+Cromossomo:
+|Emp:11|PS1:14|LP1:19|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|BD2:09|Emp:20|
+|LP1:09|LP1:12|RC1:09|TE2:13|Emp:15|
+|Emp:10|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 257
+
+Encontrou um clone apos PT2M31.434S tempo
+
+de:
+Cromossomo:
+|Emp:11|PS1:14|LP1:19|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|TE2:11|BD2:12|
+|PS1:13|PS1:14|TE2:15|TE2:13|Emp:15|
+|Emp:10|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 263
+
+
+para:
+Cromossomo:
+|Emp:11|PS1:14|LP1:19|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|TE2:11|BD2:12|
+|PS1:13|PS1:14|TE2:15|TE2:13|Emp:15|
+|Emp:10|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 263
+
+Encontrou um clone apos PT2M31.634S tempo
+
+de:
+Cromossomo:
+|Emp:11|PS1:14|LP1:19|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|TE2:11|TE2:17|
+|PS1:13|LP1:12|Emp:10|TE2:13|Emp:15|
+|Emp:10|RC1:20|BD2:10|BD2:09|TE2:10|
+Fitness: 266
+
+
+para:
+Cromossomo:
+|Emp:11|PS1:14|LP1:19|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|TE2:11|TE2:17|
+|PS1:13|LP1:12|Emp:10|TE2:13|Emp:15|
+|Emp:10|RC1:20|BD2:10|BD2:09|TE2:10|
+Fitness: 266
+
+Encontrou um clone apos PT2M31.635S tempo
+
+de:
+Cromossomo:
+|Emp:11|PS1:14|LP1:19|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|BD2:09|LP1:11|
+|LP1:09|LP1:12|Emp:10|TE2:13|Emp:15|
+|Emp:10|RC1:20|BD2:10|BD2:09|TE2:10|
+Fitness: 254
+
+
+para:
+Cromossomo:
+|Emp:11|PS1:14|LP1:19|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|BD2:09|LP1:11|
+|LP1:09|LP1:12|Emp:10|TE2:13|Emp:15|
+|Emp:10|RC1:20|BD2:10|BD2:09|TE2:10|
+Fitness: 254
+
+Encontrou um clone apos PT2M31.855S tempo
+
+de:
+Cromossomo:
+|Emp:11|PS1:14|LP1:19|BD2:14|Emp:14|
+|BD2:14|TE2:20|Emp:09|TE2:11|TE2:17|
+|LP1:09|LP1:12|Emp:10|TE2:13|LP1:17|
+|Emp:10|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 258
+
+
+para:
+Cromossomo:
+|Emp:11|PS1:14|LP1:19|BD2:14|Emp:14|
+|BD2:14|TE2:20|Emp:09|TE2:11|TE2:17|
+|LP1:09|LP1:12|Emp:10|TE2:13|LP1:17|
+|Emp:10|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 258
+
+Encontrou um clone apos PT2M31.856S tempo
+
+de:
+Cromossomo:
+|TE2:09|PS1:14|LP1:19|TE2:13|Emp:14|
+|BD2:14|TE2:20|Emp:09|TE2:11|TE2:17|
+|LP1:09|LP1:12|RC1:09|TE2:13|LP1:17|
+|Emp:10|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 254
+
+
+para:
+Cromossomo:
+|TE2:09|PS1:14|LP1:19|TE2:13|Emp:14|
+|BD2:14|TE2:20|Emp:09|TE2:11|TE2:17|
+|LP1:09|LP1:12|RC1:09|TE2:13|LP1:17|
+|Emp:10|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 254
+
+Encontrou um clone apos PT2M31.963S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|RC1:18|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|LP1:09|TE2:17|
+|LP1:09|LP1:12|RC1:09|TE2:13|LP1:17|
+|Emp:10|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 260
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|RC1:18|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|LP1:09|TE2:17|
+|LP1:09|LP1:12|RC1:09|TE2:13|LP1:17|
+|Emp:10|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 260
+
+Encontrou um clone apos PT2M31.965S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|RC1:18|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|LP1:09|TE2:17|
+|LP1:09|LP1:12|RC1:09|TE2:13|LP1:17|
+|Emp:10|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 260
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|RC1:18|Emp:15|Emp:14|
+|BD2:14|TE2:20|Emp:09|LP1:09|TE2:17|
+|LP1:09|LP1:12|RC1:09|TE2:13|LP1:17|
+|Emp:10|LP1:15|BD2:10|BD2:09|TE2:10|
+Fitness: 260
+
+Encontrou um clone apos PT2M32.412S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|RC1:18|Emp:15|Emp:14|
+|RC1:13|TE2:20|Emp:09|TE2:11|LP1:11|
+|LP1:09|LP1:12|BD2:18|TE2:13|Emp:15|
+|LP1:09|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 260
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|RC1:18|Emp:15|Emp:14|
+|RC1:13|TE2:20|Emp:09|TE2:11|LP1:11|
+|LP1:09|LP1:12|BD2:18|TE2:13|Emp:15|
+|LP1:09|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 260
+
+Encontrou um clone apos PT2M32.413S tempo
+
+de:
+Cromossomo:
+|TE2:09|BD2:19|RC1:18|Emp:15|Emp:14|
+|RC1:13|TE2:20|Emp:09|TE2:11|TE2:17|
+|LP1:09|LP1:12|BD2:18|TE2:13|Emp:15|
+|LP1:09|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 264
+
+
+para:
+Cromossomo:
+|TE2:09|BD2:19|RC1:18|Emp:15|Emp:14|
+|RC1:13|TE2:20|Emp:09|TE2:11|TE2:17|
+|LP1:09|LP1:12|BD2:18|TE2:13|Emp:15|
+|LP1:09|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 264
+
+Encontrou um clone apos PT2M32.642S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|RC1:18|TE2:13|Emp:14|
+|RC1:13|TE2:20|PS1:09|LP1:09|LP1:11|
+|LP1:09|LP1:12|RC1:09|TE2:13|Emp:15|
+|LP1:09|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 247
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|RC1:18|TE2:13|Emp:14|
+|RC1:13|TE2:20|PS1:09|LP1:09|LP1:11|
+|LP1:09|LP1:12|RC1:09|TE2:13|Emp:15|
+|LP1:09|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 247
+
+Encontrou um clone apos PT2M32.644S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|RC1:18|Emp:15|Emp:14|
+|RC1:13|TE2:20|BD2:11|TE2:11|Emp:20|
+|LP1:09|LP1:12|BD2:18|TE2:13|Emp:15|
+|LP1:09|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 271
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|RC1:18|Emp:15|Emp:14|
+|RC1:13|TE2:20|BD2:11|TE2:11|Emp:20|
+|LP1:09|LP1:12|BD2:18|TE2:13|Emp:15|
+|LP1:09|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 271
+
+Encontrou um clone apos PT2M33.285S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|RC1:18|Emp:15|Emp:14|
+|RC1:13|LP1:10|Emp:09|TE2:11|TE2:17|
+|PS1:13|LP1:12|RC1:09|TE2:13|Emp:15|
+|LP1:09|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 251
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|RC1:18|Emp:15|Emp:14|
+|RC1:13|LP1:10|Emp:09|TE2:11|TE2:17|
+|PS1:13|LP1:12|RC1:09|TE2:13|Emp:15|
+|LP1:09|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 251
+
+Encontrou um clone apos PT2M33.445S tempo
+
+de:
+Cromossomo:
+|Emp:11|LP1:17|RC1:18|Emp:15|Emp:14|
+|RC1:13|TE2:20|Emp:09|BD2:09|TE2:17|
+|LP1:09|LP1:12|RC1:09|TE2:13|Emp:15|
+|Emp:10|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 254
+
+
+para:
+Cromossomo:
+|Emp:11|LP1:17|RC1:18|Emp:15|Emp:14|
+|RC1:13|TE2:20|Emp:09|BD2:09|TE2:17|
+|LP1:09|LP1:12|RC1:09|TE2:13|Emp:15|
+|Emp:10|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 254
+
+Encontrou um clone apos PT2M33.799S tempo
+
+de:
+Cromossomo:
+|Emp:11|BD2:19|RC1:18|Emp:15|Emp:14|
+|RC1:13|TE2:20|LP1:15|BD2:09|TE2:17|
+|LP1:09|LP1:12|BD2:18|TE2:13|Emp:15|
+|LP1:09|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 270
+
+
+para:
+Cromossomo:
+|Emp:11|BD2:19|RC1:18|Emp:15|Emp:14|
+|RC1:13|TE2:20|LP1:15|BD2:09|TE2:17|
+|LP1:09|LP1:12|BD2:18|TE2:13|Emp:15|
+|LP1:09|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 270
+
+Encontrou um clone apos PT2M33.8S tempo
+
+de:
+Cromossomo:
+|Emp:11|LP1:17|RC1:18|RC1:15|Emp:14|
+|RC1:13|LP1:10|PS1:09|Emp:17|Emp:20|
+|LP1:09|LP1:12|BD2:18|TE2:13|Emp:15|
+|LP1:09|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 263
+
+
+para:
+Cromossomo:
+|Emp:11|LP1:17|RC1:18|RC1:15|Emp:14|
+|RC1:13|LP1:10|PS1:09|Emp:17|Emp:20|
+|LP1:09|LP1:12|BD2:18|TE2:13|Emp:15|
+|LP1:09|LP1:15|BD2:10|BD2:09|PS1:09|
+Fitness: 263
+
+Encontrou um clone apos PT2M46.701S tempo
+
+de:
+Cromossomo:
+|RC1:19|TE2:12|LP1:19|Emp:15|PS1:18|
+|TE2:09|BD2:16|BD2:11|BD2:09|RC1:09|
+|RC1:11|TE2:16|TE2:15|Emp:10|BD2:13|
+|Emp:10|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 250
+
+
+para:
+Cromossomo:
+|RC1:19|TE2:12|LP1:19|Emp:15|PS1:18|
+|TE2:09|BD2:16|BD2:11|BD2:09|RC1:09|
+|RC1:11|TE2:16|TE2:15|Emp:10|BD2:13|
+|Emp:10|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 250
+
+Encontrou um clone apos PT2M46.702S tempo
+
+de:
+Cromossomo:
+|RC1:19|TE2:12|LP1:19|Emp:15|PS1:18|
+|TE2:09|BD2:16|BD2:11|BD2:09|RC1:09|
+|RC1:11|TE2:16|TE2:15|Emp:10|BD2:13|
+|Emp:10|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 250
+
+
+para:
+Cromossomo:
+|RC1:19|TE2:12|LP1:19|Emp:15|PS1:18|
+|TE2:09|BD2:16|BD2:11|BD2:09|RC1:09|
+|RC1:11|TE2:16|TE2:15|Emp:10|BD2:13|
+|Emp:10|BD2:09|LP1:11|BD2:09|PS1:09|
+Fitness: 250
+
+Encontrou um clone apos PT2M48.611S tempo
+
+de:
+Cromossomo:
+|RC1:19|TE2:12|PS1:09|BD2:14|LP1:16|
+|TE2:09|BD2:16|Emp:09|LP1:09|RC1:09|
+|LP1:09|TE2:16|Emp:10|TE2:13|TE2:16|
+|Emp:10|BD2:09|BD2:10|Emp:20|Emp:20|
+Fitness: 255
+
+
+para:
+Cromossomo:
+|RC1:19|TE2:12|PS1:09|BD2:14|LP1:16|
+|TE2:09|BD2:16|Emp:09|LP1:09|RC1:09|
+|LP1:09|TE2:16|Emp:10|TE2:13|TE2:16|
+|Emp:10|BD2:09|BD2:10|Emp:20|Emp:20|
+Fitness: 255
+
+Encontrou um clone apos PT2M48.613S tempo
+
+de:
+Cromossomo:
+|RC1:19|TE2:12|PS1:09|BD2:14|LP1:16|
+|TE2:09|BD2:16|Emp:09|LP1:09|RC1:09|
+|LP1:09|TE2:16|Emp:10|TE2:13|TE2:16|
+|Emp:10|BD2:09|BD2:10|Emp:20|Emp:20|
+Fitness: 255
+
+
+para:
+Cromossomo:
+|RC1:19|TE2:12|PS1:09|BD2:14|LP1:16|
+|TE2:09|BD2:16|Emp:09|LP1:09|RC1:09|
+|LP1:09|TE2:16|Emp:10|TE2:13|TE2:16|
+|Emp:10|BD2:09|BD2:10|Emp:20|Emp:20|
+Fitness: 255
+
+Encontrou um clone apos PT2M53.117S tempo
+
+de:
+Cromossomo:
+|RC1:19|Emp:09|PS1:09|BD2:14|TE2:16|
+|PS1:17|BD2:16|Emp:09|PS1:11|LP1:11|
+|BD2:13|PS1:14|LP1:11|Emp:10|Emp:15|
+|RC1:13|LP1:15|RC1:09|RC1:11|PS1:09|
+Fitness: 251
+
+
+para:
+Cromossomo:
+|RC1:19|Emp:09|PS1:09|BD2:14|TE2:16|
+|PS1:17|BD2:16|Emp:09|PS1:11|LP1:11|
+|BD2:13|PS1:14|LP1:11|Emp:10|Emp:15|
+|RC1:13|LP1:15|RC1:09|RC1:11|PS1:09|
+Fitness: 251
+
+Encontrou um clone apos PT2M53.118S tempo
+
+de:
+Cromossomo:
+|RC1:19|Emp:09|PS1:09|BD2:14|TE2:16|
+|PS1:17|BD2:16|Emp:09|PS1:11|LP1:11|
+|BD2:13|PS1:14|LP1:11|Emp:10|Emp:15|
+|RC1:13|LP1:15|RC1:09|RC1:11|PS1:09|
+Fitness: 251
+
+
+para:
+Cromossomo:
+|RC1:19|Emp:09|PS1:09|BD2:14|TE2:16|
+|PS1:17|BD2:16|Emp:09|PS1:11|LP1:11|
+|BD2:13|PS1:14|LP1:11|Emp:10|Emp:15|
+|RC1:13|LP1:15|RC1:09|RC1:11|PS1:09|
+Fitness: 251
+
+Encontrou um clone apos PT2M58.058S tempo
+
+de:
+Cromossomo:
+|BD2:20|TE2:12|TE2:20|BD2:14|PS1:18|
+|TE2:09|PS1:13|LP1:15|Emp:17|LP1:11|
+|PS1:13|RC1:15|RC1:09|Emp:10|TE2:16|
+|BD2:11|LP1:15|LP1:11|LP1:18|BD2:16|
+Fitness: 283
+
+
+para:
+Cromossomo:
+|BD2:20|TE2:12|TE2:20|BD2:14|PS1:18|
+|TE2:09|PS1:13|LP1:15|Emp:17|LP1:11|
+|PS1:13|RC1:15|RC1:09|Emp:10|TE2:16|
+|BD2:11|LP1:15|LP1:11|LP1:18|BD2:16|
+Fitness: 283
+
+Encontrou um clone apos PT2M58.061S tempo
+
+de:
+Cromossomo:
+|BD2:20|TE2:12|TE2:20|BD2:14|PS1:18|
+|TE2:09|PS1:13|LP1:15|Emp:17|LP1:11|
+|PS1:13|RC1:15|RC1:09|Emp:10|TE2:16|
+|BD2:11|LP1:15|LP1:11|LP1:18|BD2:16|
+Fitness: 283
+
+
+para:
+Cromossomo:
+|BD2:20|TE2:12|TE2:20|BD2:14|PS1:18|
+|TE2:09|PS1:13|LP1:15|Emp:17|LP1:11|
+|PS1:13|RC1:15|RC1:09|Emp:10|TE2:16|
+|BD2:11|LP1:15|LP1:11|LP1:18|BD2:16|
+Fitness: 283
+
+
+Configuracao:
+ProbMutacao=5, nGensMutados=2,
+nParticipantes=16, populacao=500,
+maxCiclos=2000000, maximoMelhorias=100,
+tempoMax=3, fitnessAlvo=180
+
+Resumo:
+Quantidade de ciclos: 9703
+Quantidade de resultados: 0
+Quantidade de melhorias: 11
+Melhor fitness: 190
+Foram detectados 349 clones.
+Foram detectadas 972 mutacoes.
+Tempo Inicial 2018-11-26T21:46:38.094Z
+Tempo Final 2018-11-26T21:49:38.097Z
+Duracao: PT3M0.003S

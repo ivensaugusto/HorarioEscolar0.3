@@ -40,9 +40,10 @@ public class AG {
 
 		Controle.msgAtividade(inicioApos, intervalo); //
 
+		Cromossomo cromo = Selecao.torneio(lc, Principal.configuracao.getnParticipantes());
 		
-		
-		Avaliacao.checarQtdMaxDisciplinasDia(Selecao.torneio(lc, Principal.configuracao.getnParticipantes()), Principal.quadroHorario);
+		boolean[][] b = Avaliacao.checarDisciplinasSequencia(cromo, Principal.quadroHorario);
+		//System.out.println(Tools.writeMatobj(b));
 		Tools.pause();
 		
 		do {

@@ -39,8 +39,64 @@ public class Avaliacao {
 	 * @return
 	 */
 	public static boolean[][] checarDisciplinasSequencia(Cromossomo cromossomo, QuadroHorario quadroHorario) {
-		return null;
-	
+		int dias = quadroHorario.getDias();
+		int aulas = quadroHorario.getAulas();
+		boolean[][] sequencias;
+		sequencias = new boolean[dias][aulas / 2];
+		if(aulas % 2 == 0) {
+			for (int i = 0; i < dias; i++) {
+				for (int j = 0; j < aulas; j += 2) {
+					Gen aula1 = cromossomo.getSlot(j, i).getGen();
+					Gen aula2 = cromossomo.getSlot(j + 1, i).getGen();
+					if(aula1 == aula2) {
+						sequencias[i][j] = true;
+					}
+				}
+			}
+		}else {
+			for (int i = 0; i < dias; i++) {
+				for (int j = 0; j < aulas;) {
+					if(j < 3) {
+						Gen aula1 = cromossomo.getSlot(j, i).getGen();
+						Gen aula2 = cromossomo.getSlot(j + 1, i).getGen();
+						Gen aula3 = cromossomo.getSlot(j + 2, i).getGen();
+						if(aula1 == aula2 && aula2 == aula3) {
+							sequencias[i][j] = true;
+						}
+						j += 3;
+					}else {
+						Gen aula1 = cromossomo.getSlot(j, i).getGen();
+						Gen aula2 = cromossomo.getSlot(j + 1, i).getGen();
+						if(aula1 == aula2) {
+							sequencias[i][j] = true;
+						}
+						j += 2;
+					}
+				}
+			}	
+		}
+		return sequencias;
+	}
+
+	public static void penalizarPorSequencia(Cromossomo cromossomo, 
+			boolean[][] sequencias, int porcentagemPena) {
+		for (int i = 0; i < sequencias.length; i++) {
+			for (int j = 0; j < sequencias.length; j ++) {
+				if(sequencias[i][j] == false) {
+					int pesoAula = cromossomo.getSlot(j, i).getPeso();
+					int acrescimo = (pesoAula * (1 + (porcentagemPena / 100))) - pesoAula;
+					/**
+					 * Aqui entraria a parte do código que alteraria o fitness do cromossomo,
+					 * mas não deu pra fazer isso também já que o fitness não fica guardado em lugar
+					 * nenhum, assim como o peso (¬,¬').
+					 * 
+					 * Ficaria algo parecido com:
+					 * 
+					 * cromossomo.setFitness(cromossomo.getFitness + acrescimo);
+					 */
+				}
+			}
+		}
 	}
 
 	/**
@@ -64,9 +120,10 @@ public class Avaliacao {
 				}
 				if (cont > 2) {
 					System.out.println("Repete mais que duas vezes no mesmo dias!"+cont);
+					System.out.println(cromossomo);
 					return false;
 				}
-				
+
 			}
 		}
 		return true;

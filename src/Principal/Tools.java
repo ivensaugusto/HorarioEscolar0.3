@@ -703,14 +703,14 @@ public class Tools {
 	 * @param Um matriz.
 	 * @return Uma String contendo a matriz.
 	 */
-	public static String writeMat (Object[][] matriz) {
+	public static String writeMat (Object[][] b) {
 		StringBuilder sb = new StringBuilder();
-		for (int i = 0; i < matriz.length; i++) {
+		for (int i = 0; i < b.length; i++) {
 			sb.append("|");
-			for (int j = 0; j < matriz[0].length; j++) {
-				sb.append(matriz[i][j]+"|");
+			for (int j = 0; j < b[0].length; j++) {
+				sb.append(b[i][j]+"|");
 			}
-			if (i < matriz.length-1) {
+			if (i < b.length-1) {
 				sb.append("\n");
 			}
 		}
