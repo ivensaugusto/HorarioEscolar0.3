@@ -1,10 +1,11 @@
 package FasesAG;
 import java.util.Random;
+
+import Geral.Configuracao;
 import Geral.Cromossomo;
 import Geral.Slot;
 import Principal.Tools;
 import Geral.Gen;
-import Geral.QuadroHorario;
 
 public class Cruzamento {
 	/**
@@ -31,22 +32,13 @@ public class Cruzamento {
 				}
 			}
 		}
-		
 		// A avaliacao foi retirada para melhoria de desempenho, sera feita 
 		// no processo de mutacao.		
 		Cromossomo filho1 = new Cromossomo(slotsFilho1, pai1, pai2);
 		Cromossomo filho2 = new Cromossomo(slotsFilho2, pai2, pai1);
 		
-		Avaliacao.checarQtdMaxDisciplinasDia(filho1);
-		Avaliacao.checarQtdMaxDisciplinasDia(filho2);
-		
-		Avaliacao.checarDisciplinasSequencia(filho1);
-		Avaliacao.checarDisciplinasSequencia(filho2);
-		
 		Cromossomo[] filhos = new Cromossomo[] {filho1, filho2};
-		//		System.out.println("na Cruzamento:\n");
-		//		System.out.println(filho1);
-		//		System.out.println(filho2);
+		
 		return filhos ;
 	}
 	/**

@@ -2,6 +2,7 @@ package Geral;
 import java.util.ArrayList;
 import java.util.Random;
 
+import FasesAG.Avaliacao;
 import Principal.Tools;
 
 public class Cromossomo {
@@ -199,7 +200,7 @@ public class Cromossomo {
 		return s;
 	}
 
-	public ArrayList<Slot> obterSlotsDisponiveis(Slot[][] cromoAux, Boolean permiteSlotQuinzenal) {
+	public ArrayList<Slot> obterSlotsDisponiveis(Slot[][] cromoAux, boolean permiteSlotQuinzenal) {
 		ArrayList<Slot> slots = new ArrayList<Slot>();
 		Slot slot;
 		for (int i = 0; i < cromoAux.length; i++) {
@@ -235,8 +236,8 @@ public class Cromossomo {
 		return obterSlotsDisponiveis(this.gens, true).size() == 0;
 	}
 	 */ 
-	public int calculaFitness() {
-		int fitnessTotal = 0;
+	public double calculaFitness() {
+		double fitnessTotal = 0;
 		for (int i = 0; i < this.slots.length; i++) {
 			for (int j = 0; j < this.slots[0].length; j++) {
 				fitnessTotal += this.slots[i][j].getPeso();
@@ -255,11 +256,14 @@ public class Cromossomo {
 	 * @return
 	 */
 	public double getFitness() {
-		if(this.fitness == Integer.MIN_VALUE)
-	    	this.fitness = this.calculaFitness();
+		if(this.fitness == Integer.MIN_VALUE) {
+			this.fitness = this.calculaFitness();
+			Avaliacao.checarQtdMaxDisciplinasDia(this);
+			Avaliacao.checarDisciplinasSequencia(this);
+		}
 		return this.fitness;
 	}
-	
+
 	public void setFitness(double fitness) {
 		this.fitness = fitness;
 	}
@@ -271,7 +275,7 @@ public class Cromossomo {
 	public QuadroHorario getHorario() {
 		return this._horario;
 	}
-	
+
 	public String getUIDPai1() {
 		return UIDPai1;
 	}

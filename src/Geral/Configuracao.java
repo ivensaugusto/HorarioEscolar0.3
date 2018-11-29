@@ -21,9 +21,9 @@ public class Configuracao {
 		this.nParticipantes = 16;
 		this.populacao = 500;
 		this.maxCiclos = 2000000;
-		this.tempoMax = Duration.ofMinutes(3);
-		this.fitnessAlvo = 180;
-		this.maximoMelhorias = 100;
+		this.tempoMax = Duration.ofMinutes(10);
+		this.fitnessAlvo = 1010;  // 1010
+		this.maximoMelhorias = 1000;
 	}
 
 	public Configuracao(int fitnessAuxiliar, int probMutacao, int nGensMutados, 

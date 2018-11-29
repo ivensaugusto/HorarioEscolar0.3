@@ -3,10 +3,13 @@ package Principal;
 import java.time.Duration;
 import java.time.Instant;
 import java.util.ArrayList;
+import java.util.Collections;
+
 import CriteriosDeParada.*;
 import FasesAG.*;
 import Geral.Configuracao;
 import Geral.Cromossomo;
+import Geral.OrdenaPorFitness;
 import Geral.Preferencia;
 
 public class AG {
@@ -35,7 +38,7 @@ public class AG {
 
 		System.out.println("Criando populacao...");
 		lc = p.criar(lp, Principal.configuracao.getPopulacao());
-
+		
 		System.out.println("Inicio do AG em:\n" + valoresDeParada.tempoInicial);
 		Controle.msgAtividade(inicioApos, intervalo); //
 
@@ -68,24 +71,24 @@ public class AG {
 
 				//aux = null;
 				aux = p.achaMenor(lc);
-				if(aux.getFitness() < valoresDeParada.fitAtual) {
+				if(aux.getFitness() <= valoresDeParada.fitAtual) {
 					valoresDeParada.fitAtual = aux.getFitness();
 					valoresDeParada.contMelhorias++;
 					duracao = Duration.between(valoresDeParada.tempoInicial, Instant.now());
 					saidaMelhoria += concatMelhorias(aux, duracao);
-					System.out.println("Ocorreu uma melhoria " + duracao);
+					//System.out.println("Ocorreu uma melhoria " + duracao);
 				}
-
-				//Controle.msgAtividade(valoresDeParada.tempoInicial);
 			}
+
 		}while(!criterio.parar(Principal.configuracao, valoresDeParada));
 
 		System.out.print("\n");
 		Instant tempoFinal = Instant.now();
 		ArrayList<Cromossomo> nl = new ArrayList<Cromossomo>();
-		nl = Reinsercao.listaResultados(lc, valoresDeParada.fitAtual);
+		//nl = Reinsercao.listaResultados(lc, valoresDeParada.fitAtual);
 		saidaResultados += "Resultados:\n\n";
-		saidaResultados += nl.toString() + "\n\n";
+		Collections.sort(lc, new OrdenaPorFitness().reversed());
+		saidaResultados += lc.toString() + "\n\n";
 
 		String resumo = preparaResumoLog(valoresDeParada.contCiclos, nl.size(), valoresDeParada.fitAtual, contClones,
 				contMutacoes, valoresDeParada.tempoInicial, tempoFinal, valoresDeParada.contMelhorias);

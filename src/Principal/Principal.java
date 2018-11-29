@@ -44,8 +44,8 @@ public class Principal {
 				System.err.println("Opcao invalida!");
 				break;
 			}
-		}while(!fim);*/
-
+		}while(!fim);
+*/
 		System.exit(0);
 	}
 }

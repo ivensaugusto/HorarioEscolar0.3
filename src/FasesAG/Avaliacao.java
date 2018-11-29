@@ -10,6 +10,7 @@ import Geral.Gen;
 import Geral.OrdenaPorFitness;
 import Geral.QuadroHorario;
 import Geral.Slot;
+import Principal.Tools;
 
 public class Avaliacao {
 	/**
@@ -46,49 +47,69 @@ public class Avaliacao {
 		if(aulas % 2 == 0) {
 			for (int i = 0; i < dias; i++) {
 				for (int j = 0; j < aulas; j += 2) {
-					Gen aula1 = cromossomo.getSlot(j, i).getGen();
-					Gen aula2 = cromossomo.getSlot(j + 1, i).getGen();
-					if(aula1 == aula2) {
+					if(i == 2 && j == 0) {
 						sequencias[i][j] = true;
-					}
-				}
-			}
-		}else {
-			for (int i = 0; i < dias; i++) {
-				for (int j = 0; j < aulas;) {
-					if(j < 3) {
-						Gen aula1 = cromossomo.getSlot(j, i).getGen();
-						Gen aula2 = cromossomo.getSlot(j + 1, i).getGen();
-						Gen aula3 = cromossomo.getSlot(j + 2, i).getGen();
-						if(aula1 == aula2 && aula2 == aula3) {
-							sequencias[i][j] = true;
-						}
-						j += 3;
 					}else {
 						Gen aula1 = cromossomo.getSlot(j, i).getGen();
 						Gen aula2 = cromossomo.getSlot(j + 1, i).getGen();
 						if(aula1 == aula2) {
 							sequencias[i][j] = true;
 						}
-						j += 2;
+					}
+				}
+			}
+		}else {
+			for (int i = 0; i < dias; i++) {
+				for (int j = 0; j < aulas;) {
+					if(i == 2 && j == 0) {
+						sequencias[i][j] = true;
+					}else {
+						if(j < 3) {
+							Gen aula1 = cromossomo.getSlot(j, i).getGen();
+							Gen aula2 = cromossomo.getSlot(j + 1, i).getGen();
+							Gen aula3 = cromossomo.getSlot(j + 2, i).getGen();
+							if(aula1 == aula2 && aula2 == aula3) {
+								sequencias[i][j] = true;
+							}
+							j += 3;
+
+						}else {
+
+							Gen aula1 = cromossomo.getSlot(j, i).getGen();
+							Gen aula2 = cromossomo.getSlot(j + 1, i).getGen();
+							if(aula1 == aula2) {
+								sequencias[i][j] = true;
+							}
+
+							j += 2;
+						}
 					}
 				}
 			}	
 		}
-		penalizarPorSequencia(cromossomo, sequencias, 10);
+		penalizarPorSequencia(cromossomo, sequencias, 15);
 		return sequencias;
 	}
 
 	public static void penalizarPorSequencia(Cromossomo cromossomo, 
-			boolean[][] sequencias, int porcentagemPena) {
-		double fitAux = cromossomo.getFitness();
+			boolean[][] sequencias, double porcentagemPena) {
 		for (int i = 0; i < sequencias.length; i++) {
 			for (int j = 0; j < sequencias[0].length; j ++) {
 				if(sequencias[i][j] == false) {
-					cromossomo.setFitness(fitAux+(fitAux*(porcentagemPena/100)));
+					double pesoAula = cromossomo.getSlot(j, i).getPeso();
+					penalizar(cromossomo, pesoAula, porcentagemPena);
 				}
 			}
 		}
+	}
+
+	public static void penalizar(Cromossomo cromossomo, double pesoAula, double porcentagemPena) {
+		double acrescimo = (pesoAula * (porcentagemPena / 100));
+		cromossomo.setFitness(cromossomo.getFitness() + acrescimo);
+	}
+	
+	public static void marcarDefeito(Cromossomo cromossomo) {
+		cromossomo.setFitness(Configuracao.VALOR_SLOT_DEFEITUOSO);
 	}
 
 	/**
@@ -102,6 +123,7 @@ public class Avaliacao {
 		int dias = cromossomo.getHorario().getDias();
 		boolean resultado = true;
 		int cont = -1;
+		double pesoAux = 0;
 		for (int dia = 0; dia < dias; dia++) {
 			for (int aula = 0; aula < aulas; aula++) {
 				Slot aux = cromossomo.getSlot(aula, dia);
@@ -109,14 +131,12 @@ public class Avaliacao {
 				for (int i = 0; i < aulas; i++) {
 					if (aux.getGen().UID().equals(cromossomo.getSlot(aula, dia).getGen().UID())) {
 						cont++;
+						pesoAux += cromossomo.getSlot(aula, dia).getPeso();
 					}
 				}
 				if (cont > 2) {
-//					System.out.println("Repete mais que duas vezes no mesmo dias!"+cont);
-//					System.out.println(cromossomo);
-					cromossomo.setFitness(Configuracao.VALOR_SLOT_DEFEITUOSO);
+					penalizar(cromossomo, pesoAux, 10);
 					resultado =  false;
-					return resultado;
 				}
 			}
 		}

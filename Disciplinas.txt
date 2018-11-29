@@ -4,9 +4,4 @@ BD2,Maycon Guedes,4,60
 PS1,Bruno Clement,4,60
 Emp,Ronaldo Rasse,4,60
 TE2,Maycon Guedes,6,30
-Coco,cu,1,20
-ww,ww,ww,1
-1,1,1,1
-1,1,1,1
-1,1,1,1
-1,1,1,1
+ELI,Milson nao se,4,30
