@@ -67,7 +67,7 @@ public class Reinsercao {
 		return pai;
 	}
 
-	public static ArrayList<Cromossomo> listaResultados(ArrayList<Cromossomo> lc, int limite) {
+	public static ArrayList<Cromossomo> listaResultados(ArrayList<Cromossomo> lc, double limite) {
 		ArrayList<Cromossomo> nl = new ArrayList<Cromossomo>();
 		for (Cromossomo cromossomo : lc) {
 			if (cromossomo.getFitness() <= limite){

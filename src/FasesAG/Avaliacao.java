@@ -18,7 +18,7 @@ public class Avaliacao {
 	 * @param cromossomo
 	 * @return
 	 */
-	public static int Gens(Cromossomo cromossomo) {
+	public static double Gens(Cromossomo cromossomo) {
 		return cromossomo.getFitness();
 	}
 
@@ -38,9 +38,9 @@ public class Avaliacao {
 	 * @param cromossomo
 	 * @return
 	 */
-	public static boolean[][] checarDisciplinasSequencia(Cromossomo cromossomo, QuadroHorario quadroHorario) {
-		int dias = quadroHorario.getDias();
-		int aulas = quadroHorario.getAulas();
+	public static boolean[][] checarDisciplinasSequencia(Cromossomo cromossomo) {
+		int aulas = cromossomo.getHorario().getAulas();
+		int dias = cromossomo.getHorario().getDias();
 		boolean[][] sequencias;
 		sequencias = new boolean[dias][aulas / 2];
 		if(aulas % 2 == 0) {
@@ -75,25 +75,17 @@ public class Avaliacao {
 				}
 			}	
 		}
+		penalizarPorSequencia(cromossomo, sequencias, 10);
 		return sequencias;
 	}
 
 	public static void penalizarPorSequencia(Cromossomo cromossomo, 
 			boolean[][] sequencias, int porcentagemPena) {
+		double fitAux = cromossomo.getFitness();
 		for (int i = 0; i < sequencias.length; i++) {
-			for (int j = 0; j < sequencias.length; j ++) {
+			for (int j = 0; j < sequencias[0].length; j ++) {
 				if(sequencias[i][j] == false) {
-					int pesoAula = cromossomo.getSlot(j, i).getPeso();
-					int acrescimo = (pesoAula * (1 + (porcentagemPena / 100))) - pesoAula;
-					/**
-					 * Aqui entraria a parte do código que alteraria o fitness do cromossomo,
-					 * mas não deu pra fazer isso também já que o fitness não fica guardado em lugar
-					 * nenhum, assim como o peso (¬,¬').
-					 * 
-					 * Ficaria algo parecido com:
-					 * 
-					 * cromossomo.setFitness(cromossomo.getFitness + acrescimo);
-					 */
+					cromossomo.setFitness(fitAux+(fitAux*(porcentagemPena/100)));
 				}
 			}
 		}
@@ -101,13 +93,14 @@ public class Avaliacao {
 
 	/**
 	 * TODO Este metodo sera implementado caso a grade de horarios NAO permita
-	 * que a disciplina tenha mais do que X aulas em um mesmo dia
-	 * @param cromossomo
-	 * @return
+	 * que a disciplina tenha mais do que X aulas em um mesmo dia.
+	 * @param cromossomo, QuadroHorario
+	 * @return false caso exista mais que uma repetição no mesmo dia. 
 	 */
-	public static boolean checarQtdMaxDisciplinasDia(Cromossomo cromossomo, QuadroHorario quadroHorario) {
-		int dias = quadroHorario.getDias();
-		int aulas = quadroHorario.getAulas();
+	public static boolean checarQtdMaxDisciplinasDia(Cromossomo cromossomo) {
+		int aulas = cromossomo.getHorario().getAulas();
+		int dias = cromossomo.getHorario().getDias();
+		boolean resultado = true;
 		int cont = -1;
 		for (int dia = 0; dia < dias; dia++) {
 			for (int aula = 0; aula < aulas; aula++) {
@@ -119,14 +112,15 @@ public class Avaliacao {
 					}
 				}
 				if (cont > 2) {
-					System.out.println("Repete mais que duas vezes no mesmo dias!"+cont);
-					System.out.println(cromossomo);
-					return false;
+//					System.out.println("Repete mais que duas vezes no mesmo dias!"+cont);
+//					System.out.println(cromossomo);
+					cromossomo.setFitness(Configuracao.VALOR_SLOT_DEFEITUOSO);
+					resultado =  false;
+					return resultado;
 				}
-
 			}
 		}
-		return true;
+		return resultado;
 	}
 
 	/***

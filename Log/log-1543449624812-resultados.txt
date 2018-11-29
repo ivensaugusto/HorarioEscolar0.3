@@ -1,0 +1,28 @@
+Resultados:
+
+[Cromossomo:
+|LP1:17|LP1:17|PS1:09|Emp:15|PS1:18|
+|TE2:09|PS1:13|TE2:16|BD2:09|PS1:18|
+|Emp:13|TE2:16|BD2:18|LP1:15|RC1:12|
+|TE2:18|BD2:09|RC1:09|BD2:09|Emp:20|
+Fitness: 208.0
+
+]
+
+
+Configuracao:
+ProbMutacao=5, nGensMutados=2,
+nParticipantes=16, populacao=500,
+maxCiclos=2000000, maximoMelhorias=100,
+tempoMax=3, fitnessAlvo=180
+
+Resumo:
+Quantidade de ciclos: 15384
+Quantidade de resultados: 1
+Quantidade de melhorias: 3
+Melhor fitness: 208.0
+Foram detectados 338 clones.
+Foram detectadas 1518 mutacoes.
+Tempo Inicial 2018-11-28T23:57:24.701Z
+Tempo Final 2018-11-29T00:00:24.708Z
+Duracao: PT3M0.007S

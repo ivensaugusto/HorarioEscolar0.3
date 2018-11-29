@@ -37,15 +37,8 @@ public class AG {
 		lc = p.criar(lp, Principal.configuracao.getPopulacao());
 
 		System.out.println("Inicio do AG em:\n" + valoresDeParada.tempoInicial);
-
 		Controle.msgAtividade(inicioApos, intervalo); //
 
-		Cromossomo cromo = Selecao.torneio(lc, Principal.configuracao.getnParticipantes());
-		
-		boolean[][] b = Avaliacao.checarDisciplinasSequencia(cromo, Principal.quadroHorario);
-		//System.out.println(Tools.writeMatobj(b));
-		Tools.pause();
-		
 		do {
 			valoresDeParada.contCiclos++;
 			Cromossomo pai1 = Selecao.torneio(lc, Principal.configuracao.getnParticipantes());
@@ -115,7 +108,7 @@ public class AG {
 		Controle.salvar(nome, conteudo);
 	}
 
-	public static String preparaResumoLog(int contCiclos, int qntResultados, int melhorFitness, int contClones,
+	public static String preparaResumoLog(int contCiclos, int qntResultados, double melhorFitness, int contClones,
 			int contMutacoes, Instant tempoInicial, Instant tempoFinal, int contMelhorias) {
 		Duration duracao = Duration.between(tempoInicial, tempoFinal);		
 		String resumo = "\n" + Principal.configuracao + "\n";

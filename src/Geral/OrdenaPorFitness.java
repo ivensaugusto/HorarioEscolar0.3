@@ -6,7 +6,7 @@ public final class OrdenaPorFitness implements Comparator<Cromossomo>{
 	@Override
 	public int compare(Cromossomo a, Cromossomo b) 
     { 
-        return (a.getFitness() - b.getFitness()); 
+        return ((int)a.getFitness() - (int)b.getFitness()); 
     } 
 	
 	

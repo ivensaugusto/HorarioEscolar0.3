@@ -9,9 +9,10 @@ public class Cromossomo {
 	private String label;
 	private ArrayList<Preferencia> _preferencias;
 	private QuadroHorario _horario;
-	private int fitness = Integer.MIN_VALUE;
+	private double fitness = Integer.MIN_VALUE;
 	private String UIDPai1 = null;
 	private String UIDPai2 = null;
+
 
 	public Cromossomo(ArrayList<Preferencia> preferencias, QuadroHorario horario) {
 		this._preferencias = preferencias;
@@ -253,10 +254,14 @@ public class Cromossomo {
 	 * calculado.
 	 * @return
 	 */
-	public int getFitness() {
-		//if(this.fitness == Integer.MIN_VALUE)
-		this.fitness = this.calculaFitness();
+	public double getFitness() {
+		if(this.fitness == Integer.MIN_VALUE)
+	    	this.fitness = this.calculaFitness();
 		return this.fitness;
+	}
+	
+	public void setFitness(double fitness) {
+		this.fitness = fitness;
 	}
 
 	public String getLabel() {
